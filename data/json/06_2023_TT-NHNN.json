@@ -1,0 +1,1808 @@
+[
+  {
+    "id": "06_2023_TT-NHNN__D1__K1",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung điểm c khoản 6 và bổ sung khoản 12 Điều 2 như sau: a) Sửa đổi, bổ sung điểm c khoản 6 như sau: “c) Phương án, dự án thực hiện hoạt động kinh doanh hoặc phương án, dự án phục vụ nhu cầu đời sống để mua nhà ở; xây dựng, cải tạo nhà ở; nhận chuyển nhượng quyền sử dụng đất để xây nhà ở.”. b) Bổ sung khoản 12 như sau: “12. Cho vay bù đắp tài chính là việc tổ chức tín dụng cho khách hàng vay để bù đắp các chi phí đã thanh toán, chi trả bằng vốn của chính khách hàng, vốn vay từ cá nhân, tổ chức (không phải tổ chức tín dụng) nhằm thực hiện phương án, dự án hoạt động kinh doanh hoặc phương án, dự án phục vụ nhu cầu đời sống.”.",
+    "summary": "Khoản này sửa đổi điểm c khoản 6 Điều 2 của Thông tư 39/2016/TT-NHNN về mục đích vay vốn để mua, xây dựng, cải tạo nhà ở hoặc nhận chuyển nhượng quyền sử dụng đất để xây nhà ở. Đồng thời, bổ sung khoản 12 Điều 2 định nghĩa \"Cho vay bù đắp tài chính\" là việc TCTD cho khách hàng vay để bù đắp các chi phí đã thanh toán bằng vốn tự có hoặc vốn vay từ nguồn khác không phải TCTD, nhằm thực hiện phương án kinh doanh hoặc nhu cầu đời sống.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [],
+      "actions": [
+        "Sửa đổi, bổ sung điểm c khoản 6 Điều 2",
+        "Bổ sung khoản 12 Điều 2",
+        "Định nghĩa cho vay bù đắp tài chính"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng",
+      "cá nhân",
+      "tổ chức"
+    ],
+    "references": [
+      "Điều 2"
+    ],
+    "keywords": [
+      "cho vay bù đắp tài chính",
+      "phương án kinh doanh",
+      "nhu cầu đời sống",
+      "mua nhà ở",
+      "xây dựng nhà ở",
+      "cải tạo nhà ở",
+      "quyền sử dụng đất",
+      "chi phí đã thanh toán"
+    ],
+    "tags": [
+      "định_nghĩa",
+      "cho_vay",
+      "mục_đích_vay",
+      "sửa_đổi_quy_định"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề định nghĩa và sửa đổi quy định vì nó giải thích rõ ràng khái niệm \"cho vay bù đắp tài chính\" và mở rộng các mục đích vay vốn liên quan đến nhà ở."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K2",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 2
+    },
+    "input_text": "Sửa đổi, bổ sung Điều 8 như sau: “Điều 8. Những nhu cầu vốn không được cho vay Tổ chức tín dụng không được cho vay đối với các nhu cầu vốn:",
+    "summary": "Khoản này sửa đổi, bổ sung Điều 8 của Thông tư số 39/2016/TT-NHNN, quy định về những nhu cầu vốn mà tổ chức tín dụng không được phép cho vay.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "không được",
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "Sửa đổi, bổ sung Điều 8",
+        "Quy định nhu cầu vốn không được cho vay"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng"
+    ],
+    "references": [
+      "Điều 8"
+    ],
+    "keywords": [
+      "nhu cầu vốn",
+      "không được cho vay",
+      "sửa đổi điều 8",
+      "tổ chức tín dụng"
+    ],
+    "tags": [
+      "cấm_cho_vay",
+      "quy_định_chung",
+      "sửa_đổi_quy_định"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề cấm cho vay vì nó thiết lập nguyên tắc chung về các trường hợp tổ chức tín dụng không được cấp tín dụng."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K1_2",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 1
+    },
+    "input_text": "Để thực hiện các hoạt động đầu tư kinh doanh thuộc ngành, nghề cấm đầu tư kinh doanh theo quy định của Luật Đầu tư.",
+    "summary": "Tổ chức tín dụng không được cho vay đối với nhu cầu vốn để thực hiện các hoạt động đầu tư kinh doanh thuộc ngành, nghề bị cấm theo quy định của Luật Đầu tư.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "cấm"
+      ],
+      "triggers": [
+        "Nhu cầu vốn để thực hiện hoạt động đầu tư kinh doanh",
+        "Hoạt động đầu tư kinh doanh thuộc ngành, nghề cấm đầu tư kinh doanh theo Luật Đầu tư"
+      ],
+      "actions": []
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "hoạt động đầu tư kinh doanh",
+      "ngành nghề cấm",
+      "Luật Đầu tư",
+      "nhu cầu vốn"
+    ],
+    "tags": [
+      "cấm_cho_vay",
+      "đầu_tư_kinh_doanh",
+      "quy_định_pháp_luật"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề cấm cho vay vì nó liệt kê một trường hợp cụ thể mà tổ chức tín dụng bị cấm cấp tín dụng."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K2_2",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 2
+    },
+    "input_text": "Để thanh toán các chi phí, đáp ứng các nhu cầu tài chính của hoạt động đầu tư kinh doanh thuộc ngành, nghề cấm đầu tư kinh doanh theo quy định của Luật Đầu tư và các giao dịch, hành vi khác mà pháp luật cấm.",
+    "summary": "Tổ chức tín dụng không được cho vay đối với nhu cầu vốn để thanh toán chi phí hoặc đáp ứng nhu cầu tài chính cho hoạt động đầu tư kinh doanh thuộc ngành, nghề bị cấm theo Luật Đầu tư, cũng như các giao dịch, hành vi khác mà pháp luật cấm.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "cấm"
+      ],
+      "triggers": [
+        "Nhu cầu vốn để thanh toán chi phí hoặc đáp ứng nhu cầu tài chính",
+        "Hoạt động đầu tư kinh doanh thuộc ngành, nghề cấm theo Luật Đầu tư",
+        "Giao dịch, hành vi khác mà pháp luật cấm"
+      ],
+      "actions": []
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "chi phí",
+      "nhu cầu tài chính",
+      "hoạt động đầu tư kinh doanh",
+      "ngành nghề cấm",
+      "Luật Đầu tư",
+      "pháp luật cấm"
+    ],
+    "tags": [
+      "cấm_cho_vay",
+      "đầu_tư_kinh_doanh",
+      "quy_định_pháp_luật"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề cấm cho vay vì nó mở rộng các trường hợp bị cấm cấp tín dụng liên quan đến các hoạt động và giao dịch bị pháp luật cấm."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K3",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 3
+    },
+    "input_text": "Để mua, sử dụng các hàng hóa, dịch vụ thuộc ngành, nghề cấm đầu tư kinh doanh theo quy định của Luật Đầu tư.",
+    "summary": "Tổ chức tín dụng không được cho vay đối với nhu cầu vốn để mua hoặc sử dụng các hàng hóa, dịch vụ thuộc ngành, nghề bị cấm đầu tư kinh doanh theo quy định của Luật Đầu tư.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "cấm"
+      ],
+      "triggers": [
+        "Nhu cầu vốn để mua hoặc sử dụng hàng hóa, dịch vụ",
+        "Hàng hóa, dịch vụ thuộc ngành, nghề cấm đầu tư kinh doanh theo Luật Đầu tư"
+      ],
+      "actions": []
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "mua hàng hóa",
+      "sử dụng dịch vụ",
+      "ngành nghề cấm",
+      "Luật Đầu tư",
+      "nhu cầu vốn"
+    ],
+    "tags": [
+      "cấm_cho_vay",
+      "hàng_hóa_dịch_vụ",
+      "đầu_tư_kinh_doanh"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề cấm cho vay vì nó quy định một mục đích cụ thể khác mà tổ chức tín dụng không được cấp tín dụng."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K4",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 4
+    },
+    "input_text": "Để mua vàng miếng.",
+    "summary": "Tổ chức tín dụng không được cho vay đối với nhu cầu vốn để mua vàng miếng.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [],
+      "triggers": [
+        "Nhu cầu vốn để mua vàng miếng"
+      ],
+      "actions": []
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "mua vàng miếng",
+      "vàng miếng",
+      "nhu cầu vốn"
+    ],
+    "tags": [
+      "cấm_cho_vay",
+      "vàng",
+      "tài_sản"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề cấm cho vay vì nó liệt kê một mục đích cụ thể mà tổ chức tín dụng không được cấp tín dụng."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K5",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 5
+    },
+    "input_text": "Để trả nợ khoản cấp tín dụng tại chính tổ chức tín dụng cho vay, trừ trường hợp cho vay để thanh toán lãi tiền vay phát sinh trong quá trình thi công xây dựng công trình, mà chi phí lãi tiền vay được tính trong tổng mức đầu tư xây dựng được cấp có thẩm quyền phê duyệt theo quy định của pháp luật.",
+    "summary": "Tổ chức tín dụng không được cho vay để khách hàng trả nợ khoản cấp tín dụng tại chính tổ chức đó, ngoại trừ trường hợp cho vay để thanh toán lãi tiền vay phát sinh trong quá trình thi công xây dựng công trình, với điều kiện chi phí lãi tiền vay này được tính trong tổng mức đầu tư xây dựng đã được phê duyệt.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "Nhu cầu vốn để trả nợ khoản cấp tín dụng tại chính TCTD cho vay",
+        "Cho vay để thanh toán lãi tiền vay phát sinh trong quá trình thi công xây dựng công trình",
+        "Chi phí lãi tiền vay được tính trong tổng mức đầu tư xây dựng được cấp có thẩm quyền phê duyệt"
+      ],
+      "actions": []
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "trả nợ",
+      "cấp tín dụng",
+      "lãi tiền vay",
+      "thi công xây dựng",
+      "tổng mức đầu tư",
+      "phê duyệt"
+    ],
+    "tags": [
+      "cấm_cho_vay",
+      "ngoại_lệ",
+      "trả_nợ",
+      "xây_dựng"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề cấm cho vay với ngoại lệ vì nó quy định một trường hợp không được cho vay nhưng đồng thời đưa ra một điều kiện cụ thể để được phép cho vay."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K6",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 6
+    },
+    "input_text": "Để trả nợ khoản vay nước ngoài (không bao gồm khoản vay nước ngoài dưới hình thức mua bán hàng hóa trả chậm), khoản cấp tín dụng tại tổ chức tín dụng khác, trừ trường hợp cho vay để trả nợ trước hạn khoản vay đáp ứng đầy đủ các điều kiện sau: a) Thời hạn cho vay không vượt quá thời hạn cho vay còn lại của khoản vay cũ; b) Là khoản vay chưa thực hiện cơ cấu lại thời hạn trả nợ.",
+    "summary": "Tổ chức tín dụng không được cho vay để khách hàng trả nợ khoản vay nước ngoài (trừ mua bán hàng hóa trả chậm) hoặc khoản cấp tín dụng tại tổ chức tín dụng khác. Tuy nhiên, có thể cho vay để trả nợ trước hạn khoản vay nếu đáp ứng hai điều kiện: thời hạn cho vay mới không vượt quá thời hạn còn lại của khoản vay cũ và khoản vay cũ chưa được cơ cấu lại thời hạn trả nợ.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [],
+      "triggers": [
+        "Nhu cầu vốn để trả nợ khoản vay nước ngoài (không bao gồm mua bán hàng hóa trả chậm)",
+        "Nhu cầu vốn để trả nợ khoản cấp tín dụng tại tổ chức tín dụng khác",
+        "Cho vay để trả nợ trước hạn khoản vay",
+        "Thời hạn cho vay không vượt quá thời hạn cho vay còn lại của khoản vay cũ",
+        "Khoản vay chưa thực hiện cơ cấu lại thời hạn trả nợ"
+      ],
+      "actions": []
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng",
+      "tổ chức tín dụng khác"
+    ],
+    "references": [],
+    "keywords": [
+      "trả nợ",
+      "khoản vay nước ngoài",
+      "cấp tín dụng",
+      "trả nợ trước hạn",
+      "thời hạn cho vay",
+      "cơ cấu lại thời hạn trả nợ"
+    ],
+    "tags": [
+      "cấm_cho_vay",
+      "ngoại_lệ",
+      "trả_nợ",
+      "vay_nước_ngoài",
+      "cơ_cấu_nợ"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề cấm cho vay với ngoại lệ vì nó quy định một trường hợp không được cho vay nhưng đồng thời đưa ra các điều kiện cụ thể để được phép cho vay trả nợ trước hạn."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K7",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 7
+    },
+    "input_text": "Để gửi tiền.",
+    "summary": "Khoản này quy định về mục đích sử dụng vốn vay là để gửi tiền.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "gửi tiền"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "gửi tiền",
+      "mục đích vay"
+    ],
+    "tags": [
+      "mục_đích_vay",
+      "cho_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này mô tả một mục đích cụ thể liên quan đến việc sử dụng vốn vay, do đó thuộc nhóm chủ đề mục đích vay và cho vay."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K8",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 8
+    },
+    "input_text": "Để thanh toán tiền góp vốn, mua, nhận chuyển nhượng phần vốn góp của công ty trách nhiệm hữu hạn, công ty hợp danh; góp vốn, mua, nhận chuyển nhượng cổ phần của công ty cổ phần chưa niêm yết trên thị trường chứng khoán hoặc chưa đăng ký giao dịch trên hệ thống giao dịch Upcom.",
+    "summary": "Khoản này quy định về mục đích sử dụng vốn vay để thanh toán tiền góp vốn, mua hoặc nhận chuyển nhượng phần vốn góp của công ty TNHH, công ty hợp danh, hoặc cổ phần của công ty cổ phần chưa niêm yết/đăng ký giao dịch trên Upcom.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "thanh toán tiền góp vốn",
+        "mua phần vốn góp",
+        "nhận chuyển nhượng phần vốn góp",
+        "góp vốn cổ phần",
+        "mua cổ phần",
+        "nhận chuyển nhượng cổ phần"
+      ]
+    },
+    "doi_tuong": [
+      "công ty trách nhiệm hữu hạn",
+      "công ty hợp danh",
+      "công ty cổ phần"
+    ],
+    "references": [],
+    "keywords": [
+      "góp vốn",
+      "chuyển nhượng",
+      "cổ phần",
+      "vốn góp",
+      "công ty",
+      "chứng khoán",
+      "Upcom"
+    ],
+    "tags": [
+      "mục_đích_vay",
+      "cho_vay",
+      "góp_vốn"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này liệt kê các mục đích cụ thể liên quan đến việc sử dụng vốn vay cho các hoạt động góp vốn, mua bán cổ phần/vốn góp, thuộc nhóm chủ đề mục đích vay và cho vay."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K9",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 9
+    },
+    "input_text": "Để thanh toán tiền góp vốn theo hợp đồng góp vốn, hợp đồng hợp tác đầu tư hoặc hợp đồng hợp tác kinh doanh để thực hiện dự án đầu tư không đủ điều kiện đưa vào kinh doanh theo quy định của pháp luật tại thời điểm tổ chức tín dụng quyết định cho vay.",
+    "summary": "Khoản này quy định mục đích sử dụng vốn vay để thanh toán tiền góp vốn theo hợp đồng góp vốn, hợp tác đầu tư hoặc hợp tác kinh doanh cho các dự án đầu tư không đủ điều kiện kinh doanh tại thời điểm TCTD quyết định cho vay.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [],
+      "triggers": [
+        "dự án đầu tư không đủ điều kiện đưa vào kinh doanh theo quy định của pháp luật tại thời điểm tổ chức tín dụng quyết định cho vay"
+      ],
+      "actions": [
+        "thanh toán tiền góp vốn"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng"
+    ],
+    "references": [],
+    "keywords": [
+      "góp vốn",
+      "hợp tác đầu tư",
+      "hợp tác kinh doanh",
+      "dự án đầu tư",
+      "điều kiện kinh doanh",
+      "tổ chức tín dụng"
+    ],
+    "tags": [
+      "mục_đích_vay",
+      "cho_vay",
+      "dự_án_đầu_tư"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này xác định một mục đích vay vốn cụ thể liên quan đến dự án đầu tư và các điều kiện pháp lý, thuộc nhóm chủ đề mục đích vay và cho vay."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K10",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 10
+    },
+    "input_text": "Để bù đắp tài chính, trừ trường hợp khoản vay đáp ứng đầy đủ các điều kiện sau: a) Khách hàng đã ứng vốn của chính khách hàng để thanh toán, chi trả chi phí thực hiện dự án hoạt động kinh doanh, mà các chi phí thực hiện dự án hoạt động kinh doanh này phát sinh dưới 12 tháng tính đến thời điểm tổ chức tín dụng quyết định cho vay; b) Các chi phí đã thanh toán, chi trả bằng vốn của chính khách hàng nhằm thực hiện dự án hoạt động kinh doanh là các chi phí có sử dụng nguồn vốn vay của tổ chức tín dụng theo phương án sử dụng vốn đã gửi tổ chức tín dụng để được xem xét cho vay trung, dài hạn nhằm thực hiện dự án hoạt động kinh doanh đó.”.",
+    "summary": "Khoản này quy định việc sử dụng vốn vay để bù đắp tài chính là không được phép, trừ khi khoản vay đáp ứng đồng thời hai điều kiện: khách hàng đã ứng vốn tự có để thanh toán chi phí dự án/hoạt động kinh doanh phát sinh dưới 12 tháng tính đến thời điểm TCTD quyết định cho vay, và các chi phí này thuộc phương án sử dụng vốn đã gửi TCTD để được xem xét cho vay trung, dài hạn.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "khoản vay đáp ứng đầy đủ các điều kiện sau: a) Khách hàng đã ứng vốn của chính khách hàng để thanh toán, chi trả chi phí thực hiện dự án hoạt động kinh doanh, mà các chi phí thực hiện dự án hoạt động kinh doanh này phát sinh dưới 12 tháng tính đến thời điểm tổ chức tín dụng quyết định cho vay; b) Các chi phí đã thanh toán, chi trả bằng vốn của chính khách hàng nhằm thực hiện dự án hoạt động kinh doanh là các chi phí có sử dụng nguồn vốn vay của tổ chức tín dụng theo phương án sử dụng vốn đã gửi tổ chức tín dụng để được xem xét cho vay trung, dài hạn nhằm thực hiện dự án hoạt động kinh doanh đó"
+      ],
+      "actions": [
+        "bù đắp tài chính"
+      ]
+    },
+    "doi_tuong": [
+      "khách hàng",
+      "tổ chức tín dụng"
+    ],
+    "references": [],
+    "keywords": [
+      "bù đắp tài chính",
+      "chi phí",
+      "dự án kinh doanh",
+      "phương án sử dụng vốn",
+      "cho vay trung dài hạn",
+      "điều kiện cho vay"
+    ],
+    "tags": [
+      "mục_đích_vay",
+      "cho_vay",
+      "điều_kiện_vay",
+      "quản_lý_rủi_ro"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định một mục đích vay vốn cụ thể (bù đắp tài chính) và các điều kiện ngoại lệ để được phép, liên quan đến quản lý rủi ro và điều kiện cho vay."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K3_2",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 3
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 2 Điều 11 như sau: “2. Đồng tiền trả nợ là đồng tiền cho vay của khoản vay. Trường hợp trả nợ bằng đồng tiền khác, thì thực hiện theo thỏa thuận giữa tổ chức tín dụng và khách hàng phù hợp với quy định của pháp luật liên quan.”.",
+    "summary": "Khoản này sửa đổi khoản 2 Điều 11, quy định đồng tiền trả nợ phải là đồng tiền cho vay của khoản vay, trừ trường hợp có thỏa thuận khác giữa TCTD và khách hàng phù hợp với pháp luật liên quan.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [],
+      "triggers": [
+        "trả nợ bằng đồng tiền khác"
+      ],
+      "actions": [
+        "thực hiện theo thỏa thuận giữa tổ chức tín dụng và khách hàng"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [
+      "Điều 11"
+    ],
+    "keywords": [
+      "đồng tiền trả nợ",
+      "đồng tiền cho vay",
+      "thỏa thuận",
+      "pháp luật liên quan"
+    ],
+    "tags": [
+      "trả_nợ",
+      "đồng_tiền",
+      "thỏa_thuận_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định về loại tiền tệ được sử dụng để trả nợ và các trường hợp ngoại lệ, thuộc nhóm chủ đề trả nợ và thỏa thuận vay."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K4_2",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 4
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 2 Điều 13 như sau: “2. Trường hợp khách hàng được tổ chức tín dụng đánh giá là có tình hình tài chính minh bạch, lành mạnh, tổ chức tín dụng và khách hàng thỏa thuận về lãi suất cho vay ngắn hạn bằng đồng Việt Nam nhưng không vượt quá mức lãi suất cho vay tối đa do Thống đốc Ngân hàng Nhà nước Việt Nam quyết định trong từng thời kỳ nhằm đáp ứng một số nhu cầu vốn: a) Phục vụ lĩnh vực phát triển nông nghiệp, nông thôn theo quy định của Chính phủ về chính sách tín dụng phục vụ phát triển nông nghiệp, nông thôn; b) Thực hiện phương án kinh doanh hàng xuất khẩu theo quy định của Luật Thương mại và các văn bản hướng dẫn Luật Thương mại; c) Phục vụ kinh doanh của doanh nghiệp nhỏ và vừa theo quy định của Luật Hỗ trợ doanh nghiệp nhỏ và vừa và quy định của Chính phủ về hỗ trợ doanh nghiệp nhỏ và vừa; d) Phát triển ngành công nghiệp hỗ trợ theo quy định của Chính phủ về phát triển công nghiệp hỗ trợ; đ) Phục vụ kinh doanh của doanh nghiệp ứng dụng công nghệ cao thuộc Danh mục công nghệ cao ưu tiên đầu tư phát triển được Thủ tướng Chính phủ phê duyệt, doanh nghiệp công nghệ cao theo quy định của Luật Công nghệ cao và các văn bản hướng dẫn Luật Công nghệ cao.”.",
+    "summary": "Khoản này sửa đổi khoản 2 Điều 13, quy định TCTD và khách hàng có thể thỏa thuận lãi suất cho vay ngắn hạn bằng VND không vượt quá mức tối đa của NHNN, áp dụng cho khách hàng có tài chính minh bạch, lành mạnh và vay vốn cho các mục đích ưu tiên như nông nghiệp, xuất khẩu, DNNVV, công nghiệp hỗ trợ, và doanh nghiệp công nghệ cao.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "khách hàng được tổ chức tín dụng đánh giá là có tình hình tài chính minh bạch, lành mạnh",
+        "nhằm đáp ứng một số nhu cầu vốn: a) Phục vụ lĩnh vực phát triển nông nghiệp, nông thôn; b) Thực hiện phương án kinh doanh hàng xuất khẩu; c) Phục vụ kinh doanh của doanh nghiệp nhỏ và vừa; d) Phát triển ngành công nghiệp hỗ trợ; đ) Phục vụ kinh doanh của doanh nghiệp ứng dụng công nghệ cao"
+      ],
+      "actions": [
+        "tổ chức tín dụng và khách hàng thỏa thuận về lãi suất cho vay ngắn hạn bằng đồng Việt Nam nhưng không vượt quá mức lãi suất cho vay tối đa do Thống đốc Ngân hàng Nhà nước Việt Nam quyết định"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng",
+      "Thống đốc Ngân hàng Nhà nước Việt Nam",
+      "Chính phủ",
+      "doanh nghiệp nhỏ và vừa",
+      "doanh nghiệp ứng dụng công nghệ cao"
+    ],
+    "references": [
+      "Điều 13"
+    ],
+    "keywords": [
+      "lãi suất cho vay",
+      "cho vay ngắn hạn",
+      "đồng Việt Nam",
+      "tình hình tài chính",
+      "nhu cầu vốn",
+      "nông nghiệp nông thôn",
+      "hàng xuất khẩu",
+      "doanh nghiệp nhỏ và vừa",
+      "công nghiệp hỗ trợ",
+      "công nghệ cao",
+      "Ngân hàng Nhà nước"
+    ],
+    "tags": [
+      "lãi_suất",
+      "chính_sách_tín_dụng",
+      "khách_hàng_ưu_tiên",
+      "cho_vay_ngắn_hạn"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định về việc thỏa thuận lãi suất cho vay ngắn hạn và các điều kiện áp dụng cho các đối tượng và mục đích ưu tiên, thuộc nhóm chủ đề lãi suất và chính sách tín dụng."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K5_2",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 5
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 4 Điều 18 như sau: “4. Tổ chức tín dụng và khách hàng thỏa thuận về thứ tự thu nợ gốc, lãi tiền vay. Đối với khoản nợ vay bị quá hạn trả nợ, tổ chức tín dụng thực hiện theo thứ tự nợ gốc thu trước, nợ lãi tiền vay thu sau. Đối với khoản nợ vay có một hoặc một số kỳ hạn trả nợ bị quá hạn, tổ chức tín dụng thực hiện thu nợ theo thứ tự thu nợ gốc đã quá hạn, thu nợ lãi trên nợ gốc quá hạn chưa trả, thu nợ gốc đến hạn, thu nợ lãi trên nợ gốc mà đến hạn chưa trả.”.",
+    "summary": "Khoản này sửa đổi khoản 4 Điều 18, quy định TCTD và khách hàng thỏa thuận về thứ tự thu nợ gốc và lãi. Đối với nợ quá hạn, TCTD phải thu nợ gốc trước, sau đó là nợ lãi. Đối với nợ có kỳ hạn quá hạn, thứ tự thu là nợ gốc quá hạn, lãi trên nợ gốc quá hạn, nợ gốc đến hạn, và lãi trên nợ gốc đến hạn.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [],
+      "triggers": [
+        "khoản nợ vay bị quá hạn trả nợ",
+        "khoản nợ vay có một hoặc một số kỳ hạn trả nợ bị quá hạn"
+      ],
+      "actions": [
+        "thỏa thuận về thứ tự thu nợ gốc, lãi tiền vay",
+        "thực hiện theo thứ tự nợ gốc thu trước, nợ lãi tiền vay thu sau",
+        "thực hiện thu nợ theo thứ tự thu nợ gốc đã quá hạn, thu nợ lãi trên nợ gốc quá hạn chưa trả, thu nợ gốc đến hạn, thu nợ lãi trên nợ gốc mà đến hạn chưa trả"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [
+      "Điều 18"
+    ],
+    "keywords": [
+      "thu nợ",
+      "nợ gốc",
+      "lãi tiền vay",
+      "nợ quá hạn",
+      "thứ tự thu nợ",
+      "kỳ hạn trả nợ"
+    ],
+    "tags": [
+      "thu_hồi_nợ",
+      "nợ_quá_hạn",
+      "quản_lý_tín_dụng"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định chi tiết về thứ tự và quy trình thu hồi nợ, đặc biệt là nợ quá hạn, thuộc nhóm chủ đề thu hồi nợ và quản lý tín dụng."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K6_2",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 6
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 1, điểm a, điểm b, điểm c, điểm e và điểm g khoản 2 Điều 22 như sau: a) Sửa đổi, bổ sung khoản 1 như sau: “1. Căn cứ quy định tại Luật Các tổ chức tín dụng, Thông tư này và các quy định của pháp luật có liên quan, tổ chức tín dụng ban hành quy định nội bộ về cho vay, bao gồm quy định về cho vay bằng phương tiện điện tử (nếu có), quản lý tiền vay phù hợp với đặc điểm hoạt động kinh doanh của tổ chức tín dụng (sau đây gọi là quy định nội bộ về cho vay).”. b) Sửa đổi, bổ sung điểm a khoản 2 như sau: “a) Điều kiện cho vay, trong đó quy định các tiêu chí cụ thể xác định nhu cầu vay vốn sử dụng vào mục đích hợp pháp, có phương án sử dụng vốn khả thi và có khả năng tài chính để trả nợ; các nhu cầu vốn không được cho vay; phương thức cho vay; lãi suất cho vay và phương pháp tính lãi tiền vay; tiêu chí xác định khách hàng có tình hình tài chính minh bạch, lành mạnh được vay vốn theo lãi suất cho vay quy định tại khoản 2 Điều 13 Thông tư này; hồ sơ cho vay và các tài liệu, dữ liệu của khách hàng gửi tổ chức tín dụng phù hợp với đặc điểm của khoản vay, loại cho vay và đối tượng khách hàng; thu nợ; điều kiện, quy trình và thủ tục cơ cấu lại thời hạn trả nợ; chuyển nợ quá hạn; quy định cụ thể điều kiện cho vay không áp dụng biện pháp bảo đảm, phân cấp thẩm quyền quyết định cho vay không áp dụng biện pháp bảo đảm.”. c) Sửa đổi, bổ sung điểm b khoản 2 như sau: “b) Quy trình thẩm định, phê duyệt và quyết định cho vay, trong đó quy định cụ thể: (i) Thời hạn tối đa thẩm định, quyết định cho vay; phân cấp, ủy quyền và trách nhiệm của từng cá nhân, bộ phận trong việc thẩm định, phê duyệt, quyết định cho vay, bao gồm quy định đối với cho vay bằng phương tiện điện tử theo quy định tại Điều 32đ Thông tư này (nếu có); các công việc khác thuộc quy trình thẩm định, phê duyệt và quyết định cho vay; (ii) Trường hợp cho vay để thanh toán tiền góp vốn theo hợp đồng góp vốn, hợp đồng hợp tác đầu tư hoặc hợp đồng hợp tác kinh doanh để thực hiện dự án; (iii) Trường hợp cho vay để thanh toán tiền nhằm bảo đảm thực hiện nghĩa vụ, phải có biện pháp phong tỏa số tiền giải ngân vốn cho vay tại tổ chức tín dụng cho vay theo quy định của pháp luật, thỏa thuận của các bên tại thỏa thuận cho vay cho đến khi chấm dứt nghĩa vụ bảo đảm;”. d) Sửa đổi, bổ sung điểm c khoản 2 như sau: “c) Quy trình kiểm tra, giám sát quá trình vay vốn, sử dụng vốn vay và trả nợ của khách hàng, trong đó quy định cụ thể: (i) Phân cấp, ủy quyền và trách nhiệm của từng cá nhân, bộ phận trong việc kiểm tra, giám sát quá trình vay vốn, sử dụng vốn vay và trả nợ của khách hàng; (ii) Trường hợp cho vay để thanh toán tiền góp vốn theo hợp đồng góp vốn, hợp đồng hợp tác đầu tư hoặc hợp đồng hợp tác kinh doanh để thực hiện dự án, có biện pháp kiểm tra, giám sát, đánh giá tình hình tài chính, nguồn trả nợ của khách hàng, đảm bảo khả năng thu hồi đầy đủ nợ gốc và lãi tiền vay đúng hạn theo thỏa thuận, kiểm soát việc sử dụng vốn vay đúng mục đích; (iii) Trường hợp cho vay để thanh toán tiền nhằm bảo đảm thực hiện nghĩa vụ, đảm bảo thu hồi được vốn cho vay trong trường hợp các bên không thực hiện đúng thỏa thuận nghĩa vụ bảo đảm;”. đ) Sửa đổi, bổ sung điểm e khoản 2 như sau: “e) Nhận dạng các loại rủi ro có thể phát sinh; quy định theo dõi, đánh giá và kiểm soát rủi ro; phương án xử lý rủi ro trong quá trình cho vay (bao gồm cho vay bằng phương tiện điện tử);”. e) Sửa đổi, bổ sung điểm g khoản 2 như sau: “g) Kiểm soát việc cho vay để trả nợ khoản vay tại tổ chức tín dụng, trả nợ khoản vay nước ngoài nhằm phòng ngừa và ngăn chặn việc phản ánh sai lệch chất lượng tín dụng. Kiểm soát việc cho vay theo phương thức cho vay tuần hoàn và phương thức cho vay quay vòng nhằm quản lý dòng tiền của khách hàng để đảm bảo khả năng thu hồi đầy đủ nợ gốc và lãi tiền vay đúng hạn theo thỏa thuận, phản ánh đúng chất lượng tín dụng. Kiểm soát việc cho vay để đầu tư kinh doanh chứng khoán; cho vay mua, kinh doanh bất động sản; cho vay các dự án đầu tư theo hình thức đối tác công tư; cho vay các nhu cầu vốn phục vụ đời sống có giá trị lớn theo đánh giá của tổ chức tín dụng; cho vay bằng phương tiện điện tử.”.",
+    "summary": "Khoản này sửa đổi Điều 22, quy định chi tiết về việc tổ chức tín dụng phải ban hành quy định nội bộ về cho vay và quản lý tiền vay. Các quy định nội bộ này phải bao gồm điều kiện cho vay (mục đích hợp pháp, khả thi, khả năng trả nợ, các nhu cầu không được cho vay, lãi suất, hồ sơ, thu nợ, cơ cấu lại, chuyển nợ quá hạn, cho vay không bảo đảm), quy trình thẩm định, phê duyệt và quyết định cho vay (thời hạn, phân cấp, trách nhiệm, cho vay góp vốn, cho vay bảo đảm nghĩa vụ), quy trình kiểm tra, giám sát sử dụng vốn vay và trả nợ (phân cấp, trách nhiệm, kiểm soát cho vay góp vốn, cho vay bảo đảm nghĩa vụ), nhận dạng và xử lý rủi ro, và kiểm soát các loại hình cho vay đặc biệt (trả nợ khoản vay khác, cho vay tuần hoàn/quay vòng, đầu tư chứng khoán, bất động sản, PPP, nhu cầu đời sống giá trị lớn, cho vay điện tử).",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "không được",
+        "phải",
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "ban hành quy định nội bộ về cho vay",
+        "quy định các tiêu chí cụ thể xác định nhu cầu vay vốn",
+        "quy định các nhu cầu vốn không được cho vay",
+        "quy định phương thức cho vay",
+        "quy định lãi suất cho vay và phương pháp tính lãi",
+        "quy định tiêu chí xác định khách hàng có tình hình tài chính minh bạch, lành mạnh",
+        "quy định hồ sơ cho vay",
+        "quy định thu nợ",
+        "quy định điều kiện, quy trình và thủ tục cơ cấu lại thời hạn trả nợ",
+        "quy định chuyển nợ quá hạn",
+        "quy định điều kiện cho vay không áp dụng biện pháp bảo đảm",
+        "quy định phân cấp thẩm quyền quyết định cho vay không áp dụng biện pháp bảo đảm",
+        "quy định quy trình thẩm định, phê duyệt và quyết định cho vay",
+        "quy định thời hạn tối đa thẩm định, quyết định cho vay",
+        "quy định phân cấp, ủy quyền và trách nhiệm",
+        "quy định đối với cho vay bằng phương tiện điện tử",
+        "quy định các công việc khác thuộc quy trình thẩm định, phê duyệt và quyết định cho vay",
+        "quy định trường hợp cho vay để thanh toán tiền góp vốn",
+        "quy định trường hợp cho vay để thanh toán tiền nhằm bảo đảm thực hiện nghĩa vụ",
+        "phải có biện pháp phong tỏa số tiền giải ngân vốn cho vay",
+        "quy định quy trình kiểm tra, giám sát quá trình vay vốn, sử dụng vốn vay và trả nợ",
+        "quy định phân cấp, ủy quyền và trách nhiệm trong việc kiểm tra, giám sát",
+        "có biện pháp kiểm tra, giám sát, đánh giá tình hình tài chính, nguồn trả nợ của khách hàng",
+        "đảm bảo khả năng thu hồi đầy đủ nợ gốc và lãi tiền vay đúng hạn",
+        "kiểm soát việc sử dụng vốn vay đúng mục đích",
+        "đảm bảo thu hồi được vốn cho vay trong trường hợp các bên không thực hiện đúng thỏa thuận nghĩa vụ bảo đảm",
+        "nhận dạng các loại rủi ro có thể phát sinh",
+        "quy định theo dõi, đánh giá và kiểm soát rủi ro",
+        "phương án xử lý rủi ro",
+        "kiểm soát việc cho vay để trả nợ khoản vay tại tổ chức tín dụng, trả nợ khoản vay nước ngoài",
+        "kiểm soát việc cho vay theo phương thức cho vay tuần hoàn và phương thức cho vay quay vòng",
+        "kiểm soát việc cho vay để đầu tư kinh doanh chứng khoán",
+        "kiểm soát việc cho vay mua, kinh doanh bất động sản",
+        "kiểm soát việc cho vay các dự án đầu tư theo hình thức đối tác công tư",
+        "kiểm soát việc cho vay các nhu cầu vốn phục vụ đời sống có giá trị lớn",
+        "kiểm soát việc cho vay bằng phương tiện điện tử"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng",
+      "cá nhân",
+      "bộ phận"
+    ],
+    "references": [
+      "Điều 22",
+      "Điều 13",
+      "Điều 32"
+    ],
+    "keywords": [
+      "quy định nội bộ",
+      "cho vay",
+      "quản lý tiền vay",
+      "điều kiện cho vay",
+      "quy trình thẩm định",
+      "kiểm tra giám sát",
+      "rủi ro",
+      "kiểm soát cho vay",
+      "phương tiện điện tử",
+      "chất lượng tín dụng"
+    ],
+    "tags": [
+      "quy_trình_nội_bộ",
+      "quản_lý_rủi_ro",
+      "cho_vay",
+      "kiểm_soát_tín_dụng",
+      "nghĩa_vụ_tctd"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định chi tiết các yêu cầu đối với quy định nội bộ của tổ chức tín dụng về hoạt động cho vay, bao gồm các quy trình, điều kiện và biện pháp kiểm soát rủi ro, thuộc nhóm chủ đề quy trình nội bộ và quản lý rủi ro."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K7_2",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 7
+    },
+    "input_text": "Sửa đổi, bổ sung điểm b khoản 4 Điều 23 như sau: “b) Cung cấp đầy đủ thông tin về hợp đồng theo mẫu, điều kiện giao dịch chung cho khách hàng biết trước khi giao kết thỏa thuận cho vay và có xác nhận của khách hàng về việc đã được tổ chức tín dụng cung cấp đầy đủ thông tin.”.",
+    "summary": "Khoản này sửa đổi quy định về việc tổ chức tín dụng phải cung cấp đầy đủ thông tin về hợp đồng theo mẫu, điều kiện giao dịch chung cho khách hàng biết trước khi giao kết thỏa thuận cho vay và phải có xác nhận của khách hàng về việc đã nhận đủ thông tin.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "trước khi giao kết thỏa thuận cho vay"
+      ],
+      "actions": [
+        "cung cấp đầy đủ thông tin về hợp đồng theo mẫu, điều kiện giao dịch chung",
+        "có xác nhận của khách hàng về việc đã được tổ chức tín dụng cung cấp đầy đủ thông tin"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [
+      "Điều 23"
+    ],
+    "keywords": [
+      "hợp đồng theo mẫu",
+      "điều kiện giao dịch chung",
+      "thỏa thuận cho vay",
+      "xác nhận khách hàng",
+      "thông tin"
+    ],
+    "tags": [
+      "cung_cap_thong_tin",
+      "hop_dong_vay",
+      "bao_ve_khach_hang",
+      "nghia_vu_tctd"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ của tổ chức tín dụng trong việc cung cấp thông tin và xác nhận từ khách hàng, thuộc nhóm chủ đề về nghĩa vụ của TCTD và bảo vệ quyền lợi khách hàng."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K8_2",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 8
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 2 Điều 24 như sau: “2. Tổ chức tín dụng có quyền, nghĩa vụ kiểm tra, giám sát việc sử dụng vốn vay và trả nợ của khách hàng theo quy định của pháp luật và quy trình nội bộ quy định tại điểm c khoản 2 Điều 22 Thông tư này.”.",
+    "summary": "Tổ chức tín dụng có quyền và nghĩa vụ kiểm tra, giám sát việc sử dụng vốn vay và khả năng trả nợ của khách hàng theo quy định pháp luật và quy trình nội bộ.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có quyền"
+      ],
+      "triggers": [],
+      "actions": [
+        "kiểm tra, giám sát việc sử dụng vốn vay",
+        "kiểm tra, giám sát việc trả nợ của khách hàng"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [
+      "Điều 24",
+      "Điều 22"
+    ],
+    "keywords": [
+      "kiểm tra giám sát",
+      "sử dụng vốn vay",
+      "trả nợ",
+      "quy trình nội bộ",
+      "quy định pháp luật"
+    ],
+    "tags": [
+      "quan_ly_rui_ro",
+      "nghia_vu_tctd",
+      "giam_sat_khoan_vay",
+      "quy_trinh_noi_bo"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định về quyền và nghĩa vụ của tổ chức tín dụng trong việc quản lý và giám sát khoản vay, liên quan đến quản lý rủi ro và tuân thủ quy định."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K9_2",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 9
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 2 và bổ sung khoản 5 vào Điều 26 như sau: a) Sửa đổi, bổ sung khoản 2 như sau: “2. Sử dụng các phương tiện thanh toán để giải ngân vốn cho vay theo quy định của Ngân hàng Nhà nước Việt Nam về phương thức giải ngân vốn cho vay của tổ chức tín dụng đối với khách hàng.”. b) Bổ sung khoản 5 như sau: “5. Trường hợp cho vay để thanh toán tiền nhằm bảo đảm thực hiện nghĩa vụ, tổ chức tín dụng phải phong tỏa số tiền giải ngân vốn cho vay tại tổ chức tín dụng cho vay theo quy định của pháp luật, thỏa thuận của các bên tại thỏa thuận cho vay cho đến khi chấm dứt nghĩa vụ bảo đảm.”.",
+    "summary": "Khoản này sửa đổi quy định về việc sử dụng phương tiện thanh toán để giải ngân vốn cho vay và bổ sung quy định về việc tổ chức tín dụng phải phong tỏa số tiền giải ngân trong trường hợp cho vay để bảo đảm thực hiện nghĩa vụ.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [
+        "cho vay để thanh toán tiền nhằm bảo đảm thực hiện nghĩa vụ"
+      ],
+      "actions": [
+        "sử dụng các phương tiện thanh toán để giải ngân vốn cho vay",
+        "phong tỏa số tiền giải ngân vốn cho vay"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng",
+      "Ngân hàng Nhà nước Việt Nam"
+    ],
+    "references": [
+      "Điều 26"
+    ],
+    "keywords": [
+      "giải ngân vốn vay",
+      "phương tiện thanh toán",
+      "phong tỏa tiền",
+      "nghĩa vụ bảo đảm",
+      "thỏa thuận cho vay"
+    ],
+    "tags": [
+      "giai_ngan",
+      "phuong_thuc_thanh_toan",
+      "bao_dam_nghia_vu",
+      "quan_ly_rui_ro"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định chi tiết về phương thức giải ngân và các biện pháp bảo đảm trong hoạt động cho vay, đặc biệt là nghĩa vụ phong tỏa tiền trong một số trường hợp."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K10_2",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 10
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 1, khoản 4 và khoản 5 Điều 27 như sau: a) Sửa đổi, bổ sung khoản 1 như sau: “Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách hàng thực hiện thủ tục cho vay đối với khách hàng và giao kết thỏa thuận cho vay.”. b) Sửa đổi, bổ sung khoản 4 như sau: “4. Cho vay theo hạn mức: Tổ chức tín dụng xác định và thỏa thuận với khách hàng hạn mức cho vay tối đa duy trì trong một khoảng thời gian nhất định. Một năm ít nhất một lần, tổ chức tín dụng xem xét xác định lại hạn mức cho vay tối đa và thời gian duy trì hạn mức này.”. c) Sửa đổi, bổ sung khoản 5 như sau: “5. Cho vay theo hạn mức dự phòng: Tổ chức tín dụng cam kết đảm bảo sẵn sàng cho khách hàng vay vốn trong phạm vi hạn mức cho vay dự phòng đã thỏa thuận (ngoài phạm vi hạn mức cho vay đã thỏa thuận). Tổ chức tín dụng và khách hàng thỏa thuận thời hạn hiệu lực của hạn mức cho vay dự phòng nhưng không vượt quá 01 (một) năm.”",
+    "summary": "Khoản này sửa đổi, bổ sung các quy định về các phương thức cho vay bao gồm cho vay từng lần, cho vay theo hạn mức và cho vay theo hạn mức dự phòng, nêu rõ cách thức thực hiện và các điều kiện liên quan.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "thực hiện thủ tục cho vay",
+        "giao kết thỏa thuận cho vay",
+        "xác định và thỏa thuận hạn mức cho vay",
+        "xem xét xác định lại hạn mức cho vay",
+        "cam kết đảm bảo sẵn sàng cho vay vốn",
+        "thỏa thuận thời hạn hiệu lực"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [
+      "Điều 27"
+    ],
+    "keywords": [
+      "cho vay từng lần",
+      "cho vay theo hạn mức",
+      "hạn mức dự phòng",
+      "thỏa thuận cho vay",
+      "phương thức cho vay"
+    ],
+    "tags": [
+      "phuong_thuc_cho_vay",
+      "han_muc_tin_dung",
+      "thoa_thuan_vay",
+      "quy_trinh_cho_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này mô tả các phương thức cho vay khác nhau và các quy trình liên quan, thuộc nhóm chủ đề về quy trình và phương thức cho vay."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K11",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 11
+    },
+    "input_text": "Bổ sung Mục 3 Chương II như sau: “Mục 3: HOẠT ĐỘNG CHO VAY BẰNG PHƯƠNG TIỆN ĐIỆN TỬ Điều 32a. Nguyên tắc cho vay bằng phương tiện điện tử",
+    "summary": "Khoản này bổ sung Mục 3 vào Chương II của Thông tư, quy định về Hoạt động cho vay bằng phương tiện điện tử và các nguyên tắc liên quan tại Điều 32a.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "bổ sung Mục 3 Chương II",
+        "bổ sung Điều 32a"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 32"
+    ],
+    "keywords": [
+      "hoạt động cho vay",
+      "phương tiện điện tử",
+      "nguyên tắc cho vay",
+      "Điều 32a",
+      "Mục 3 Chương II"
+    ],
+    "tags": [
+      "cho_vay_dien_tu",
+      "quy_dinh_moi",
+      "nguyen_tac_chung",
+      "phuong_thuc_cho_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này giới thiệu một mục mới và một điều mới về cho vay bằng phương tiện điện tử, thiết lập một chủ đề mới trong văn bản pháp luật."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K1_3",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng thực hiện cho vay bằng phương tiện điện tử phù hợp với điều kiện hoạt động kinh doanh của tổ chức tín dụng, đặc điểm của khoản vay, đảm bảo an ninh, an toàn, bảo vệ thông điệp dữ liệu và bảo mật thông tin phù hợp với quy định của pháp luật về phòng, chống rửa tiền, giao dịch điện tử, hướng dẫn của Ngân hàng Nhà nước Việt Nam về quản lý rủi ro và các văn bản pháp luật có liên quan.",
+    "summary": "Tổ chức tín dụng phải thực hiện hoạt động cho vay bằng phương tiện điện tử theo các nguyên tắc phù hợp với điều kiện kinh doanh, đặc điểm khoản vay, đảm bảo an ninh, an toàn, bảo mật thông tin và tuân thủ các quy định pháp luật liên quan.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "thực hiện cho vay bằng phương tiện điện tử",
+        "đảm bảo an ninh, an toàn",
+        "bảo vệ thông điệp dữ liệu",
+        "bảo mật thông tin"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "Ngân hàng Nhà nước Việt Nam"
+    ],
+    "references": [],
+    "keywords": [
+      "cho vay điện tử",
+      "an ninh an toàn",
+      "bảo mật thông tin",
+      "phòng chống rửa tiền",
+      "quản lý rủi ro"
+    ],
+    "tags": [
+      "cho_vay_dien_tu",
+      "an_toan_thong_tin",
+      "quan_ly_rui_ro",
+      "phong_chong_lua_dao"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định các nguyên tắc và yêu cầu chung mà tổ chức tín dụng phải tuân thủ khi thực hiện cho vay bằng phương tiện điện tử, nhấn mạnh các khía cạnh an toàn và bảo mật."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K2_3",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 2
+    },
+    "input_text": "Hệ thống thông tin thực hiện hoạt động cho vay bằng phương tiện điện tử phải tuân thủ quy định về bảo đảm an toàn hệ thống thông tin cấp độ 3 trở lên theo quy định của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ và quy định của Ngân hàng Nhà nước Việt Nam về an toàn hệ thống thông tin trong hoạt động ngân hàng.",
+    "summary": "Hệ thống thông tin dùng cho hoạt động cho vay bằng phương tiện điện tử phải tuân thủ các quy định về an toàn hệ thống thông tin cấp độ 3 trở lên theo quy định của Chính phủ và Ngân hàng Nhà nước Việt Nam.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [],
+      "actions": [
+        "tuân thủ quy định về bảo đảm an toàn hệ thống thông tin cấp độ 3 trở lên"
+      ]
+    },
+    "doi_tuong": [
+      "hệ thống thông tin",
+      "Chính phủ",
+      "Ngân hàng Nhà nước Việt Nam"
+    ],
+    "references": [],
+    "keywords": [
+      "hệ thống thông tin",
+      "cho vay điện tử",
+      "an toàn thông tin",
+      "cấp độ 3",
+      "hoạt động ngân hàng"
+    ],
+    "tags": [
+      "an_toan_thong_tin",
+      "cho_vay_dien_tu",
+      "tuan_thu",
+      "cong_nghe_ngan_hang"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đặt ra một yêu cầu bắt buộc đối với hệ thống thông tin sử dụng trong cho vay điện tử, thuộc nhóm chủ đề về an toàn thông tin và tuân thủ quy định."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K3_3",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 3
+    },
+    "input_text": "Tổ chức tín dụng phải lưu trữ, bảo quản thông tin, dữ liệu theo quy định của pháp luật, đảm bảo an toàn, bảo mật và được sao lưu dự phòng đảm bảo tính đầy đủ, toàn vẹn của hồ sơ cho phép truy cập, sử dụng khi cần thiết hoặc để phục vụ công tác kiểm tra, đối chiếu, giải quyết tra soát, khiếu nại, tranh chấp và cung cấp thông tin khi có yêu cầu từ cơ quan quản lý nhà nước có thẩm quyền.",
+    "summary": "Tổ chức tín dụng có nghĩa vụ lưu trữ, bảo quản thông tin và dữ liệu một cách an toàn, bảo mật, có sao lưu dự phòng để đảm bảo tính đầy đủ, toàn vẹn, phục vụ cho việc truy cập, kiểm tra, giải quyết tranh chấp và cung cấp thông tin khi có yêu cầu.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "khi cần thiết",
+        "để phục vụ công tác kiểm tra, đối chiếu, giải quyết tra soát, khiếu nại, tranh chấp",
+        "khi có yêu cầu từ cơ quan quản lý nhà nước có thẩm quyền"
+      ],
+      "actions": [
+        "lưu trữ, bảo quản thông tin, dữ liệu",
+        "đảm bảo an toàn, bảo mật",
+        "sao lưu dự phòng",
+        "đảm bảo tính đầy đủ, toàn vẹn của hồ sơ",
+        "cho phép truy cập, sử dụng",
+        "cung cấp thông tin"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "cơ quan quản lý nhà nước có thẩm quyền"
+    ],
+    "references": [],
+    "keywords": [
+      "lưu trữ dữ liệu",
+      "bảo mật thông tin",
+      "sao lưu dự phòng",
+      "toàn vẹn hồ sơ",
+      "cung cấp thông tin"
+    ],
+    "tags": [
+      "quan_ly_du_lieu",
+      "bao_mat_thong_tin",
+      "tuan_thu",
+      "kiem_tra_giam_sat"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định các nghĩa vụ của tổ chức tín dụng liên quan đến việc quản lý, bảo mật và cung cấp dữ liệu, thuộc nhóm chủ đề về quản lý dữ liệu và tuân thủ pháp luật."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K4_3",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 4
+    },
+    "input_text": "Tổ chức tín dụng tự quyết định biện pháp, hình thức, công nghệ phục vụ hoạt động cho vay bằng phương tiện điện tử, tự chịu rủi ro phát sinh (nếu có) và phải đáp ứng tối thiểu các yêu cầu sau: a) Có giải pháp, công nghệ kỹ thuật đảm bảo tính chính xác, bảo mật, an toàn trong quá trình thu thập, sử dụng, kiểm tra thông tin, dữ liệu; b) Có biện pháp kiểm tra, đối chiếu, cập nhật, xác minh thông tin, dữ liệu; có biện pháp ngăn chặn các hành vi giả mạo, can thiệp, chỉnh sửa làm sai lệch thông tin, dữ liệu; c) Có biện pháp theo dõi, nhận dạng, đo lường và kiểm soát rủi ro; có phương án xử lý rủi ro; d) Phân công trách nhiệm cụ thể từng cá nhân, bộ phận có liên quan trong hoạt động cho vay bằng phương tiện điện tử và trong việc quản lý, giám sát rủi ro.",
+    "summary": "Tổ chức tín dụng được tự quyết định biện pháp, hình thức, công nghệ cho vay bằng phương tiện điện tử nhưng phải chịu rủi ro và đáp ứng tối thiểu các yêu cầu về giải pháp công nghệ, kiểm tra thông tin, kiểm soát rủi ro và phân công trách nhiệm.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [],
+      "actions": [
+        "Tự quyết định biện pháp, hình thức, công nghệ cho vay bằng phương tiện điện tử",
+        "Chịu rủi ro phát sinh",
+        "Đáp ứng yêu cầu về giải pháp, công nghệ kỹ thuật (chính xác, bảo mật, an toàn)",
+        "Có biện pháp kiểm tra, đối chiếu, cập nhật, xác minh thông tin",
+        "Có biện pháp ngăn chặn giả mạo, can thiệp, chỉnh sửa thông tin",
+        "Có biện pháp theo dõi, nhận dạng, đo lường, kiểm soát rủi ro",
+        "Có phương án xử lý rủi ro",
+        "Phân công trách nhiệm cụ thể"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "cá nhân",
+      "bộ phận liên quan"
+    ],
+    "references": [],
+    "keywords": [
+      "Cho vay điện tử",
+      "quản lý rủi ro",
+      "công nghệ kỹ thuật",
+      "bảo mật thông tin",
+      "phân công trách nhiệm",
+      "kiểm soát rủi ro"
+    ],
+    "tags": [
+      "cho_vay_dien_tu",
+      "quan_ly_rui_ro",
+      "cong_nghe_ngan_hang",
+      "bao_mat_thong_tin"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định các nghĩa vụ và yêu cầu tối thiểu mà tổ chức tín dụng phải tuân thủ khi thực hiện hoạt động cho vay bằng phương tiện điện tử, đặc biệt liên quan đến công nghệ và quản lý rủi ro."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K5_3",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 5
+    },
+    "input_text": "Tổ chức tín dụng xem xét, quyết định thực hiện hoạt động cho vay bằng phương tiện điện tử theo quy định tại Mục 3 Thông tư này. Các nội dung không được quy định tại Mục 3 Thông tư này thực hiện theo các quy định liên quan tại Thông tư này. Điều 32b. Nhận biết, xác minh thông tin nhận biết khách hàng",
+    "summary": "Tổ chức tín dụng được xem xét, quyết định cho vay bằng phương tiện điện tử theo Mục 3 của Thông tư này; các nội dung không được quy định tại Mục 3 sẽ áp dụng theo các quy định liên quan khác của Thông tư.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "không được",
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "Xem xét, quyết định thực hiện hoạt động cho vay bằng phương tiện điện tử",
+        "Thực hiện theo quy định tại Mục 3 Thông tư này",
+        "Thực hiện theo các quy định liên quan tại Thông tư này (đối với nội dung không quy định tại Mục 3)"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng"
+    ],
+    "references": [
+      "Điều 32"
+    ],
+    "keywords": [
+      "Cho vay điện tử",
+      "quy định",
+      "Mục 3",
+      "Thông tư",
+      "nhận biết khách hàng"
+    ],
+    "tags": [
+      "cho_vay_dien_tu",
+      "quy_dinh_chung",
+      "xac_minh_khach_hang"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này xác định phạm vi áp dụng và nguyên tắc tuân thủ quy định cho hoạt động cho vay bằng phương tiện điện tử, đồng thời chỉ ra cách xử lý các nội dung không được quy định cụ thể."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K1_4",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng phải có giải pháp, công nghệ kỹ thuật để nhận biết và xác minh thông tin nhận biết khách hàng phục vụ hoạt động cho vay bằng phương tiện điện tử; chịu trách nhiệm về rủi ro phát sinh (nếu có) và phải đảm bảo tối thiểu các yêu cầu sau: a) Đảm bảo sự khớp đúng giữa thông tin nhận biết khách hàng, dữ liệu sinh trắc học của khách hàng (là các yếu tố, đặc điểm sinh học gắn liền với khách hàng thực hiện định danh, khó làm giả, có tỷ lệ trùng nhau thấp như vân tay, khuôn mặt, mống mắt, giọng nói và các yếu tố sinh trắc học khác) với các thông tin, yếu tố sinh trắc học tương ứng trên các tài liệu, dữ liệu cần thiết nhằm nhận biết khách hàng theo quy định của pháp luật về phòng, chống rửa tiền, theo yêu cầu của tổ chức tín dụng hoặc với dữ liệu định danh cá nhân được xác thực bởi cơ quan nhà nước có thẩm quyền hoặc với cơ sở dữ liệu căn cước công dân, cơ sở dữ liệu quốc gia về dân cư hoặc bởi tổ chức cung cấp dịch vụ xác thực điện tử theo quy định của pháp luật về định danh và xác thực điện tử hoặc bởi tổ chức tín dụng khác; b) Xây dựng quy trình quản lý, kiểm soát, đánh giá rủi ro, trong đó có biện pháp ngăn chặn các hành vi mạo danh, can thiệp, chỉnh sửa, làm sai lệch thông tin nhận biết khách hàng trong quá trình cho vay; có biện pháp để kiểm tra, xác minh thông tin nhận biết khách hàng đảm bảo khách hàng thực hiện giao dịch bằng phương tiện điện tử là khách hàng vay vốn; có biện pháp kỹ thuật để xác nhận khách hàng đã được định danh đồng ý với thỏa thuận cho vay. Quy trình quản lý, kiểm soát rủi ro phải thường xuyên được rà soát, hoàn thiện dựa trên những thông tin, dữ liệu cập nhật; c) Lưu trữ, bảo quản đầy đủ, chi tiết thông tin nhận biết khách hàng, dữ liệu sinh trắc học của khách hàng; âm thanh, hình ảnh, bản ghi hình, ghi âm; số điện thoại thực hiện giao dịch; nhật ký giao dịch trong quá trình cho vay.",
+    "summary": "Tổ chức tín dụng phải có giải pháp công nghệ để nhận biết và xác minh thông tin khách hàng khi cho vay điện tử, chịu trách nhiệm về rủi ro và phải đảm bảo khớp đúng thông tin sinh trắc học, xây dựng quy trình quản lý rủi ro, và lưu trữ đầy đủ hồ sơ liên quan.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "Có giải pháp, công nghệ kỹ thuật để nhận biết và xác minh thông tin khách hàng",
+        "Chịu trách nhiệm về rủi ro phát sinh",
+        "Đảm bảo khớp đúng thông tin nhận biết khách hàng và dữ liệu sinh trắc học",
+        "Xây dựng quy trình quản lý, kiểm soát, đánh giá rủi ro",
+        "Có biện pháp ngăn chặn mạo danh, can thiệp, chỉnh sửa thông tin",
+        "Có biện pháp kiểm tra, xác minh thông tin khách hàng",
+        "Có biện pháp kỹ thuật xác nhận khách hàng đồng ý thỏa thuận cho vay",
+        "Rà soát, hoàn thiện quy trình quản lý rủi ro",
+        "Lưu trữ, bảo quản thông tin nhận biết khách hàng, dữ liệu sinh trắc học, âm thanh, hình ảnh, nhật ký giao dịch"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "khách hàng",
+      "cơ quan nhà nước có thẩm quyền",
+      "tổ chức cung cấp dịch vụ xác thực điện tử"
+    ],
+    "references": [],
+    "keywords": [
+      "Nhận biết khách hàng",
+      "xác minh thông tin",
+      "cho vay điện tử",
+      "dữ liệu sinh trắc học",
+      "quản lý rủi ro",
+      "phòng chống rửa tiền",
+      "định danh điện tử",
+      "lưu trữ hồ sơ"
+    ],
+    "tags": [
+      "cho_vay_dien_tu",
+      "xac_minh_khach_hang",
+      "quan_ly_rui_ro",
+      "bao_mat_thong_tin",
+      "dinh_danh_dien_tu"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đặt ra các nghĩa vụ chi tiết cho tổ chức tín dụng về việc nhận diện, xác minh khách hàng và quản lý rủi ro trong hoạt động cho vay bằng phương tiện điện tử."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K2_4",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 2
+    },
+    "input_text": "Việc nhận biết, xác minh thông tin nhận biết khách hàng tại khoản 1 Điều này áp dụng đối với khách hàng là cá nhân vay vốn phục vụ nhu cầu đời sống, lần đầu thiết lập mối quan hệ tại tổ chức tín dụng. Trường hợp khách hàng là cá nhân vay vốn phục vụ nhu cầu đời sống, đã thiết lập mối quan hệ tại tổ chức tín dụng và hoàn thành việc nhận biết, xác minh thông tin nhận biết khách hàng, tổ chức tín dụng được quyết định việc áp dụng các biện pháp, hình thức, công nghệ để xác minh thông tin nhận biết khách hàng phục vụ cho vay bằng phương tiện điện tử đảm bảo phù hợp với các thông tin đã biết về khách hàng. Điều 32c. Dư nợ cho vay Dư nợ cho vay đối với một khách hàng là cá nhân vay vốn phục vụ nhu cầu đời sống và được nhận biết, xác minh thông tin nhận biết khách hàng theo quy định tại Điều 32b Thông tư này không vượt quá 100.000.000 (một trăm triệu) đồng Việt Nam tại một tổ chức tín dụng. Điều 32d. Hồ sơ đề nghị vay vốn Khi có nhu cầu vay vốn, khách hàng phải gửi cho tổ chức tín dụng các tài liệu, dữ liệu chứng minh đủ điều kiện vay vốn theo quy định tại Điều 7 Thông tư này và các tài liệu, dữ liệu khác theo hướng dẫn của tổ chức tín dụng. Điều 32đ. Thẩm định và quyết định cho vay Tổ chức tín dụng tổ chức xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo nguyên tắc phân định trách nhiệm của từng cá nhân, bộ phận xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay. Trường hợp có rủi ro phát sinh, tổ chức tín dụng phải có cơ chế để xác định từng cá nhân, bộ phận chịu trách nhiệm và xử lý kịp thời các vấn đề, rủi ro phát sinh để đảm bảo hiệu quả, an toàn trong việc tổ chức xét duyệt cho vay bằng phương tiện điện tử của tổ chức tín dụng. Điều 32e. Thỏa thuận cho vay Thỏa thuận cho vay được lập thành văn bản, trường hợp là hợp đồng điện tử thực hiện theo quy định của pháp luật về giao dịch điện tử và phải có tối thiểu các nội dung quy định tại Điều 23 Thông tư này. Điều 32g. Lưu giữ hồ sơ cho vay",
+    "summary": "Khoản này quy định phạm vi áp dụng việc nhận biết, xác minh khách hàng cho cá nhân vay vốn đời sống lần đầu; cho phép TCTD linh hoạt xác minh với khách hàng đã có quan hệ. Đồng thời, nó giới hạn dư nợ cho vay cá nhân là 100 triệu đồng, quy định về hồ sơ vay vốn, nguyên tắc thẩm định, quyết định cho vay điện tử, và yêu cầu về thỏa thuận cho vay.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "Khách hàng là cá nhân vay vốn phục vụ nhu cầu đời sống, lần đầu thiết lập mối quan hệ tại TCTD",
+        "Khách hàng là cá nhân vay vốn phục vụ nhu cầu đời sống, đã thiết lập mối quan hệ tại TCTD và hoàn thành việc nhận biết, xác minh thông tin",
+        "Khi có nhu cầu vay vốn",
+        "Trường hợp có rủi ro phát sinh (trong thẩm định và quyết định cho vay điện tử)",
+        "Thỏa thuận cho vay là hợp đồng điện tử"
+      ],
+      "actions": [
+        "Áp dụng việc nhận biết, xác minh thông tin khách hàng (đối với khách hàng lần đầu)",
+        "Tổ chức tín dụng được quyết định biện pháp, hình thức, công nghệ để xác minh thông tin (đối với khách hàng đã có quan hệ)",
+        "Dư nợ cho vay không vượt quá 100.000.000 đồng",
+        "Khách hàng phải gửi tài liệu, dữ liệu chứng minh đủ điều kiện vay vốn",
+        "Tổ chức tín dụng phải đảm bảo nguyên tắc phân định trách nhiệm trong thẩm định và quyết định cho vay điện tử",
+        "Tổ chức tín dụng phải có cơ chế xác định trách nhiệm và xử lý rủi ro",
+        "Thỏa thuận cho vay được lập thành văn bản",
+        "Thỏa thuận cho vay phải có tối thiểu các nội dung quy định tại Điều 23"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "khách hàng (cá nhân vay vốn phục vụ nhu cầu đời sống)",
+      "cá nhân",
+      "bộ phận liên quan"
+    ],
+    "references": [
+      "Điều 32",
+      "Điều 7",
+      "Điều 23"
+    ],
+    "keywords": [
+      "Nhận biết khách hàng",
+      "xác minh thông tin",
+      "cho vay điện tử",
+      "dư nợ cho vay",
+      "hồ sơ vay vốn",
+      "thẩm định cho vay",
+      "thỏa thuận cho vay",
+      "quản lý rủi ro"
+    ],
+    "tags": [
+      "cho_vay_dien_tu",
+      "xac_minh_khach_hang",
+      "han_muc_tin_dung",
+      "quy_trinh_cho_vay",
+      "quan_ly_rui_ro"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này bao gồm nhiều quy định khác nhau, từ phạm vi áp dụng, hạn mức dư nợ, đến các yêu cầu về hồ sơ, thẩm định và thỏa thuận cho vay điện tử, đều là các nghĩa vụ và quy trình mà TCTD và khách hàng phải tuân thủ."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K1_5",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng lập hồ sơ cho vay dưới dạng thông điệp dữ liệu phù hợp với quy định của pháp luật về lưu trữ, pháp luật về giao dịch điện tử và pháp luật có liên quan, bao gồm: a) Thỏa thuận cho vay; b) Báo cáo thực trạng tài chính của khách hàng; c) Quyết định cho vay có chữ ký điện tử của người có thẩm quyền; trường hợp quyết định tập thể, phải có biên bản ghi rõ quyết định được thông qua; d) Thông tin, dữ liệu nhận biết khách hàng (nếu có); thông tin, dữ liệu phát sinh trong quá trình sử dụng khoản vay liên quan đến thỏa thuận cho vay theo hướng dẫn của tổ chức tín dụng.",
+    "summary": "Tổ chức tín dụng phải lập hồ sơ cho vay dưới dạng thông điệp dữ liệu, tuân thủ pháp luật về lưu trữ và giao dịch điện tử, bao gồm thỏa thuận cho vay, báo cáo tài chính khách hàng, quyết định cho vay có chữ ký điện tử và các thông tin, dữ liệu nhận biết khách hàng liên quan.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "Lập hồ sơ cho vay dưới dạng thông điệp dữ liệu",
+        "Đảm bảo hồ sơ phù hợp với pháp luật về lưu trữ, giao dịch điện tử",
+        "Bao gồm thỏa thuận cho vay",
+        "Bao gồm báo cáo thực trạng tài chính của khách hàng",
+        "Bao gồm quyết định cho vay có chữ ký điện tử (hoặc biên bản quyết định tập thể)",
+        "Bao gồm thông tin, dữ liệu nhận biết khách hàng",
+        "Bao gồm thông tin, dữ liệu phát sinh trong quá trình sử dụng khoản vay"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "khách hàng",
+      "người có thẩm quyền"
+    ],
+    "references": [],
+    "keywords": [
+      "Hồ sơ cho vay",
+      "thông điệp dữ liệu",
+      "giao dịch điện tử",
+      "lưu trữ",
+      "thỏa thuận cho vay",
+      "báo cáo tài chính",
+      "quyết định cho vay",
+      "chữ ký điện tử"
+    ],
+    "tags": [
+      "ho_so_cho_vay",
+      "giao_dich_dien_tu",
+      "luu_tru_du_lieu",
+      "quy_trinh_cho_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ của tổ chức tín dụng trong việc lập và quản lý hồ sơ cho vay dưới dạng điện tử, liệt kê các thành phần bắt buộc của hồ sơ."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D1__K2_5",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 2
+    },
+    "input_text": "Tổ chức tín dụng phải lưu giữ hồ sơ cho vay; thời hạn lưu giữ hồ sơ cho vay thực hiện theo quy định của pháp luật. Điều 32h. Phương tiện thanh toán được sử dụng để giải ngân vốn cho vay Tổ chức tín dụng sử dụng các phương tiện thanh toán để giải ngân vốn cho vay theo quy định của Ngân hàng Nhà nước Việt Nam về phương thức giải ngân vốn cho vay của tổ chức tín dụng đối với khách hàng. Trường hợp khách hàng là cá nhân vay vốn phục vụ nhu cầu đời sống và được nhận biết, xác minh thông tin nhận biết khách hàng theo quy định tại Điều 32b Thông tư này, tổ chức tín dụng được xem xét, quyết định việc giải ngân vốn cho vay vào tài khoản thanh toán của khách hàng tại tổ chức cung ứng dịch vụ thanh toán để khách hàng thanh toán, chi trả cho bên thụ hưởng theo mục đích vay vốn phục vụ nhu cầu đời sống mà khách hàng cam kết.”.",
+    "summary": "Tổ chức tín dụng có nghĩa vụ lưu giữ hồ sơ cho vay theo thời hạn quy định và phải sử dụng phương tiện thanh toán để giải ngân vốn theo quy định của Ngân hàng Nhà nước. Đối với khách hàng cá nhân vay vốn đời sống đã được xác minh, TCTD được quyết định giải ngân vào tài khoản thanh toán của khách hàng.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "Khách hàng là cá nhân vay vốn phục vụ nhu cầu đời sống và được nhận biết, xác minh thông tin nhận biết khách hàng theo Điều 32b Thông tư này"
+      ],
+      "actions": [
+        "Lưu giữ hồ sơ cho vay",
+        "Thực hiện thời hạn lưu giữ hồ sơ theo quy định pháp luật",
+        "Sử dụng phương tiện thanh toán để giải ngân vốn cho vay theo quy định của NHNN",
+        "Tổ chức tín dụng được xem xét, quyết định giải ngân vốn cho vay vào tài khoản thanh toán của khách hàng"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "khách hàng (cá nhân vay vốn phục vụ nhu cầu đời sống)",
+      "Ngân hàng Nhà nước Việt Nam",
+      "tổ chức cung ứng dịch vụ thanh toán",
+      "bên thụ hưởng"
+    ],
+    "references": [
+      "Điều 32"
+    ],
+    "keywords": [
+      "Hồ sơ cho vay",
+      "lưu giữ hồ sơ",
+      "giải ngân vốn",
+      "phương tiện thanh toán",
+      "khách hàng cá nhân",
+      "tài khoản thanh toán",
+      "mục đích vay vốn"
+    ],
+    "tags": [
+      "ho_so_cho_vay",
+      "giai_ngan_von",
+      "phuong_tien_thanh_toan",
+      "quy_trinh_cho_vay",
+      "khach_hang_ca_nhan"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định các nghĩa vụ của tổ chức tín dụng về lưu trữ hồ sơ và phương thức giải ngân vốn cho vay, đồng thời cung cấp một quyền hạn cho TCTD trong trường hợp cụ thể."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D3__K1",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 3,
+      "dieu_title": "Trách nhiệm tổ chức thực hiện",
+      "khoan": 1
+    },
+    "input_text": "Chánh Văn phòng, Vụ trưởng Vụ Chính sách tiền tệ, Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, các tổ chức tín dụng có trách nhiệm tổ chức thực hiện Thông tư này.",
+    "summary": "Chánh Văn phòng, Vụ trưởng Vụ Chính sách tiền tệ, Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam và các tổ chức tín dụng có trách nhiệm tổ chức thực hiện Thông tư này.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm"
+      ],
+      "triggers": [],
+      "actions": [
+        "Tổ chức thực hiện Thông tư này"
+      ]
+    },
+    "doi_tuong": [
+      "Chánh Văn phòng",
+      "Vụ trưởng Vụ Chính sách tiền tệ",
+      "Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "các tổ chức tín dụng"
+    ],
+    "references": [],
+    "keywords": [
+      "Trách nhiệm",
+      "tổ chức thực hiện",
+      "Thông tư",
+      "Ngân hàng Nhà nước",
+      "tổ chức tín dụng"
+    ],
+    "tags": [
+      "trach_nhiem_thuc_hien",
+      "quy_dinh_chung",
+      "co_quan_quan_ly"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này xác định rõ các chủ thể có nghĩa vụ và trách nhiệm trong việc triển khai và tuân thủ các quy định của Thông tư."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D4__K1",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 4,
+      "dieu_title": "Điều khoản thi hành",
+      "khoan": 1
+    },
+    "input_text": "Thông tư này có hiệu lực thi hành từ ngày 01 tháng 9 năm 2023.",
+    "summary": "Thông tư này sẽ có hiệu lực thi hành kể từ ngày 01 tháng 9 năm 2023.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [
+      "Thông tư này"
+    ],
+    "references": [],
+    "keywords": [
+      "Hiệu lực thi hành",
+      "ngày 01 tháng 9 năm 2023",
+      "Thông tư"
+    ],
+    "tags": [
+      "hieu_luc_phap_luat",
+      "quy_dinh_chung"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này chỉ đơn thuần quy định ngày có hiệu lực của văn bản pháp luật, không đặt ra nghĩa vụ, quyền hạn hay định nghĩa cụ thể."
+  },
+  {
+    "id": "06_2023_TT-NHNN__D4__K2",
+    "doc_id": "06_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "06/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 4,
+      "dieu_title": "Điều khoản thi hành",
+      "khoan": 2
+    },
+    "input_text": "Đối với các thỏa thuận cho vay, hợp đồng tín dụng được ký kết trước ngày Thông tư này có hiệu lực thi hành, tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội dung trong thỏa thuận cho vay, hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết thỏa thuận cho vay, hợp đồng tín dụng đó. Trường hợp thỏa thuận sửa đổi, bổ sung thỏa thuận cho vay, hợp đồng tín dụng, nội dung sửa đổi, bổ sung phải phù hợp với quy định tại Thông tư này./. Nơi nhận:\n- Như Điều 3;\n- Ban Lãnh đạo NHNN;\n- Văn phòng Chính phủ;\n- Bộ Tư pháp (để kiểm tra);\n- Công báo;\n- Cổng TTĐT của NHNN;\n- Lưu: VP, Vụ PC, Vụ CSTT. KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC\n\n\n\n\nPhạm Thanh Hà",
+    "summary": "Các thỏa thuận cho vay, hợp đồng tín dụng được ký kết trước ngày Thông tư này có hiệu lực thi hành sẽ tiếp tục được thực hiện theo quy định pháp luật tại thời điểm ký kết. Tuy nhiên, mọi sửa đổi, bổ sung đối với các thỏa thuận này phải phù hợp với quy định của Thông tư này.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "thỏa thuận cho vay, hợp đồng tín dụng được ký kết trước ngày Thông tư này có hiệu lực thi hành",
+        "Trường hợp thỏa thuận sửa đổi, bổ sung thỏa thuận cho vay, hợp đồng tín dụng"
+      ],
+      "actions": [
+        "tiếp tục thực hiện các nội dung trong thỏa thuận cho vay, hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết",
+        "nội dung sửa đổi, bổ sung phải phù hợp với quy định tại Thông tư này"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [
+      "Điều 3"
+    ],
+    "keywords": [
+      "thỏa thuận cho vay",
+      "hợp đồng tín dụng",
+      "hiệu lực thi hành",
+      "tổ chức tín dụng",
+      "khách hàng",
+      "sửa đổi bổ sung",
+      "pháp luật",
+      "Thông tư"
+    ],
+    "tags": [
+      "điều_khoản_thi_hành",
+      "chuyển_tiếp",
+      "hợp_đồng_tín_dụng",
+      "sửa_đổi_bổ_sung",
+      "nghĩa_vụ"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định về việc áp dụng Thông tư đối với các thỏa thuận và hợp đồng đã ký trước đó, cũng như các sửa đổi, bổ sung sau này, thể hiện rõ tính chất của một điều khoản thi hành và chuyển tiếp."
+  }
+]

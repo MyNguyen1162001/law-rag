@@ -1,0 +1,4707 @@
+[
+  {
+    "id": "39_2016_TT-NHNN__D1__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 1,
+      "dieu_title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+      "khoan": 1
+    },
+    "input_text": "Thông tư này quy định về hoạt động cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài (sau đây gọi là tổ chức tín dụng) đối với khách hàng.",
+    "summary": "Thông tư này quy định các hoạt động cho vay của tổ chức tín dụng và chi nhánh ngân hàng nước ngoài (gọi chung là tổ chức tín dụng) đối với khách hàng.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "quy định về hoạt động cho vay"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "chi nhánh ngân hàng nước ngoài",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "Thông tư",
+      "hoạt động cho vay",
+      "tổ chức tín dụng",
+      "chi nhánh ngân hàng nước ngoài",
+      "khách hàng"
+    ],
+    "tags": [
+      "phạm_vi_điều_chỉnh",
+      "hoạt_động_cho_vay",
+      "tổ_chức_tín_dụng"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này xác định rõ phạm vi điều chỉnh của Thông tư, tập trung vào hoạt động cho vay giữa tổ chức tín dụng và khách hàng."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D1__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 1,
+      "dieu_title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+      "khoan": 2
+    },
+    "input_text": "Thông tư này không điều chỉnh đối với hoạt động cho vay giữa các tổ chức tín dụng.",
+    "summary": "Thông tư này không áp dụng cho các hoạt động cho vay diễn ra giữa các tổ chức tín dụng với nhau.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [],
+      "triggers": [
+        "hoạt động cho vay giữa các tổ chức tín dụng"
+      ],
+      "actions": [
+        "không điều chỉnh"
+      ]
+    },
+    "doi_tuong": [
+      "Thông tư này",
+      "tổ chức tín dụng"
+    ],
+    "references": [],
+    "keywords": [
+      "Thông tư",
+      "không điều chỉnh",
+      "hoạt động cho vay",
+      "tổ chức tín dụng"
+    ],
+    "tags": [
+      "phạm_vi_loại_trừ",
+      "cho_vay_liên_ngân_hàng",
+      "tổ_chức_tín_dụng"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này nêu rõ một trường hợp cụ thể bị loại trừ khỏi phạm vi điều chỉnh của Thông tư, làm rõ giới hạn áp dụng."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D2__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 2,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 1
+    },
+    "input_text": "Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+    "summary": "Khoản này giới thiệu rằng các từ ngữ tiếp theo trong Thông tư sẽ được giải thích cụ thể.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "được hiểu như sau"
+      ]
+    },
+    "doi_tuong": [
+      "Thông tư này",
+      "từ ngữ"
+    ],
+    "references": [],
+    "keywords": [
+      "Thông tư",
+      "từ ngữ",
+      "giải thích"
+    ],
+    "tags": [
+      "giải_thích_từ_ngữ",
+      "phạm_vi_áp_dụng"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thiết lập ngữ cảnh cho các định nghĩa sẽ được trình bày sau đó trong Điều này."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D2__K1_2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 2,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 1
+    },
+    "input_text": "Cho vay là hình thức cấp tín dụng, theo đó tổ chức tín dụng giao hoặc cam kết giao cho khách hàng một khoản tiền để sử dụng vào mục đích xác định trong một thời gian nhất định theo thỏa thuận với nguyên tắc có hoàn trả cả gốc và lãi.",
+    "summary": "Cho vay là một hình thức cấp tín dụng, trong đó tổ chức tín dụng cung cấp hoặc cam kết cung cấp tiền cho khách hàng với mục đích và thời gian cụ thể, dựa trên thỏa thuận về việc hoàn trả cả gốc và lãi.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "Cho vay",
+      "cấp tín dụng",
+      "khoản tiền",
+      "mục đích xác định",
+      "thời gian nhất định",
+      "hoàn trả",
+      "gốc",
+      "lãi"
+    ],
+    "tags": [
+      "định_nghĩa",
+      "cho_vay",
+      "cấp_tín_dụng"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cung cấp định nghĩa pháp lý chi tiết về khái niệm \"Cho vay\" trong bối cảnh của Thông tư."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D2__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 2,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 2
+    },
+    "input_text": "Tổ chức tín dụng cho vay là tổ chức tín dụng được thành lập và hoạt động theo quy định của Luật các tổ chức tín dụng, bao gồm: a) Ngân hàng thương mại; b) Ngân hàng hợp tác xã; c) Tổ chức tín dụng phi ngân hàng; d) Tổ chức tài chính vi mô; đ) Quỹ tín dụng nhân dân; e) Chi nhánh ngân hàng nước ngoài.",
+    "summary": "Tổ chức tín dụng cho vay là các tổ chức được thành lập và hoạt động theo Luật các tổ chức tín dụng, bao gồm ngân hàng thương mại, ngân hàng hợp tác xã, tổ chức tín dụng phi ngân hàng, tổ chức tài chính vi mô, quỹ tín dụng nhân dân và chi nhánh ngân hàng nước ngoài.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng cho vay",
+      "Ngân hàng thương mại",
+      "Ngân hàng hợp tác xã",
+      "Tổ chức tín dụng phi ngân hàng",
+      "Tổ chức tài chính vi mô",
+      "Quỹ tín dụng nhân dân",
+      "Chi nhánh ngân hàng nước ngoài"
+    ],
+    "references": [],
+    "keywords": [
+      "Tổ chức tín dụng cho vay",
+      "Luật các tổ chức tín dụng",
+      "Ngân hàng thương mại",
+      "Ngân hàng hợp tác xã",
+      "Tổ chức tín dụng phi ngân hàng",
+      "Tổ chức tài chính vi mô",
+      "Quỹ tín dụng nhân dân",
+      "Chi nhánh ngân hàng nước ngoài"
+    ],
+    "tags": [
+      "định_nghĩa",
+      "tổ_chức_tín_dụng",
+      "phân_loại"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa và liệt kê các loại hình tổ chức tín dụng được phép thực hiện hoạt động cho vay theo Thông tư."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D2__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 2,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 3
+    },
+    "input_text": "Khách hàng vay vốn tại tổ chức tín dụng (sau đây gọi là khách hàng) là pháp nhân, cá nhân, bao gồm: a) Pháp nhân được thành lập và hoạt động tại Việt Nam, pháp nhân được thành lập ở nước ngoài và hoạt động hợp pháp tại Việt Nam; b) Cá nhân có quốc tịch Việt Nam, cá nhân có quốc tịch nước ngoài.",
+    "summary": "Khách hàng vay vốn tại tổ chức tín dụng là các pháp nhân (trong và ngoài nước hoạt động hợp pháp tại Việt Nam) và cá nhân (có quốc tịch Việt Nam hoặc nước ngoài).",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [
+      "Khách hàng vay vốn",
+      "pháp nhân",
+      "cá nhân"
+    ],
+    "references": [],
+    "keywords": [
+      "Khách hàng vay vốn",
+      "pháp nhân",
+      "cá nhân",
+      "quốc tịch Việt Nam",
+      "quốc tịch nước ngoài"
+    ],
+    "tags": [
+      "định_nghĩa",
+      "khách_hàng",
+      "đối_tượng_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa và phân loại các đối tượng khách hàng có thể vay vốn từ tổ chức tín dụng."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D2__K4",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 2,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 4
+    },
+    "input_text": "Cho vay phục vụ nhu cầu đời sống là việc tổ chức tín dụng cho vay đối với khách hàng là cá nhân để thanh toán các chi phí cho mục đích tiêu dùng, sinh hoạt của cá nhân đó, gia đình của cá nhân đó.",
+    "summary": "Cho vay phục vụ nhu cầu đời sống là hoạt động tổ chức tín dụng cấp vốn cho khách hàng cá nhân nhằm chi trả các chi phí tiêu dùng, sinh hoạt của bản thân hoặc gia đình.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng là cá nhân"
+    ],
+    "references": [],
+    "keywords": [
+      "Cho vay phục vụ nhu cầu đời sống",
+      "khách hàng cá nhân",
+      "chi phí tiêu dùng",
+      "chi phí sinh hoạt",
+      "gia đình"
+    ],
+    "tags": [
+      "định_nghĩa",
+      "cho_vay_tiêu_dùng",
+      "mục_đích_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cung cấp định nghĩa cụ thể về loại hình \"Cho vay phục vụ nhu cầu đời sống\"."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D2__K5",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 2,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 5
+    },
+    "input_text": "Cho vay phục vụ hoạt động kinh doanh, hoạt động khác (sau đây gọi là hoạt động kinh doanh) là việc tổ chức tín dụng cho vay đối với khách hàng là pháp nhân, cá nhân nhằm đáp ứng nhu cầu vốn ngoài quy định tại khoản 4 Điều này, bao gồm nhu cầu vốn của pháp nhân, cá nhân đó và nhu cầu vốn của hộ kinh doanh, doanh nghiệp tư nhân mà cá nhân đó là chủ hộ kinh doanh, chủ doanh nghiệp tư nhân.",
+    "summary": "Cho vay phục vụ hoạt động kinh doanh là việc tổ chức tín dụng cấp vốn cho khách hàng là pháp nhân hoặc cá nhân để đáp ứng các nhu cầu vốn không thuộc cho vay đời sống, bao gồm cả nhu cầu vốn của hộ kinh doanh, doanh nghiệp tư nhân do cá nhân đó làm chủ.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng là pháp nhân",
+      "khách hàng là cá nhân",
+      "hộ kinh doanh",
+      "doanh nghiệp tư nhân"
+    ],
+    "references": [],
+    "keywords": [
+      "Cho vay phục vụ hoạt động kinh doanh",
+      "hoạt động khác",
+      "nhu cầu vốn",
+      "pháp nhân",
+      "cá nhân",
+      "hộ kinh doanh",
+      "doanh nghiệp tư nhân"
+    ],
+    "tags": [
+      "định_nghĩa",
+      "cho_vay_kinh_doanh",
+      "mục_đích_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa loại hình \"Cho vay phục vụ hoạt động kinh doanh, hoạt động khác\" và các đối tượng liên quan."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D2__K6",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 2,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 6
+    },
+    "input_text": "Phương án sử dụng vốn là tập hợp các thông tin về việc sử dụng vốn của khách hàng, trong đó phải có các thông tin: a) Tổng nguồn vốn cần sử dụng, chi tiết các loại nguồn vốn trong tổng nguồn vốn cần sử dụng (trong đó có nguồn vốn cần vay tại tổ chức tín dụng); mục đích sử dụng vốn; thời gian sử dụng vốn; b) Nguồn trả nợ của khách hàng; c) Phương án, dự án thực hiện hoạt động kinh doanh (trừ nhu cầu vốn phục vụ đời sống).",
+    "summary": "Phương án sử dụng vốn là tập hợp các thông tin chi tiết về việc khách hàng sử dụng vốn, bao gồm tổng nguồn vốn cần dùng, mục đích, thời gian sử dụng, nguồn trả nợ, và phương án/dự án kinh doanh (trừ nhu cầu đời sống).",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [],
+      "actions": [
+        "tập hợp thông tin về sử dụng vốn",
+        "có các thông tin về tổng nguồn vốn",
+        "có thông tin về mục đích sử dụng vốn",
+        "có thông tin về thời gian sử dụng vốn",
+        "có thông tin về nguồn trả nợ",
+        "có thông tin về phương án, dự án kinh doanh"
+      ]
+    },
+    "doi_tuong": [
+      "khách hàng",
+      "tổ chức tín dụng"
+    ],
+    "references": [],
+    "keywords": [
+      "Phương án sử dụng vốn",
+      "thông tin",
+      "nguồn vốn",
+      "mục đích sử dụng vốn",
+      "thời gian sử dụng vốn",
+      "nguồn trả nợ",
+      "phương án kinh doanh",
+      "dự án kinh doanh"
+    ],
+    "tags": [
+      "dinh_nghia",
+      "phuong_an_su_dung_von",
+      "thong_tin_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa 'Phương án sử dụng vốn' và liệt kê các thông tin bắt buộc phải có trong đó, làm rõ nội dung cần thiết cho hoạt động cho vay."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D2__K7",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 2,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 7
+    },
+    "input_text": "Khả năng tài chính là khả năng về vốn, tài sản, các nguồn tài chính hợp pháp khác của khách hàng.",
+    "summary": "Khả năng tài chính được định nghĩa là năng lực về vốn, tài sản và các nguồn tài chính hợp pháp khác mà khách hàng sở hữu.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "Khả năng tài chính",
+      "vốn",
+      "tài sản",
+      "nguồn tài chính hợp pháp"
+    ],
+    "tags": [
+      "dinh_nghia",
+      "kha_nang_tai_chinh",
+      "khach_hang"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cung cấp định nghĩa rõ ràng về 'Khả năng tài chính' của khách hàng, một yếu tố quan trọng trong đánh giá tín dụng."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D2__K8",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 2,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 8
+    },
+    "input_text": "Thời hạn cho vay là khoảng thời gian được tính từ ngày tiếp theo của ngày tổ chức tín dụng giải ngân vốn vay cho khách hàng cho đến thời điểm khách hàng phải trả hết nợ gốc và lãi tiền vay theo thỏa thuận của tổ chức tín dụng và khách hàng. Trường hợp ngày cuối cùng của thời hạn cho vay là ngày lễ hoặc ngày nghỉ hàng tuần, thì chuyển sang ngày làm việc tiếp theo. Đối với thời hạn cho vay không đủ một ngày thì thực hiện theo quy định tại Bộ luật dân sự về thời điểm bắt đầu thời hạn.",
+    "summary": "Thời hạn cho vay là khoảng thời gian từ ngày tiếp theo sau giải ngân đến khi khách hàng hoàn tất trả nợ gốc và lãi theo thỏa thuận. Nếu ngày cuối cùng là ngày lễ/nghỉ, thời hạn chuyển sang ngày làm việc kế tiếp; với thời hạn dưới một ngày, áp dụng quy định Bộ luật dân sự về thời điểm bắt đầu.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "ngày cuối cùng của thời hạn cho vay là ngày lễ hoặc ngày nghỉ hàng tuần",
+        "thời hạn cho vay không đủ một ngày"
+      ],
+      "actions": [
+        "tính thời hạn cho vay",
+        "trả hết nợ gốc và lãi",
+        "chuyển sang ngày làm việc tiếp theo",
+        "thực hiện theo quy định tại Bộ luật dân sự"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "Thời hạn cho vay",
+      "giải ngân",
+      "nợ gốc",
+      "lãi tiền vay",
+      "ngày lễ",
+      "ngày nghỉ",
+      "Bộ luật dân sự"
+    ],
+    "tags": [
+      "dinh_nghia",
+      "thoi_han_cho_vay",
+      "tinh_toan_thoi_gian",
+      "quy_dinh_chung"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa 'Thời hạn cho vay' và quy định cách xử lý các trường hợp đặc biệt liên quan đến việc tính toán thời hạn, đảm bảo sự rõ ràng trong thực hiện hợp đồng."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D2__K9",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 2,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 9
+    },
+    "input_text": "Kỳ hạn trả nợ là các khoảng thời gian trong thời hạn cho vay đã thỏa thuận mà tại cuối mỗi khoảng thời gian đó khách hàng phải trả một phần hoặc toàn bộ nợ gốc và/hoặc lãi tiền vay cho tổ chức tín dụng.",
+    "summary": "Kỳ hạn trả nợ là các khoảng thời gian đã thỏa thuận trong thời hạn cho vay, tại đó khách hàng có nghĩa vụ trả một phần hoặc toàn bộ nợ gốc và/hoặc lãi tiền vay cho tổ chức tín dụng.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [],
+      "actions": [
+        "trả một phần hoặc toàn bộ nợ gốc và/hoặc lãi tiền vay"
+      ]
+    },
+    "doi_tuong": [
+      "khách hàng",
+      "tổ chức tín dụng"
+    ],
+    "references": [],
+    "keywords": [
+      "Kỳ hạn trả nợ",
+      "thời hạn cho vay",
+      "nợ gốc",
+      "lãi tiền vay",
+      "thỏa thuận"
+    ],
+    "tags": [
+      "dinh_nghia",
+      "ky_han_tra_no",
+      "nghia_vu_tra_no"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa 'Kỳ hạn trả nợ' và làm rõ nghĩa vụ của khách hàng trong việc thanh toán nợ gốc và lãi theo các mốc thời gian đã thỏa thuận."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D2__K10",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 2,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 10
+    },
+    "input_text": "Cơ cấu lại thời hạn trả nợ là việc tổ chức tín dụng chấp thuận điều chỉnh kỳ hạn trả nợ, gia hạn nợ như sau: a) Điều chỉnh kỳ hạn trả nợ là việc tổ chức tín dụng chấp thuận kéo dài thêm một khoảng thời gian trả nợ một phần hoặc toàn bộ nợ gốc và/hoặc lãi tiền vay của kỳ hạn trả nợ đã thỏa thuận (bao gồm cả trường hợp không thay đổi về số kỳ hạn trả nợ đã thỏa thuận), thời hạn cho vay không thay đổi; b) Gia hạn nợ là việc tổ chức tín dụng chấp thuận kéo dài thêm một khoảng thời gian trả nợ gốc và/hoặc lãi tiền vay, vượt quá thời hạn cho vay đã thoả thuận.",
+    "summary": "Cơ cấu lại thời hạn trả nợ là việc tổ chức tín dụng chấp thuận điều chỉnh kỳ hạn trả nợ hoặc gia hạn nợ. Điều chỉnh kỳ hạn là kéo dài thời gian trả nợ trong khi thời hạn cho vay không đổi, còn gia hạn nợ là kéo dài thời gian trả nợ vượt quá thời hạn cho vay ban đầu.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "chấp thuận điều chỉnh kỳ hạn trả nợ",
+        "chấp thuận gia hạn nợ",
+        "kéo dài thêm một khoảng thời gian trả nợ"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng"
+    ],
+    "references": [],
+    "keywords": [
+      "Cơ cấu lại thời hạn trả nợ",
+      "điều chỉnh kỳ hạn trả nợ",
+      "gia hạn nợ",
+      "nợ gốc",
+      "lãi tiền vay",
+      "thời hạn cho vay"
+    ],
+    "tags": [
+      "dinh_nghia",
+      "co_cau_lai_no",
+      "quan_ly_no",
+      "cho_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa 'Cơ cấu lại thời hạn trả nợ' và phân biệt rõ ràng giữa 'Điều chỉnh kỳ hạn trả nợ' và 'Gia hạn nợ', làm cơ sở cho các quy định liên quan đến xử lý nợ."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D2__K11",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 2,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 11
+    },
+    "input_text": "Dư nợ gốc bị quá hạn bao gồm: a) Số dư nợ gốc bị chuyển nợ quá hạn theo quy định tại Điều 20 Thông tư này; b) Số dư nợ gốc mà khách hàng không trả được nợ trước hạn khi tổ chức tín dụng chấm dứt cho vay, thu hồi nợ trước hạn theo quy định tại khoản 1 Điều 21 Thông tư này.",
+    "summary": "Dư nợ gốc bị quá hạn bao gồm số dư nợ gốc bị chuyển nợ quá hạn theo Điều 20 và số dư nợ gốc khách hàng không trả được khi tổ chức tín dụng chấm dứt hoặc thu hồi nợ trước hạn theo khoản 1 Điều 21 của Thông tư này.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "bị chuyển nợ quá hạn theo quy định tại Điều 20",
+        "khách hàng không trả được nợ trước hạn khi tổ chức tín dụng chấm dứt cho vay, thu hồi nợ trước hạn theo quy định tại khoản 1 Điều 21"
+      ],
+      "actions": []
+    },
+    "doi_tuong": [
+      "khách hàng",
+      "tổ chức tín dụng"
+    ],
+    "references": [
+      "Điều 20",
+      "Điều 21"
+    ],
+    "keywords": [
+      "Dư nợ gốc bị quá hạn",
+      "chuyển nợ quá hạn",
+      "chấm dứt cho vay",
+      "thu hồi nợ trước hạn",
+      "nợ gốc"
+    ],
+    "tags": [
+      "dinh_nghia",
+      "no_qua_han",
+      "quan_ly_rui_ro",
+      "thu_hoi_no"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa 'Dư nợ gốc bị quá hạn' bằng cách liệt kê các trường hợp cụ thể mà nợ gốc được coi là quá hạn, liên kết với các điều khoản khác của Thông tư."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D3__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 3,
+      "dieu_title": "Quyền tự chủ của tổ chức tín dụng",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng có quyền tự chủ trong hoạt động cho vay và tự chịu trách nhiệm về quyết định cho vay của mình. Không tổ chức, cá nhân nào được can thiệp trái pháp luật vào hoạt động cho vay của tổ chức tín dụng.",
+    "summary": "Tổ chức tín dụng có quyền tự chủ trong hoạt động cho vay và phải tự chịu trách nhiệm về các quyết định của mình. Không tổ chức, cá nhân nào được phép can thiệp trái pháp luật vào hoạt động cho vay của tổ chức tín dụng.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "có quyền",
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "tự chủ trong hoạt động cho vay",
+        "tự chịu trách nhiệm về quyết định cho vay",
+        "không can thiệp trái pháp luật vào hoạt động cho vay"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "tổ chức",
+      "cá nhân"
+    ],
+    "references": [],
+    "keywords": [
+      "Tổ chức tín dụng",
+      "quyền tự chủ",
+      "hoạt động cho vay",
+      "trách nhiệm",
+      "can thiệp trái pháp luật"
+    ],
+    "tags": [
+      "quyen_han",
+      "tu_chu",
+      "cho_vay",
+      "trach_nhiem"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định về quyền tự chủ và trách nhiệm của tổ chức tín dụng trong hoạt động cho vay, đồng thời cấm các hành vi can thiệp trái pháp luật."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D3__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 3,
+      "dieu_title": "Quyền tự chủ của tổ chức tín dụng",
+      "khoan": 2
+    },
+    "input_text": "Tổ chức tín dụng có quyền từ chối các yêu cầu của khách hàng không đúng với quy định tại Thông tư này và thỏa thuận cho vay.",
+    "summary": "Tổ chức tín dụng có quyền từ chối các yêu cầu của khách hàng nếu những yêu cầu đó không phù hợp với quy định của Thông tư này và thỏa thuận cho vay đã ký kết.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "có quyền"
+      ],
+      "triggers": [
+        "yêu cầu của khách hàng không đúng với quy định tại Thông tư này",
+        "yêu cầu của khách hàng không đúng với thỏa thuận cho vay"
+      ],
+      "actions": [
+        "từ chối các yêu cầu của khách hàng"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "Tổ chức tín dụng",
+      "quyền từ chối",
+      "yêu cầu khách hàng",
+      "quy định Thông tư",
+      "thỏa thuận cho vay"
+    ],
+    "tags": [
+      "quyen_han",
+      "tu_choi",
+      "khach_hang",
+      "cho_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định quyền của tổ chức tín dụng được từ chối các yêu cầu của khách hàng nếu chúng vi phạm quy định pháp luật hoặc thỏa thuận đã ký."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D4__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 4,
+      "dieu_title": "Nguyên tắc cho vay, vay vốn",
+      "khoan": 1
+    },
+    "input_text": "Hoạt động cho vay của tổ chức tín dụng đối với khách hàng được thực hiện theo thỏa thuận giữa tổ chức tín dụng và khách hàng, phù hợp với quy định tại Thông tư này và các quy định của pháp luật có liên quan bao gồm cả pháp luật về bảo vệ môi trường.",
+    "summary": "Hoạt động cho vay của tổ chức tín dụng đối với khách hàng được thực hiện dựa trên thỏa thuận giữa hai bên, đồng thời phải tuân thủ các quy định của Thông tư này và pháp luật liên quan, bao gồm cả pháp luật về bảo vệ môi trường.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "Thực hiện hoạt động cho vay",
+        "Thỏa thuận giữa tổ chức tín dụng và khách hàng",
+        "Tuân thủ quy định pháp luật"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "Khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "Hoạt động cho vay",
+      "tổ chức tín dụng",
+      "khách hàng",
+      "thỏa thuận",
+      "pháp luật",
+      "bảo vệ môi trường"
+    ],
+    "tags": [
+      "cho_vay",
+      "quy_dinh_chung",
+      "tuan_thu",
+      "moi_truong"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nguyên tắc chung về việc thực hiện hoạt động cho vay của tổ chức tín dụng, nhấn mạnh sự cần thiết của thỏa thuận và tuân thủ pháp luật."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D4__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 4,
+      "dieu_title": "Nguyên tắc cho vay, vay vốn",
+      "khoan": 2
+    },
+    "input_text": "Khách hàng vay vốn tổ chức tín dụng phải đảm bảo sử dụng vốn vay đúng mục đích, hoàn trả nợ gốc và lãi tiền vay đúng thời hạn đã thỏa thuận với tổ chức tín dụng.",
+    "summary": "Khách hàng vay vốn từ tổ chức tín dụng có nghĩa vụ sử dụng vốn đúng mục đích và hoàn trả đầy đủ nợ gốc cùng lãi vay theo đúng thời hạn đã thỏa thuận.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [
+        "Khách hàng vay vốn tổ chức tín dụng"
+      ],
+      "actions": [
+        "Đảm bảo sử dụng vốn vay đúng mục đích",
+        "Hoàn trả nợ gốc và lãi tiền vay đúng thời hạn"
+      ]
+    },
+    "doi_tuong": [
+      "Khách hàng",
+      "Tổ chức tín dụng"
+    ],
+    "references": [],
+    "keywords": [
+      "Khách hàng",
+      "vay vốn",
+      "tổ chức tín dụng",
+      "sử dụng vốn",
+      "hoàn trả nợ",
+      "lãi tiền vay",
+      "thời hạn"
+    ],
+    "tags": [
+      "nghia_vu_khach_hang",
+      "cho_vay",
+      "tra_no",
+      "su_dung_von"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định rõ ràng các nghĩa vụ mà khách hàng phải thực hiện khi vay vốn từ tổ chức tín dụng."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D5__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 5,
+      "dieu_title": "Áp dụng các văn bản pháp luật có liên quan",
+      "khoan": 1
+    },
+    "input_text": "Hoạt động cho vay của tổ chức tín dụng thực hiện theo quy định tại Luật các tổ chức tín dụng, Thông tư này và các quy định của pháp luật có liên quan.",
+    "summary": "Hoạt động cho vay của tổ chức tín dụng phải tuân thủ các quy định của Luật các tổ chức tín dụng, Thông tư này và các văn bản pháp luật liên quan khác.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "Thực hiện hoạt động cho vay",
+        "Tuân thủ quy định pháp luật"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng"
+    ],
+    "references": [],
+    "keywords": [
+      "Hoạt động cho vay",
+      "tổ chức tín dụng",
+      "Luật các tổ chức tín dụng",
+      "Thông tư",
+      "pháp luật liên quan"
+    ],
+    "tags": [
+      "tuan_thu_phap_luat",
+      "cho_vay",
+      "quy_dinh_chung",
+      "van_ban_phap_luat"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này xác định các văn bản pháp luật mà hoạt động cho vay của tổ chức tín dụng phải tuân thủ."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D5__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 5,
+      "dieu_title": "Áp dụng các văn bản pháp luật có liên quan",
+      "khoan": 2
+    },
+    "input_text": "Các hoạt động cho vay cụ thể được quy định tại văn bản riêng của Chính phủ, Thủ tướng Chính phủ và Ngân hàng Nhà nước Việt Nam, thì thực hiện theo quy định tại văn bản riêng của Chính phủ, Thủ tướng Chính phủ và Ngân hàng Nhà nước Việt Nam; trường hợp văn bản riêng của Chính phủ, Thủ tướng Chính phủ và Ngân hàng Nhà nước Việt Nam có quy định việc áp dụng Thông tư này hoặc các nội dung liên quan đến hoạt động cho vay không được quy định tại văn bản riêng, thì thực hiện theo quy định có liên quan tại Thông tư này. Các hoạt động cho vay cụ thể bao gồm: a) Hoạt động cho vay hợp vốn; b) Hoạt động cho vay đối với khách hàng để đầu tư ra nước ngoài; c) Hoạt động cho vay đối với khách hàng thực hiện hoạt động kinh doanh thuộc các chính sách, chương trình kinh tế - xã hội của Chính phủ, Thủ tướng Chính phủ; d) Hoạt động cho vay bằng ngoại tệ đối với khách hàng là người cư trú; đ) Hoạt động cho vay, thu nợ nước ngoài đối với khách hàng là người không cư trú; e) Hoạt động cho vay của quỹ tín dụng nhân dân, tổ chức tài chính vi mô; g) Hoạt động cho vay tiêu dùng của công ty tài chính; h) Các hoạt động cho vay cụ thể khác được quy định tại văn bản riêng của Chính phủ, Thủ tướng Chính phủ và Ngân hàng Nhà nước Việt Nam.",
+    "summary": "Các hoạt động cho vay cụ thể được quy định trong văn bản riêng của Chính phủ, Thủ tướng Chính phủ hoặc Ngân hàng Nhà nước Việt Nam sẽ tuân thủ các văn bản đó; nếu văn bản riêng quy định áp dụng Thông tư này hoặc không quy định, thì áp dụng Thông tư này. Khoản này cũng liệt kê các loại hoạt động cho vay cụ thể.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [
+        "không được",
+        "được"
+      ],
+      "triggers": [
+        "Hoạt động cho vay cụ thể được quy định tại văn bản riêng",
+        "Văn bản riêng có quy định việc áp dụng Thông tư này",
+        "Nội dung liên quan đến hoạt động cho vay không được quy định tại văn bản riêng"
+      ],
+      "actions": [
+        "Thực hiện theo quy định tại văn bản riêng",
+        "Thực hiện theo quy định có liên quan tại Thông tư này",
+        "Liệt kê các hoạt động cho vay cụ thể"
+      ]
+    },
+    "doi_tuong": [
+      "Chính phủ",
+      "Thủ tướng Chính phủ",
+      "Ngân hàng Nhà nước Việt Nam",
+      "Quỹ tín dụng nhân dân",
+      "Tổ chức tài chính vi mô",
+      "Công ty tài chính"
+    ],
+    "references": [],
+    "keywords": [
+      "Hoạt động cho vay",
+      "văn bản riêng",
+      "Chính phủ",
+      "Thủ tướng Chính phủ",
+      "Ngân hàng Nhà nước",
+      "Thông tư",
+      "cho vay hợp vốn",
+      "đầu tư ra nước ngoài",
+      "cho vay ngoại tệ",
+      "quỹ tín dụng nhân dân",
+      "công ty tài chính"
+    ],
+    "tags": [
+      "ap_dung_phap_luat",
+      "cho_vay_dac_thu",
+      "phan_loai",
+      "quy_dinh_chung"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thiết lập nguyên tắc ưu tiên áp dụng văn bản pháp luật cho các hoạt động cho vay cụ thể và liệt kê các loại hình cho vay đó."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D6__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 6,
+      "dieu_title": "Sử dụng ngôn ngữ",
+      "khoan": 1
+    },
+    "input_text": "Thỏa thuận cho vay được lập bằng tiếng Việt hoặc đồng thời bằng tiếng Việt và tiếng nước ngoài.",
+    "summary": "Thỏa thuận cho vay có thể được lập bằng tiếng Việt hoặc song ngữ tiếng Việt và tiếng nước ngoài.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "Lập thỏa thuận cho vay bằng tiếng Việt",
+        "Lập thỏa thuận cho vay bằng tiếng Việt và tiếng nước ngoài"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "Thỏa thuận cho vay",
+      "tiếng Việt",
+      "tiếng nước ngoài",
+      "song ngữ"
+    ],
+    "tags": [
+      "ngon_ngu",
+      "hop_dong",
+      "cho_vay",
+      "quy_dinh_chung"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định về lựa chọn ngôn ngữ được phép sử dụng để lập thỏa thuận cho vay."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D6__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 6,
+      "dieu_title": "Sử dụng ngôn ngữ",
+      "khoan": 2
+    },
+    "input_text": "Đối với các tài liệu khác trong hoạt động cho vay sử dụng tiếng nước ngoài, khi cơ quan có thẩm quyền yêu cầu dịch sang tiếng Việt, thì bản dịch phải có xác nhận của người có thẩm quyền của tổ chức tín dụng hoặc phải được công chứng hoặc chứng thực.",
+    "summary": "Khi cơ quan có thẩm quyền yêu cầu dịch các tài liệu cho vay bằng tiếng nước ngoài sang tiếng Việt, bản dịch phải được xác nhận bởi người có thẩm quyền của tổ chức tín dụng hoặc được công chứng, chứng thực.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "Tài liệu khác trong hoạt động cho vay sử dụng tiếng nước ngoài",
+        "Cơ quan có thẩm quyền yêu cầu dịch sang tiếng Việt"
+      ],
+      "actions": [
+        "Bản dịch phải có xác nhận của người có thẩm quyền của tổ chức tín dụng",
+        "Bản dịch phải được công chứng hoặc chứng thực"
+      ]
+    },
+    "doi_tuong": [
+      "Cơ quan có thẩm quyền",
+      "Tổ chức tín dụng",
+      "Người có thẩm quyền của tổ chức tín dụng"
+    ],
+    "references": [],
+    "keywords": [
+      "Tài liệu cho vay",
+      "tiếng nước ngoài",
+      "dịch thuật",
+      "tiếng Việt",
+      "cơ quan có thẩm quyền",
+      "xác nhận",
+      "công chứng",
+      "chứng thực"
+    ],
+    "tags": [
+      "ngon_ngu",
+      "tai_lieu",
+      "thu_tuc",
+      "tuan_thu"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ và yêu cầu đối với việc dịch các tài liệu cho vay từ tiếng nước ngoài sang tiếng Việt khi có yêu cầu."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D7__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 7,
+      "dieu_title": "Điều kiện vay vốn",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng xem xét, quyết định cho vay khi khách hàng có đủ các điều kiện sau đây:",
+    "summary": "Tổ chức tín dụng sẽ xem xét và quyết định cho vay khi khách hàng đáp ứng đầy đủ các điều kiện được quy định sau đây.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [],
+      "triggers": [
+        "Khách hàng có đủ các điều kiện sau đây"
+      ],
+      "actions": [
+        "Xem xét cho vay",
+        "Quyết định cho vay"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "Khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "Tổ chức tín dụng",
+      "xem xét",
+      "quyết định cho vay",
+      "điều kiện vay vốn",
+      "khách hàng"
+    ],
+    "tags": [
+      "dieu_kien_cho_vay",
+      "quy_trinh_cho_vay",
+      "tham_dinh",
+      "quy_dinh_chung"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đặt ra điều kiện tiên quyết để tổ chức tín dụng xem xét và quyết định cấp khoản vay."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D7__K1_2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 7,
+      "dieu_title": "Điều kiện vay vốn",
+      "khoan": 1
+    },
+    "input_text": "Khách hàng là pháp nhân có năng lực pháp luật dân sự theo quy định của pháp luật. Khách hàng là cá nhân từ đủ 18 tuổi trở lên có năng lực hành vi dân sự đầy đủ theo quy định của pháp luật hoặc từ đủ 15 tuổi đến chưa đủ 18 tuổi không bị mất hoặc hạn chế năng lực hành vi dân sự theo quy định của pháp luật.",
+    "summary": "Khách hàng vay vốn phải là pháp nhân có năng lực pháp luật dân sự hoặc cá nhân từ đủ 18 tuổi có năng lực hành vi dân sự đầy đủ, hoặc cá nhân từ đủ 15 đến dưới 18 tuổi không bị mất/hạn chế năng lực hành vi dân sự.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [
+      "Khách hàng (pháp nhân)",
+      "Khách hàng (cá nhân)"
+    ],
+    "references": [],
+    "keywords": [
+      "Khách hàng",
+      "pháp nhân",
+      "năng lực pháp luật dân sự",
+      "cá nhân",
+      "năng lực hành vi dân sự",
+      "tuổi"
+    ],
+    "tags": [
+      "dieu_kien_cho_vay",
+      "dinh_nghia",
+      "chu_the",
+      "nang_luc_phap_ly"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa và quy định về năng lực pháp lý của khách hàng là pháp nhân hoặc cá nhân để đủ điều kiện vay vốn."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D7__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 7,
+      "dieu_title": "Điều kiện vay vốn",
+      "khoan": 2
+    },
+    "input_text": "Nhu cầu vay vốn để sử dụng vào mục đích hợp pháp.",
+    "summary": "Nhu cầu vay vốn phải được sử dụng vào mục đích hợp pháp theo quy định của pháp luật.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "sử dụng vốn vào mục đích hợp pháp"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "nhu cầu vay vốn",
+      "mục đích hợp pháp",
+      "sử dụng vốn"
+    ],
+    "tags": [
+      "điều_kiện_vay",
+      "mục_đích_sử_dụng_vốn",
+      "tuân_thủ_pháp_luật"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định một trong các điều kiện cơ bản để được vay vốn là mục đích sử dụng vốn phải hợp pháp."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D7__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 7,
+      "dieu_title": "Điều kiện vay vốn",
+      "khoan": 3
+    },
+    "input_text": "Có phương án sử dụng vốn khả thi.",
+    "summary": "Khách hàng vay vốn phải có phương án sử dụng vốn được đánh giá là khả thi.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "có phương án sử dụng vốn khả thi"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "phương án sử dụng vốn",
+      "khả thi",
+      "vay vốn"
+    ],
+    "tags": [
+      "điều_kiện_vay",
+      "thẩm_định_khoản_vay",
+      "quản_lý_rủi_ro"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đặt ra một điều kiện để được vay vốn, liên quan đến việc đánh giá tính khả thi của kế hoạch sử dụng vốn."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D7__K4",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 7,
+      "dieu_title": "Điều kiện vay vốn",
+      "khoan": 4
+    },
+    "input_text": "Có khả năng tài chính để trả nợ.",
+    "summary": "Khách hàng vay vốn phải có khả năng tài chính để thực hiện nghĩa vụ trả nợ.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "có khả năng tài chính để trả nợ"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "khả năng tài chính",
+      "trả nợ",
+      "nghĩa vụ trả nợ",
+      "vay vốn"
+    ],
+    "tags": [
+      "điều_kiện_vay",
+      "thẩm_định_khoản_vay",
+      "quản_lý_rủi_ro",
+      "khả_năng_trả_nợ"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định một điều kiện quan trọng để được vay vốn, đó là khả năng tài chính của khách hàng để hoàn trả khoản vay."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D7__K5",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 7,
+      "dieu_title": "Điều kiện vay vốn",
+      "khoan": 5
+    },
+    "input_text": "Trường hợp khách hàng vay vốn của tổ chức tín dụng theo lãi suất cho vay quy định tại khoản 2 Điều 13 Thông tư này, thì khách hàng được tổ chức tín dụng đánh giá là có tình hình tài chính minh bạch, lành mạnh.",
+    "summary": "Trường hợp khách hàng vay vốn của tổ chức tín dụng theo lãi suất cho vay quy định tại khoản 2 Điều 13 Thông tư này, khách hàng sẽ được tổ chức tín dụng đánh giá là có tình hình tài chính minh bạch và lành mạnh.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "khách hàng vay vốn của tổ chức tín dụng theo lãi suất cho vay quy định tại khoản 2 Điều 13 Thông tư này"
+      ],
+      "actions": [
+        "được tổ chức tín dụng đánh giá là có tình hình tài chính minh bạch, lành mạnh"
+      ]
+    },
+    "doi_tuong": [
+      "khách hàng",
+      "tổ chức tín dụng"
+    ],
+    "references": [
+      "Điều 13"
+    ],
+    "keywords": [
+      "khách hàng vay vốn",
+      "tổ chức tín dụng",
+      "lãi suất cho vay",
+      "tình hình tài chính",
+      "minh bạch",
+      "lành mạnh"
+    ],
+    "tags": [
+      "điều_kiện_vay",
+      "đánh_giá_tín_dụng",
+      "lãi_suất_cho_vay",
+      "minh_bạch_tài_chính"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định một điều kiện đặc biệt liên quan đến việc đánh giá tình hình tài chính của khách hàng khi áp dụng một loại lãi suất cụ thể."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D8__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 8,
+      "dieu_title": "Những nhu cầu vốn không được cho vay",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng không được cho vay đối với các nhu cầu vốn:",
+    "summary": "Tổ chức tín dụng bị cấm cho vay đối với các nhu cầu vốn được liệt kê sau đây.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "không được",
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "không được cho vay"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng"
+    ],
+    "references": [],
+    "keywords": [
+      "tổ chức tín dụng",
+      "không được cho vay",
+      "nhu cầu vốn"
+    ],
+    "tags": [
+      "cấm_cho_vay",
+      "quản_lý_rủi_ro",
+      "nghĩa_vụ_tctd"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này là một quy định cấm chung, giới thiệu các trường hợp mà tổ chức tín dụng không được phép cho vay."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D8__K1_2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 8,
+      "dieu_title": "Những nhu cầu vốn không được cho vay",
+      "khoan": 1
+    },
+    "input_text": "Để thực hiện các hoạt động đầu tư kinh doanh thuộc ngành, nghề mà pháp luật cấm đầu tư kinh doanh.",
+    "summary": "Tổ chức tín dụng không được cho vay vốn để khách hàng thực hiện các hoạt động đầu tư kinh doanh thuộc ngành, nghề mà pháp luật cấm đầu tư kinh doanh.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "cấm"
+      ],
+      "triggers": [],
+      "actions": [
+        "thực hiện các hoạt động đầu tư kinh doanh thuộc ngành, nghề mà pháp luật cấm đầu tư kinh doanh"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "hoạt động đầu tư kinh doanh",
+      "ngành nghề cấm",
+      "pháp luật cấm",
+      "cho vay"
+    ],
+    "tags": [
+      "cấm_cho_vay",
+      "hoạt_động_cấm",
+      "tuân_thủ_pháp_luật"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cụ thể hóa một trong những nhu cầu vốn mà tổ chức tín dụng không được cho vay, đó là các hoạt động kinh doanh bị pháp luật cấm."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D8__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 8,
+      "dieu_title": "Những nhu cầu vốn không được cho vay",
+      "khoan": 2
+    },
+    "input_text": "Để thanh toán các chi phí, đáp ứng các nhu cầu tài chính của các giao dịch, hành vi mà pháp luật cấm.",
+    "summary": "Tổ chức tín dụng không được cho vay vốn để thanh toán chi phí hoặc đáp ứng nhu cầu tài chính liên quan đến các giao dịch, hành vi bị pháp luật cấm.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "cấm"
+      ],
+      "triggers": [],
+      "actions": [
+        "thanh toán các chi phí",
+        "đáp ứng các nhu cầu tài chính của các giao dịch, hành vi mà pháp luật cấm"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "thanh toán chi phí",
+      "nhu cầu tài chính",
+      "giao dịch cấm",
+      "hành vi cấm",
+      "pháp luật cấm"
+    ],
+    "tags": [
+      "cấm_cho_vay",
+      "giao_dịch_cấm",
+      "tuân_thủ_pháp_luật"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này tiếp tục liệt kê các nhu cầu vốn bị cấm cho vay, tập trung vào các chi phí và nhu cầu tài chính phát sinh từ các hành vi bị pháp luật cấm."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D8__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 8,
+      "dieu_title": "Những nhu cầu vốn không được cho vay",
+      "khoan": 3
+    },
+    "input_text": "Để mua, sử dụng các hàng hóa, dịch vụ thuộc ngành, nghề mà pháp luật cấm đầu tư kinh doanh.",
+    "summary": "Tổ chức tín dụng không được cho vay vốn để mua hoặc sử dụng các hàng hóa, dịch vụ thuộc ngành, nghề mà pháp luật cấm đầu tư kinh doanh.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "cấm"
+      ],
+      "triggers": [],
+      "actions": [
+        "mua, sử dụng các hàng hóa, dịch vụ thuộc ngành, nghề mà pháp luật cấm đầu tư kinh doanh"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "mua hàng hóa",
+      "sử dụng dịch vụ",
+      "ngành nghề cấm",
+      "pháp luật cấm",
+      "cho vay"
+    ],
+    "tags": [
+      "cấm_cho_vay",
+      "hàng_hóa_dịch_vụ_cấm",
+      "tuân_thủ_pháp_luật"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định một trường hợp cấm cho vay khác, liên quan đến việc mua sắm hoặc sử dụng các sản phẩm, dịch vụ trong các lĩnh vực bị pháp luật cấm."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D8__K4",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 8,
+      "dieu_title": "Những nhu cầu vốn không được cho vay",
+      "khoan": 4
+    },
+    "input_text": "Để mua vàng miếng.",
+    "summary": "Khoản này quy định nhu cầu vốn để mua vàng miếng là một trong những trường hợp không được tổ chức tín dụng cho vay.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "cho vay"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "vàng miếng",
+      "nhu cầu vốn",
+      "cho vay",
+      "tổ chức tín dụng"
+    ],
+    "tags": [
+      "cho_vay",
+      "han_che",
+      "vang_mieng",
+      "ngan_hang"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề hạn chế cho vay vì nó liệt kê một mục đích cụ thể mà tổ chức tín dụng không được phép cấp vốn."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D8__K5",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 8,
+      "dieu_title": "Những nhu cầu vốn không được cho vay",
+      "khoan": 5
+    },
+    "input_text": "Để trả nợ khoản nợ vay tại chính tổ chức tín dụng cho vay trừ trường hợp cho vay để thanh toán lãi tiền vay phát sinh trong quá trình thi công xây dựng công trình, mà chi phí lãi tiền vay được tính trong dự toán xây dựng công trình được cấp có thẩm quyền phê duyệt theo quy định của pháp luật.",
+    "summary": "Nhu cầu vốn để trả nợ khoản vay tại chính tổ chức tín dụng cho vay là không được phép, ngoại trừ trường hợp cho vay để thanh toán lãi tiền vay phát sinh trong quá trình thi công xây dựng công trình, với điều kiện chi phí lãi được tính trong dự toán xây dựng công trình đã được cấp có thẩm quyền phê duyệt.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "trừ trường hợp cho vay để thanh toán lãi tiền vay phát sinh trong quá trình thi công xây dựng công trình",
+        "chi phí lãi tiền vay được tính trong dự toán xây dựng công trình được cấp có thẩm quyền phê duyệt theo quy định của pháp luật"
+      ],
+      "actions": [
+        "cho vay",
+        "thanh toán lãi tiền vay",
+        "trả nợ khoản nợ vay"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng",
+      "cấp có thẩm quyền"
+    ],
+    "references": [],
+    "keywords": [
+      "trả nợ",
+      "khoản nợ vay",
+      "tổ chức tín dụng",
+      "lãi tiền vay",
+      "thi công xây dựng",
+      "dự toán xây dựng",
+      "cấp có thẩm quyền"
+    ],
+    "tags": [
+      "cho_vay",
+      "han_che",
+      "tra_no",
+      "du_an_xay_dung",
+      "lai_suat"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề hạn chế cho vay vì nó quy định một trường hợp cụ thể không được cho vay để trả nợ, đồng thời đưa ra một ngoại lệ cho phép trong điều kiện nhất định."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D8__K6",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 8,
+      "dieu_title": "Những nhu cầu vốn không được cho vay",
+      "khoan": 6
+    },
+    "input_text": "Để trả nợ khoản nợ vay tại tổ chức tín dụng khác và trả nợ khoản vay nước ngoài, trừ trường hợp cho vay để trả nợ trước hạn khoản vay đáp ứng đầy đủ các điều kiện sau đây: a) Là khoản vay phục vụ hoạt động kinh doanh; b) Thời hạn cho vay không vượt quá thời hạn cho vay còn lại của khoản vay cũ; c) Là khoản vay chưa thực hiện cơ cấu lại thời hạn trả nợ.",
+    "summary": "Nhu cầu vốn để trả nợ khoản vay tại tổ chức tín dụng khác hoặc khoản vay nước ngoài là không được phép, trừ trường hợp cho vay để trả nợ trước hạn khoản vay nếu đáp ứng đủ ba điều kiện: khoản vay phục vụ hoạt động kinh doanh, thời hạn cho vay không vượt quá thời hạn còn lại của khoản vay cũ, và khoản vay chưa được cơ cấu lại thời hạn trả nợ.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [],
+      "triggers": [
+        "trừ trường hợp cho vay để trả nợ trước hạn khoản vay đáp ứng đầy đủ các điều kiện sau đây",
+        "Là khoản vay phục vụ hoạt động kinh doanh",
+        "Thời hạn cho vay không vượt quá thời hạn cho vay còn lại của khoản vay cũ",
+        "Là khoản vay chưa thực hiện cơ cấu lại thời hạn trả nợ"
+      ],
+      "actions": [
+        "cho vay",
+        "trả nợ khoản nợ vay",
+        "cơ cấu lại thời hạn trả nợ"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng",
+      "tổ chức tín dụng khác"
+    ],
+    "references": [],
+    "keywords": [
+      "trả nợ",
+      "khoản nợ vay",
+      "tổ chức tín dụng",
+      "khoản vay nước ngoài",
+      "hoạt động kinh doanh",
+      "thời hạn cho vay",
+      "cơ cấu lại thời hạn trả nợ"
+    ],
+    "tags": [
+      "cho_vay",
+      "han_che",
+      "tra_no",
+      "khoan_vay_nuoc_ngoai",
+      "tai_co_cau"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề hạn chế cho vay vì nó quy định các trường hợp không được cho vay để trả nợ các khoản vay khác, đồng thời đưa ra các điều kiện cụ thể cho phép ngoại lệ."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D9__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 9,
+      "dieu_title": "Hồ sơ đề nghị vay vốn",
+      "khoan": 1
+    },
+    "input_text": "Khi có nhu cầu vay vốn, khách hàng phải gửi cho tổ chức tín dụng các tài liệu chứng minh đủ điều kiện vay vốn theo quy định tại Điều 7 Thông tư này và các tài liệu khác do tổ chức tín dụng hướng dẫn.",
+    "summary": "Khi có nhu cầu vay vốn, khách hàng có nghĩa vụ gửi cho tổ chức tín dụng các tài liệu chứng minh đủ điều kiện vay vốn theo Điều 7 của Thông tư này và các tài liệu khác theo hướng dẫn của tổ chức tín dụng.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [
+        "Khi có nhu cầu vay vốn"
+      ],
+      "actions": [
+        "gửi tài liệu",
+        "chứng minh đủ điều kiện vay vốn"
+      ]
+    },
+    "doi_tuong": [
+      "khách hàng",
+      "tổ chức tín dụng"
+    ],
+    "references": [
+      "Điều 7"
+    ],
+    "keywords": [
+      "nhu cầu vay vốn",
+      "khách hàng",
+      "tổ chức tín dụng",
+      "tài liệu",
+      "điều kiện vay vốn",
+      "hồ sơ"
+    ],
+    "tags": [
+      "ho_so_vay",
+      "nghia_vu_khach_hang",
+      "quy_trinh_vay",
+      "dieu_kien_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề quy trình vay vốn vì nó đặt ra nghĩa vụ về hồ sơ mà khách hàng phải nộp khi có nhu cầu vay vốn."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D10__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 10,
+      "dieu_title": "Loại cho vay",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng xem xét quyết định cho khách hàng vay theo các loại cho vay như sau:",
+    "summary": "Tổ chức tín dụng có quyền xem xét và quyết định cho khách hàng vay theo các loại hình cho vay được quy định sau đây.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "xem xét quyết định cho vay"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "tổ chức tín dụng",
+      "quyết định",
+      "cho vay",
+      "khách hàng",
+      "loại cho vay"
+    ],
+    "tags": [
+      "phan_loai_cho_vay",
+      "tham_quyen",
+      "ngan_hang"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề phân loại cho vay vì nó giới thiệu quyền của tổ chức tín dụng trong việc phân loại các khoản vay."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D10__K1_2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 10,
+      "dieu_title": "Loại cho vay",
+      "khoan": 1
+    },
+    "input_text": "Cho vay ngắn hạn là các khoản vay có thời hạn cho vay tối đa 01 (một) năm.",
+    "summary": "Cho vay ngắn hạn được định nghĩa là các khoản vay có thời hạn tối đa là 01 (một) năm.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "cho vay ngắn hạn",
+      "thời hạn cho vay",
+      "một năm",
+      "khoản vay"
+    ],
+    "tags": [
+      "dinh_nghia",
+      "phan_loai_cho_vay",
+      "thoi_han_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề định nghĩa vì nó cung cấp một định nghĩa rõ ràng về \"cho vay ngắn hạn\"."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D10__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 10,
+      "dieu_title": "Loại cho vay",
+      "khoan": 2
+    },
+    "input_text": "Cho vay trung hạn là các khoản vay có thời hạn cho vay trên 01 (một) năm và tối đa 05 (năm) năm.",
+    "summary": "Cho vay trung hạn được định nghĩa là các khoản vay có thời hạn trên 01 (một) năm và tối đa 05 (năm) năm.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "cho vay trung hạn",
+      "thời hạn cho vay",
+      "một năm",
+      "năm năm",
+      "khoản vay"
+    ],
+    "tags": [
+      "dinh_nghia",
+      "phan_loai_cho_vay",
+      "thoi_han_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề định nghĩa vì nó cung cấp một định nghĩa rõ ràng về \"cho vay trung hạn\"."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D10__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 10,
+      "dieu_title": "Loại cho vay",
+      "khoan": 3
+    },
+    "input_text": "Cho vay dài hạn là các khoản vay có thời hạn cho vay trên 05 (năm) năm.",
+    "summary": "Cho vay dài hạn được định nghĩa là các khoản vay có thời hạn trên 05 (năm) năm.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "cho vay dài hạn",
+      "thời hạn cho vay",
+      "năm năm",
+      "khoản vay"
+    ],
+    "tags": [
+      "dinh_nghia",
+      "phan_loai_cho_vay",
+      "thoi_han_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thuộc nhóm chủ đề định nghĩa vì nó cung cấp một định nghĩa rõ ràng về \"cho vay dài hạn\"."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D11__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 11,
+      "dieu_title": "Đồng tiền cho vay, trả nợ",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng và khách hàng thỏa thuận về việc cho vay bằng đồng Việt Nam hoặc bằng ngoại tệ phù hợp với quy định tại Thông tư này và quy định của pháp luật có liên quan.",
+    "summary": "Tổ chức tín dụng và khách hàng được thỏa thuận về đồng tiền cho vay (VND hoặc ngoại tệ) nhưng phải tuân thủ các quy định pháp luật liên quan và Thông tư này.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [],
+      "triggers": [
+        "phù hợp với quy định tại Thông tư này và quy định của pháp luật có liên quan"
+      ],
+      "actions": [
+        "thỏa thuận về việc cho vay bằng đồng Việt Nam hoặc bằng ngoại tệ"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "đồng tiền cho vay",
+      "đồng Việt Nam",
+      "ngoại tệ",
+      "thỏa thuận",
+      "quy định pháp luật"
+    ],
+    "tags": [
+      "cho_vay",
+      "dong_tien",
+      "thoa_thuan",
+      "quy_dinh_chung"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định về nguyên tắc thỏa thuận đồng tiền cho vay giữa tổ chức tín dụng và khách hàng, là một quy định chung về hoạt động cho vay."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D11__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 11,
+      "dieu_title": "Đồng tiền cho vay, trả nợ",
+      "khoan": 2
+    },
+    "input_text": "Đồng tiền trả nợ là đồng tiền cho vay của khoản vay.",
+    "summary": "Đồng tiền dùng để trả nợ phải là đồng tiền đã được sử dụng để cho vay trong khoản vay đó.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [
+      "khoản vay"
+    ],
+    "references": [],
+    "keywords": [
+      "đồng tiền trả nợ",
+      "đồng tiền cho vay",
+      "khoản vay"
+    ],
+    "tags": [
+      "cho_vay",
+      "tra_no",
+      "dong_tien",
+      "dinh_nghia"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa rõ ràng về đồng tiền trả nợ, liên quan trực tiếp đến đồng tiền cho vay."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D12__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 12,
+      "dieu_title": "Mức cho vay",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng căn cứ vào phương án sử dụng vốn, khả năng tài chính của khách hàng, các giới hạn cấp tín dụng đối với khách hàng và khả năng nguồn vốn của tổ chức tín dụng để thỏa thuận với khách hàng về mức cho vay.",
+    "summary": "Tổ chức tín dụng phải dựa trên phương án sử dụng vốn, khả năng tài chính của khách hàng, giới hạn cấp tín dụng và nguồn vốn của mình để thỏa thuận mức cho vay với khách hàng.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "thỏa thuận với khách hàng về mức cho vay"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "mức cho vay",
+      "phương án sử dụng vốn",
+      "khả năng tài chính",
+      "giới hạn cấp tín dụng",
+      "nguồn vốn"
+    ],
+    "tags": [
+      "cho_vay",
+      "dieu_kien_cho_vay",
+      "thoa_thuan",
+      "quan_ly_rui_ro"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định các căn cứ mà tổ chức tín dụng phải xem xét khi xác định và thỏa thuận mức cho vay với khách hàng."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D13__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 13,
+      "dieu_title": "Lãi suất cho vay",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng và khách hàng thỏa thuận về lãi suất cho vay theo cung cầu vốn thị trường, nhu cầu vay vốn và mức độ tín nhiệm của khách hàng, trừ trường hợp Ngân hàng Nhà nước Việt Nam có quy định về lãi suất cho vay tối đa tại khoản 2 Điều này.",
+    "summary": "Tổ chức tín dụng và khách hàng được thỏa thuận lãi suất cho vay dựa trên cung cầu vốn, nhu cầu vay và mức độ tín nhiệm của khách hàng, trừ khi Ngân hàng Nhà nước có quy định về lãi suất tối đa tại Khoản 2 Điều này.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [],
+      "triggers": [
+        "trừ trường hợp Ngân hàng Nhà nước Việt Nam có quy định về lãi suất cho vay tối đa tại khoản 2 Điều này"
+      ],
+      "actions": [
+        "thỏa thuận về lãi suất cho vay"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "khách hàng",
+      "Ngân hàng Nhà nước Việt Nam"
+    ],
+    "references": [],
+    "keywords": [
+      "lãi suất cho vay",
+      "thỏa thuận",
+      "cung cầu vốn",
+      "mức độ tín nhiệm",
+      "lãi suất tối đa"
+    ],
+    "tags": [
+      "lai_suat",
+      "cho_vay",
+      "thoa_thuan",
+      "quy_dinh_chung"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thiết lập nguyên tắc chung về việc thỏa thuận lãi suất cho vay giữa tổ chức tín dụng và khách hàng, đồng thời nêu rõ ngoại lệ."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D13__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 13,
+      "dieu_title": "Lãi suất cho vay",
+      "khoan": 2
+    },
+    "input_text": "Tổ chức tín dụng và khách hàng thỏa thuận về lãi suất cho vay ngắn hạn bằng đồng Việt Nam nhưng không vượt quá mức lãi suất cho vay tối đa do Thống đốc Ngân hàng Nhà nước Việt Nam quyết định trong từng thời kỳ nhằm đáp ứng một số nhu cầu vốn: a) Phục vụ lĩnh vực phát triển nông nghiệp, nông thôn theo quy định của Chính phủ về chính sách tín dụng phục vụ phát triển nông nghiệp, nông thôn; b) Thực hiện phương án kinh doanh hàng xuất khẩu theo quy định tại Luật thương mại và các văn bản hướng dẫn Luật thương mại; c) Phục vụ kinh doanh của doanh nghiệp nhỏ và vừa theo quy định của Chính phủ về trợ giúp phát triển doanh nghiệp nhỏ và vừa; d) Phát triển ngành công nghiệp hỗ trợ theo quy định của Chính phủ về phát triển công nghiệp hỗ trợ; đ) Phục vụ kinh doanh của doanh nghiệp ứng dụng công nghệ cao theo quy định tại Luật công nghệ cao và các văn bản hướng dẫn Luật công nghệ cao.",
+    "summary": "Tổ chức tín dụng và khách hàng có thể thỏa thuận lãi suất cho vay ngắn hạn bằng VND nhưng không được vượt quá mức tối đa do Thống đốc NHNN quy định, áp dụng cho các nhu cầu vốn ưu tiên như nông nghiệp, xuất khẩu, doanh nghiệp nhỏ và vừa, công nghiệp hỗ trợ và công nghệ cao.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [],
+      "triggers": [
+        "nhằm đáp ứng một số nhu cầu vốn: a) Phục vụ lĩnh vực phát triển nông nghiệp, nông thôn theo quy định của Chính phủ về chính sách tín dụng phục vụ phát triển nông nghiệp, nông thôn",
+        "b) Thực hiện phương án kinh doanh hàng xuất khẩu theo quy định tại Luật thương mại và các văn bản hướng dẫn Luật thương mại",
+        "c) Phục vụ kinh doanh của doanh nghiệp nhỏ và vừa theo quy định của Chính phủ về trợ giúp phát triển doanh nghiệp nhỏ và vừa",
+        "d) Phát triển ngành công nghiệp hỗ trợ theo quy định của Chính phủ về phát triển công nghiệp hỗ trợ",
+        "đ) Phục vụ kinh doanh của doanh nghiệp ứng dụng công nghệ cao theo quy định tại Luật công nghệ cao và các văn bản hướng dẫn Luật công nghệ cao"
+      ],
+      "actions": [
+        "thỏa thuận về lãi suất cho vay ngắn hạn bằng đồng Việt Nam"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "khách hàng",
+      "Thống đốc Ngân hàng Nhà nước Việt Nam",
+      "Chính phủ",
+      "doanh nghiệp nhỏ và vừa",
+      "doanh nghiệp ứng dụng công nghệ cao"
+    ],
+    "references": [],
+    "keywords": [
+      "lãi suất cho vay ngắn hạn",
+      "đồng Việt Nam",
+      "lãi suất tối đa",
+      "Thống đốc NHNN",
+      "nông nghiệp nông thôn",
+      "hàng xuất khẩu",
+      "doanh nghiệp nhỏ và vừa",
+      "công nghiệp hỗ trợ",
+      "công nghệ cao"
+    ],
+    "tags": [
+      "lai_suat",
+      "cho_vay_uu_dai",
+      "ngan_han",
+      "chinh_sach_tin_dung",
+      "quy_dinh_lai_suat"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định về giới hạn lãi suất cho vay ngắn hạn bằng VND cho các đối tượng và lĩnh vực ưu tiên, thể hiện chính sách điều hành lãi suất của NHNN."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D13__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 13,
+      "dieu_title": "Lãi suất cho vay",
+      "khoan": 3
+    },
+    "input_text": "Nội dung thỏa thuận về lãi suất cho vay bao gồm mức lãi suất cho vay và phương pháp tính lãi đối với khoản vay. Trường hợp mức lãi suất cho vay không quy đổi theo tỷ lệ %/năm và/hoặc không áp dụng phương pháp tính lãi theo số dư nợ cho vay thực tế, thời gian duy trì số dư nợ gốc thực tế đó, thì trong thỏa thuận cho vay phải có nội dung về mức lãi suất quy đổi theo tỷ lệ %/năm (một năm là ba trăm sáu mươi lăm ngày) tính theo số dư nợ cho vay thực tế và thời gian duy trì số dư nợ cho vay thực tế đó.",
+    "summary": "Thỏa thuận lãi suất cho vay phải bao gồm mức lãi suất và phương pháp tính lãi. Nếu lãi suất không quy đổi theo %/năm hoặc không tính theo số dư nợ thực tế, thì thỏa thuận phải ghi rõ mức lãi suất quy đổi theo %/năm tính trên số dư nợ thực tế và thời gian duy trì số dư đó.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [
+        "Trường hợp mức lãi suất cho vay không quy đổi theo tỷ lệ %/năm và/hoặc không áp dụng phương pháp tính lãi theo số dư nợ cho vay thực tế, thời gian duy trì số dư nợ gốc thực tế đó"
+      ],
+      "actions": [
+        "bao gồm mức lãi suất cho vay và phương pháp tính lãi",
+        "phải có nội dung về mức lãi suất quy đổi theo tỷ lệ %/năm (một năm là ba trăm sáu mươi lăm ngày) tính theo số dư nợ cho vay thực tế và thời gian duy trì số dư nợ cho vay thực tế đó"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "thỏa thuận lãi suất",
+      "mức lãi suất",
+      "phương pháp tính lãi",
+      "số dư nợ thực tế",
+      "tỷ lệ %/năm",
+      "quy đổi lãi suất"
+    ],
+    "tags": [
+      "lai_suat",
+      "thoa_thuan",
+      "tinh_lai",
+      "hop_dong_tin_dung",
+      "nghia_vu"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định chi tiết các nội dung bắt buộc phải có trong thỏa thuận về lãi suất cho vay, đặc biệt là khi cần quy đổi lãi suất."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D13__K4",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 13,
+      "dieu_title": "Lãi suất cho vay",
+      "khoan": 4
+    },
+    "input_text": "Khi đến hạn thanh toán mà khách hàng không trả hoặc trả không đầy đủ nợ gốc và/hoặc lãi tiền vay theo thỏa thuận, thì khách hàng phải trả lãi tiền vay như sau: a) Lãi trên nợ gốc theo lãi suất cho vay đã thỏa thuận tương ứng với thời hạn vay mà đến hạn chưa trả; b) Trường hợp khách hàng không trả đúng hạn tiền lãi theo quy định tại điểm a khoản này, thì phải trả lãi chậm trả theo mức lãi suất do tổ chức tín dụng và khách hàng thỏa thuận nhưng không vượt quá 10%/năm tính trên số dư lãi chậm trả tương ứng với thời gian chậm trả; c) Trường hợp khoản nợ vay bị chuyển nợ quá hạn, thì khách hàng phải trả lãi trên dư nợ gốc bị quá hạn tương ứng với thời gian chậm trả, lãi suất áp dụng không vượt quá 150% lãi suất cho vay trong hạn tại thời điểm chuyển nợ quá hạn.",
+    "summary": "Khi khách hàng không trả hoặc trả không đầy đủ nợ gốc và/hoặc lãi đúng hạn, khách hàng phải trả lãi trên nợ gốc theo lãi suất thỏa thuận; nếu chậm trả lãi, phải trả lãi chậm trả không quá 10%/năm; nếu nợ bị chuyển quá hạn, phải trả lãi trên dư nợ gốc quá hạn không quá 150% lãi suất trong hạn.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [
+        "Khi đến hạn thanh toán mà khách hàng không trả hoặc trả không đầy đủ nợ gốc và/hoặc lãi tiền vay theo thỏa thuận",
+        "Trường hợp khách hàng không trả đúng hạn tiền lãi theo quy định tại điểm a khoản này",
+        "Trường hợp khoản nợ vay bị chuyển nợ quá hạn"
+      ],
+      "actions": [
+        "phải trả lãi tiền vay như sau: a) Lãi trên nợ gốc theo lãi suất cho vay đã thỏa thuận tương ứng với thời hạn vay mà đến hạn chưa trả",
+        "b) phải trả lãi chậm trả theo mức lãi suất do tổ chức tín dụng và khách hàng thỏa thuận nhưng không vượt quá 10%/năm tính trên số dư lãi chậm trả tương ứng với thời gian chậm trả",
+        "c) phải trả lãi trên dư nợ gốc bị quá hạn tương ứng với thời gian chậm trả, lãi suất áp dụng không vượt quá 150% lãi suất cho vay trong hạn tại thời điểm chuyển nợ quá hạn"
+      ]
+    },
+    "doi_tuong": [
+      "khách hàng",
+      "tổ chức tín dụng"
+    ],
+    "references": [],
+    "keywords": [
+      "lãi suất",
+      "nợ gốc",
+      "lãi tiền vay",
+      "chậm trả",
+      "nợ quá hạn",
+      "lãi suất chậm trả",
+      "lãi suất quá hạn",
+      "thanh toán"
+    ],
+    "tags": [
+      "lai_suat",
+      "tra_no",
+      "qua_han",
+      "nghia_vu",
+      "xu_ly_no"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định các nghĩa vụ và cách tính lãi suất khi khách hàng chậm trả hoặc không trả nợ đúng hạn, bao gồm cả lãi chậm trả và lãi quá hạn."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D13__K5",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 13,
+      "dieu_title": "Lãi suất cho vay",
+      "khoan": 5
+    },
+    "input_text": "Trường hợp áp dụng lãi suất cho vay điều chỉnh, tổ chức tín dụng và khách hàng phải thỏa thuận nguyên tắc và các yếu tố để xác định lãi suất điều chỉnh, thời điểm điều chỉnh lãi suất cho vay. Trường hợp căn cứ các yếu tố để xác định lãi suất điều chỉnh dẫn đến có nhiều mức lãi suất cho vay khác, thì tổ chức tín dụng áp dụng mức lãi suất cho vay thấp nhất.",
+    "summary": "Nếu áp dụng lãi suất cho vay điều chỉnh, tổ chức tín dụng và khách hàng phải thỏa thuận nguyên tắc, yếu tố và thời điểm điều chỉnh. Trong trường hợp có nhiều mức lãi suất điều chỉnh khác nhau, tổ chức tín dụng phải áp dụng mức thấp nhất.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [
+        "Trường hợp áp dụng lãi suất cho vay điều chỉnh",
+        "Trường hợp căn cứ các yếu tố để xác định lãi suất điều chỉnh dẫn đến có nhiều mức lãi suất cho vay khác"
+      ],
+      "actions": [
+        "phải thỏa thuận nguyên tắc và các yếu tố để xác định lãi suất điều chỉnh, thời điểm điều chỉnh lãi suất cho vay",
+        "áp dụng mức lãi suất cho vay thấp nhất"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "lãi suất cho vay điều chỉnh",
+      "nguyên tắc điều chỉnh",
+      "yếu tố điều chỉnh",
+      "thời điểm điều chỉnh",
+      "mức lãi suất thấp nhất",
+      "thỏa thuận"
+    ],
+    "tags": [
+      "lai_suat",
+      "dieu_chinh_lai_suat",
+      "thoa_thuan",
+      "nghia_vu",
+      "hop_dong_tin_dung"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định các yêu cầu về thỏa thuận và nguyên tắc áp dụng khi sử dụng lãi suất cho vay có điều chỉnh, đảm bảo tính minh bạch và có lợi cho khách hàng."
+  },
+  {
+    "id": "39_2016_TT-NHNN__D14__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 14,
+      "dieu_title": "Phí liên quan đến hoạt động cho vay",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng và khách hàng thỏa thuận về việc thu các khoản phí liên quan đến hoạt động cho vay, gồm:",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D14__K1_2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 14,
+      "dieu_title": "Phí liên quan đến hoạt động cho vay",
+      "khoan": 1
+    },
+    "input_text": "Phí trả nợ trước hạn trong trường hợp khách hàng trả nợ trước hạn.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D14__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 14,
+      "dieu_title": "Phí liên quan đến hoạt động cho vay",
+      "khoan": 2
+    },
+    "input_text": "Phí trả cho hạn mức tín dụng dự phòng.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D14__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 14,
+      "dieu_title": "Phí liên quan đến hoạt động cho vay",
+      "khoan": 3
+    },
+    "input_text": "Phí thu xếp cho vay hợp vốn.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D14__K4",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 14,
+      "dieu_title": "Phí liên quan đến hoạt động cho vay",
+      "khoan": 4
+    },
+    "input_text": "Phí cam kết rút vốn kể từ thời điểm thỏa thuận cho vay có hiệu lực đến ngày giải ngân vốn vay lần đầu.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D14__K5",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 14,
+      "dieu_title": "Phí liên quan đến hoạt động cho vay",
+      "khoan": 5
+    },
+    "input_text": "Các loại phí khác liên quan đến hoạt động cho vay được quy định cụ thể tại văn bản quy phạm pháp luật liên quan.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D15__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 15,
+      "dieu_title": "Bảo đảm tiền vay",
+      "khoan": 1
+    },
+    "input_text": "Việc áp dụng biện pháp bảo đảm tiền vay hoặc không áp dụng biện pháp bảo đảm tiền vay do tổ chức tín dụng và khách hàng thoả thuận. Việc thỏa thuận về biện pháp bảo đảm tiền vay của tổ chức tín dụng với khách hàng phù hợp với quy định của pháp luật về biện pháp bảo đảm và pháp luật có liên quan.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D15__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 15,
+      "dieu_title": "Bảo đảm tiền vay",
+      "khoan": 2
+    },
+    "input_text": "Tổ chức tín dụng quyết định và chịu trách nhiệm về việc cho vay không áp dụng biện pháp bảo đảm tiền vay.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D15__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 15,
+      "dieu_title": "Bảo đảm tiền vay",
+      "khoan": 3
+    },
+    "input_text": "Khách hàng, bên bảo đảm phải phối hợp với tổ chức tín dụng để xử lý tài sản bảo đảm tiền vay khi có căn cứ xử lý theo thỏa thuận cho vay, hợp đồng bảo đảm tiền vay và quy định của pháp luật.",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D16__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 16,
+      "dieu_title": "Cung cấp thông tin",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng có trách nhiệm cung cấp cho khách hàng đầy đủ các thông tin trước khi xác lập thỏa thuận cho vay: Lãi suất cho vay; nguyên tắc và các yếu tố xác định, thời điểm xác định lãi suất cho vay đối với trường hợp áp dụng lãi suất cho vay có điều chỉnh; lãi suất áp dụng đối với dư nợ gốc bị quá hạn; lãi suất áp dụng đối với lãi chậm trả; phương pháp tính lãi tiền vay; loại phí và mức phí áp dụng đối với khoản vay; các tiêu chí xác định khách hàng vay vốn theo lãi suất cho vay quy định tại khoản 2 Điều 13 Thông tư này.",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 13"
+    ],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D16__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 16,
+      "dieu_title": "Cung cấp thông tin",
+      "khoan": 2
+    },
+    "input_text": "Khách hàng cung cấp thông tin cho tổ chức tín dụng và chịu trách nhiệm trước pháp luật về tính chính xác, trung thực, đầy đủ của các tài liệu gửi cho tổ chức tín dụng: a) Các tài liệu quy định tại Điều 9 Thông tư này; b) Báo cáo việc sử dụng vốn vay và chứng minh vốn vay được sử dụng đúng mục đích ghi trong thỏa thuận cho vay; c) Các tài liệu để chứng minh việc áp dụng biện pháp bảo đảm tiền vay.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 9"
+    ],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D17__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 17,
+      "dieu_title": "Thẩm định và quyết định cho vay",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng thẩm định khả năng đáp ứng các điều kiện vay vốn của khách hàng theo quy định tại Điều 7 Thông tư này để xem xét quyết định cho vay. Trong quá trình thẩm định, tổ chức tín dụng được sử dụng hệ thống xếp hạng tín dụng nội bộ, kết hợp với các thông tin tại Trung tâm Thông tin tín dụng quốc gia Việt Nam, các kênh thông tin khác.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 7"
+    ],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D17__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 17,
+      "dieu_title": "Thẩm định và quyết định cho vay",
+      "khoan": 2
+    },
+    "input_text": "Tổ chức tín dụng phải tổ chức xét duyệt cho vay theo nguyên tắc phân định trách nhiệm giữa khâu thẩm định và quyết định cho vay.",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D17__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 17,
+      "dieu_title": "Thẩm định và quyết định cho vay",
+      "khoan": 3
+    },
+    "input_text": "Trường hợp quyết định không cho vay, tổ chức tín dụng thông báo cho khách hàng lý do khi khách hàng có yêu cầu.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D18__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 18,
+      "dieu_title": "Trả nợ gốc và lãi tiền vay",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng và khách hàng thỏa thuận về kỳ hạn trả nợ gốc và lãi tiền vay như sau: a) Trả nợ gốc, lãi tiền vay theo kỳ hạn riêng; b) Trả nợ gốc và lãi tiền vay trong cùng một kỳ hạn.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D18__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 18,
+      "dieu_title": "Trả nợ gốc và lãi tiền vay",
+      "khoan": 2
+    },
+    "input_text": "Tổ chức tín dụng và khách hàng thỏa thuận về việc trả nợ trước hạn.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D18__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 18,
+      "dieu_title": "Trả nợ gốc và lãi tiền vay",
+      "khoan": 3
+    },
+    "input_text": "Trường hợp khách hàng không có khả năng trả nợ đúng hạn một phần hoặc toàn bộ nợ gốc và/hoặc lãi tiền vay, tổ chức tín dụng xem xét chấp thuận cơ cấu lại thời hạn trả nợ theo quy định tại Điều 19 hoặc chuyển nợ quá hạn theo quy định tại Điều 20 Thông tư này. Tổ chức tín dụng và khách hàng thỏa thuận việc tính tiền lãi phải trả phù hợp với quy định tại khoản 4 Điều 13 Thông tư này.",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 19",
+      "Điều 20",
+      "Điều 13"
+    ],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D18__K4",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 18,
+      "dieu_title": "Trả nợ gốc và lãi tiền vay",
+      "khoan": 4
+    },
+    "input_text": "Tổ chức tín dụng và khách hàng thỏa thuận về thứ tự thu nợ gốc, lãi tiền vay. Đối với khoản nợ vay bị quá hạn trả nợ, tổ chức tín dụng thực hiện theo thứ tự nợ gốc thu trước, nợ lãi tiền vay thu sau.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D19__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 19,
+      "dieu_title": "Cơ cấu lại thời hạn trả nợ",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng xem xét quyết định việc cơ cấu lại thời hạn trả nợ trên cơ sở đề nghị của khách hàng, khả năng tài chính của tổ chức tín dụng và kết quả đánh giá khả năng trả nợ của khách hàng, như sau:",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D19__K1_2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 19,
+      "dieu_title": "Cơ cấu lại thời hạn trả nợ",
+      "khoan": 1
+    },
+    "input_text": "Khách hàng không có khả năng trả nợ đúng kỳ hạn nợ gốc và/hoặc lãi tiền vay và được tổ chức tín dụng đánh giá là có khả năng trả đầy đủ nợ gốc và/hoặc lãi tiền vay theo kỳ hạn trả nợ được điều chỉnh, thì tổ chức tín dụng xem xét điều chỉnh kỳ hạn trả nợ gốc và/hoặc lãi tiền vay đó phù hợp với nguồn trả nợ của khách hàng; thời hạn cho vay không thay đổi.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D19__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 19,
+      "dieu_title": "Cơ cấu lại thời hạn trả nợ",
+      "khoan": 2
+    },
+    "input_text": "Khách hàng không có khả năng trả hết nợ gốc và/hoặc lãi tiền vay đúng thời hạn cho vay đã thỏa thuận và được tổ chức tín dụng đánh giá là có khả năng trả đầy đủ nợ gốc và/hoặc lãi tiền vay trong một khoảng thời gian nhất định sau thời hạn cho vay, thì tổ chức tín dụng xem xét cho gia hạn nợ với thời hạn phù hợp với nguồn trả nợ của khách hàng.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D19__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 19,
+      "dieu_title": "Cơ cấu lại thời hạn trả nợ",
+      "khoan": 3
+    },
+    "input_text": "Việc cơ cấu lại thời hạn trả nợ được thực hiện trước hoặc trong thời hạn 10 (mười) ngày kể từ ngày đến kỳ hạn, thời hạn trả nợ đã thỏa thuận.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D20__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 20,
+      "dieu_title": "Nợ quá hạn",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng chuyển nợ quá hạn đối với số dư nợ gốc mà khách hàng không trả được nợ đúng hạn theo thỏa thuận và không được tổ chức tín dụng chấp thuận cơ cấu lại thời hạn trả nợ; thông báo cho khách hàng về việc chuyển nợ quá hạn. Nội dung thông báo tối thiểu bao gồm số dư nợ gốc bị quá hạn, thời điểm chuyển nợ quá hạn và lãi suất áp dụng đối với dư nợ gốc bị quá hạn.",
+    "summary": "",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "không được",
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D21__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 21,
+      "dieu_title": "Chấm dứt cho vay, xử lý nợ, miễn, giảm lãi tiền vay, phí",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước hạn theo nội dung đã thỏa thuận khi phát hiện khách hàng cung cấp thông tin sai sự thật, vi phạm quy định trong thỏa thuận cho vay và/hoặc hợp đồng bảo đảm tiền vay. Khi thực hiện chấm dứt cho vay, thu hồi nợ trước hạn theo thỏa thuận trong thỏa thuận cho vay, tổ chức tín dụng phải thông báo cho khách hàng về việc chấm dứt cho vay, thu hồi nợ trước hạn. Nội dung thông báo tối thiểu bao gồm thời điểm chấm dứt cho vay, thu hồi nợ trước hạn, số dư nợ gốc bị thu hồi trước hạn; thời hạn hoàn trả số dư nợ gốc bị thu hồi trước hạn, thời điểm chuyển nợ quá hạn và lãi suất áp dụng đối với số dư nợ gốc bị thu hồi trước hạn.",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "có quyền"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D21__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 21,
+      "dieu_title": "Chấm dứt cho vay, xử lý nợ, miễn, giảm lãi tiền vay, phí",
+      "khoan": 2
+    },
+    "input_text": "Trường hợp khách hàng không trả được nợ đến hạn, thì tổ chức tín dụng có quyền áp dụng các biện pháp thu hồi nợ theo thỏa thuận cho vay, hợp đồng bảo đảm và quy định của pháp luật có liên quan. Trường hợp sau khi áp dụng các biện pháp thu hồi nợ nhưng vẫn không đủ để hoàn thành nghĩa vụ trả nợ đối với tổ chức tín dụng, thì khách hàng có trách nhiệm tiếp tục trả đầy đủ nợ gốc và lãi tiền vay cho tổ chức tín dụng.",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm",
+        "được",
+        "có quyền"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D21__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 21,
+      "dieu_title": "Chấm dứt cho vay, xử lý nợ, miễn, giảm lãi tiền vay, phí",
+      "khoan": 3
+    },
+    "input_text": "Trường hợp khách hàng hoặc bên bảo đảm bị tòa án quyết định mở thủ tục phá sản hoặc tuyên bố phá sản, thì việc thu hồi nợ của tổ chức tín dụng đối với khách hàng, bên bảo đảm thực hiện theo quy định của pháp luật về phá sản.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D21__K4",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 21,
+      "dieu_title": "Chấm dứt cho vay, xử lý nợ, miễn, giảm lãi tiền vay, phí",
+      "khoan": 4
+    },
+    "input_text": "Tổ chức tín dụng có quyền quyết định miễn, giảm lãi tiền vay, phí cho khách hàng theo quy định nội bộ của tổ chức tín dụng.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "có quyền"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D22__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 22,
+      "dieu_title": "Quy định nội bộ",
+      "khoan": 1
+    },
+    "input_text": "Căn cứ quy định tại Luật các tổ chức tín dụng, Thông tư này và các quy định của pháp luật có liên quan, tổ chức tín dụng ban hành quy định nội bộ về cho vay, quản lý tiền vay phù hợp với đặc điểm hoạt động kinh doanh của tổ chức tín dụng (sau đây gọi là quy định nội bộ về cho vay).",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D22__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 22,
+      "dieu_title": "Quy định nội bộ",
+      "khoan": 2
+    },
+    "input_text": "Quy định nội bộ về cho vay của tổ chức tín dụng được thực hiện trong toàn hệ thống và phải có tối thiểu các nội dung cụ thể sau: a) Điều kiện cho vay; các nhu cầu vốn không được cho vay; phương thức cho vay; lãi suất cho vay và phương pháp tính lãi tiền vay; hồ sơ cho vay và các tài liệu của khách hàng gửi tổ chức tín dụng phù hợp với đặc điểm của khoản vay, loại cho vay và đối tượng khách hàng; thu nợ; điều kiện, quy trình và thủ tục cơ cấu lại thời hạn trả nợ; chuyển nợ quá hạn; b) Quy trình thẩm định, phê duyệt và quyết định cho vay, trong đó quy định cụ thể thời hạn tối đa thẩm định, quyết định cho vay; phân cấp, ủy quyền và trách nhiệm của từng cá nhân, bộ phận trong việc thẩm định, phê duyệt, quyết định cho vay và các công việc khác thuộc quy trình hoạt động cho vay; c) Quy trình kiểm tra, giám sát quá trình vay vốn, sử dụng vốn vay và trả nợ của khách hàng; phân cấp, ủy quyền và trách nhiệm của từng cá nhân, bộ phận trong việc kiểm tra, giám sát quá trình vay vốn, sử dụng vốn vay và trả nợ của khách hàng; d) Việc áp dụng biện pháp bảo đảm tiền vay, thẩm định tài sản bảo đảm tiền vay, việc quản lý, giám sát, theo dõi tài sản bảo đảm tiền vay phù hợp với biện pháp bảo đảm tiền vay, đặc điểm của tài sản bảo đảm tiền vay và khách hàng; đ) Chấm dứt cho vay, xử lý nợ; miễn, giảm lãi tiền vay, phí; e) Nhận dạng các loại rủi ro có thể phát sinh trong quá trình cho vay; quy trình theo dõi, đánh giá và kiểm soát rủi ro; phương án xử lý rủi ro; g) Kiểm soát việc cho vay để trả nợ khoản vay tại tổ chức tín dụng, trả nợ khoản vay nước ngoài nhằm phòng ngừa và ngăn chặn việc phản ánh sai lệch chất lượng tín dụng. Kiểm soát việc cho vay theo phương thức cho vay tuần hoàn và phương thức cho vay quay vòng nhằm quản lý dòng tiền của khách hàng để đảm bảo khả năng thu hồi đầy đủ nợ gốc và lãi tiền vay đúng hạn theo thoả thuận, phản ánh đúng chất lượng tín dụng.",
+    "summary": "",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "không được",
+        "phải",
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D22__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 22,
+      "dieu_title": "Quy định nội bộ",
+      "khoan": 3
+    },
+    "input_text": "Trong thời hạn 10 (mười) ngày làm việc kể từ ngày ban hành mới hoặc sửa đổi, bổ sung quy định nội bộ về cho vay, tổ chức tài chính vi mô và quỹ tín dụng nhân dân gửi quy định nội bộ đó cho Ngân hàng Nhà nước chi nhánh tỉnh, thành phố; tổ chức tín dụng khác gửi cho Ngân hàng Nhà nước Việt Nam (Cơ quan Thanh tra, giám sát ngân hàng).",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D23__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 23,
+      "dieu_title": "Thỏa thuận cho vay",
+      "khoan": 1
+    },
+    "input_text": "Thỏa thuận cho vay phải được lập thành văn bản, trong đó tối thiểu có các nội dung sau: a) Tên, địa chỉ, mã số doanh nghiệp của tổ chức tín dụng cho vay; tên, địa chỉ, số chứng minh nhân dân hoặc thẻ căn cước hoặc hộ chiếu hoặc mã số doanh nghiệp của khách hàng; b) Số tiền cho vay; hạn mức cho vay đối với trường hợp cho vay theo hạn mức; hạn mức cho vay dự phòng đối với trường hợp cho vay theo hạn mức cho vay dự phòng; hạn mức thấu chi đối với trường hợp cho vay theo hạn mức thấu chi trên tài khoản thanh toán; c) Mục đích sử dụng vốn vay; d) Đồng tiền cho vay, đồng tiền trả nợ; đ) Phương thức cho vay; e) Thời hạn cho vay; thời hạn duy trì hạn mức đối với trường hợp cho vay theo hạn mức, thời hạn hiệu lực của hạn mức cho vay dự phòng đối với trường hợp cho vay theo hạn mức cho vay dự phòng, hoặc thời hạn duy trì hạn mức thấu chi đối với trường hợp cho vay theo hạn mức thấu chi trên tài khoản thanh toán; g) Lãi suất cho vay theo thỏa thuận và mức lãi suất quy đổi theo tỷ lệ %/năm tính theo số dư nợ cho vay thực tế và thời gian duy trì số dư nợ cho vay thực tế đó theo quy định tại khoản 3 Điều 13 Thông tư này; nguyên tắc và các yếu tố xác định lãi suất, thời điểm xác định lãi suất cho vay đối với trường hợp áp dụng lãi suất cho vay có điều chỉnh; lãi suất áp dụng đối với dư nợ gốc bị quá hạn; lãi suất áp dụng đối với lãi chậm trả; loại phí liên quan đến khoản vay và mức phí áp dụng; h) Giải ngân vốn cho vay và việc sử dụng phương tiện thanh toán để giải ngân vốn cho vay; i) Việc trả nợ gốc, lãi tiền vay và thứ tự thu hồi nợ gốc, lãi tiền vay; trả nợ trước hạn; k) Cơ cấu lại thời hạn trả nợ; chuyển nợ quá hạn đối với số dư nợ gốc mà khách hàng không trả được nợ đúng hạn theo thỏa thuận và không được tổ chức tín dụng chấp thuận cơ cấu lại thời hạn trả nợ; hình thức và nội dung thông báo chuyển nợ quá hạn theo Điều 20 Thông tư này; l) Trách nhiệm của khách hàng trong việc phối hợp với tổ chức tín dụng và cung cấp các tài liệu liên quan đến khoản vay để tổ chức tín dụng thực hiện thẩm định và quyết định cho vay, kiểm tra, giám sát việc sử dụng vốn vay và trả nợ của khách hàng; m) Các trường hợp chấm dứt cho vay; thu nợ trước hạn; chuyển nợ quá hạn đối với số dư nợ gốc mà khách hàng không trả được nợ trước hạn khi tổ chức tín dụng chấm dứt cho vay, thu hồi nợ trước hạn; hình thức và nội dung thông báo chấm dứt cho vay, thu hồi nợ trước hạn theo khoản 1 Điều 21 Thông tư này; n) Xử lý nợ vay; phạt vi phạm và bồi thường thiệt hại; quyền và trách nhiệm của các bên; o) Hiệu lực của thỏa thuận cho vay.",
+    "summary": "",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "không được",
+        "phải",
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 13",
+      "Điều 20",
+      "Điều 21"
+    ],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D23__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 23,
+      "dieu_title": "Thỏa thuận cho vay",
+      "khoan": 2
+    },
+    "input_text": "Ngoài các nội dung quy định tại khoản 1 Điều này, các bên có thể thỏa thuận các nội dung khác phù hợp với quy định tại Thông tư này và quy định của pháp luật có liên quan.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D23__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 23,
+      "dieu_title": "Thỏa thuận cho vay",
+      "khoan": 3
+    },
+    "input_text": "Thỏa thuận cho vay quy định tại khoản 1 và 2 Điều này được lập dưới hình thức thỏa thuận cho vay cụ thể hoặc thỏa thuận khung và thỏa thuận cho vay cụ thể.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D23__K4",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 23,
+      "dieu_title": "Thỏa thuận cho vay",
+      "khoan": 4
+    },
+    "input_text": "Trường hợp sử dụng hợp đồng theo mẫu hoặc điều kiện giao dịch chung trong giao kết thỏa thuận cho vay, tổ chức tín dụng phải thực hiện: a) Niêm yết công khai hợp đồng theo mẫu, điều kiện giao dịch chung về cho vay tại trụ sở và đăng tải trên trang thông tin điện tử của tổ chức tín dụng; b) Cung cấp đầy đủ thông tin về hợp đồng theo mẫu, điều kiện giao dịch chung cho khách hàng biết trước khi ký kết thỏa thuận cho vay và có xác nhận của khách hàng về việc đã được tổ chức tín dụng cung cấp đầy đủ thông tin.",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D24__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 24,
+      "dieu_title": "Kiểm tra sử dụng tiền vay",
+      "khoan": 1
+    },
+    "input_text": "Khách hàng có trách nhiệm sử dụng vốn vay và trả nợ theo nội dung thỏa thuận; báo cáo và cung cấp tài liệu chứng minh việc sử dụng vốn vay theo yêu cầu của tổ chức tín dụng.",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D24__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 24,
+      "dieu_title": "Kiểm tra sử dụng tiền vay",
+      "khoan": 2
+    },
+    "input_text": "Tổ chức tín dụng có quyền thực hiện kiểm tra, giám sát việc sử dụng vốn vay, trả nợ của khách hàng theo quy trình nội bộ quy định tại điểm c khoản 2 Điều 22 Thông tư này.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "có quyền"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 22"
+    ],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D25__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 25,
+      "dieu_title": "Phạt vi phạm và bồi thường thiệt hại",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng và khách hàng được thỏa thuận về việc phạt vi phạm, bồi thường thiệt hại theo quy định của pháp luật đối với trường hợp tổ chức tín dụng hoặc khách hàng không thực hiện đúng nội dung trong thỏa thuận cho vay, trừ trường hợp quy định tại khoản 4 Điều 13 Thông tư này.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 13"
+    ],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D25__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 25,
+      "dieu_title": "Phạt vi phạm và bồi thường thiệt hại",
+      "khoan": 2
+    },
+    "input_text": "Tổ chức tín dụng và khách hàng có thể thỏa thuận về việc bên vi phạm nghĩa vụ chỉ phải chịu phạt vi phạm mà không phải bồi thường thiệt hại hoặc vừa phải chịu phạt vi phạm và vừa phải bồi thường thiệt hại. Trường hợp tổ chức tín dụng và khách hàng có thỏa thuận về phạt vi phạm nhưng không thỏa thuận về việc vừa phải chịu phạt vi phạm và vừa phải bồi thường thiệt hại thì bên vi phạm nghĩa vụ chỉ phải chịu phạt vi phạm.",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D26__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 26,
+      "dieu_title": "Các quy định khác",
+      "khoan": 1
+    },
+    "input_text": "Khi thực hiện cho vay, tổ chức tín dụng có trách nhiệm:",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D26__K1_2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 26,
+      "dieu_title": "Các quy định khác",
+      "khoan": 1
+    },
+    "input_text": "Tuân thủ các quy định về những trường hợp không được cho vay, hạn chế cho vay và giới hạn cho vay tại Điều 126, Điều 127, Điều 128 Luật các tổ chức tín dụng và quy định của Ngân hàng Nhà nước Việt Nam về các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của tổ chức tín dụng.",
+    "summary": "",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "không được",
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 126",
+      "Điều 127",
+      "Điều 128"
+    ],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D26__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 26,
+      "dieu_title": "Các quy định khác",
+      "khoan": 2
+    },
+    "input_text": "Sử dụng các phương tiện thanh toán để giải ngân vốn cho vay theo quy định của Ngân hàng Nhà nước Việt Nam về việc sử dụng các phương tiện thanh toán để giải ngân vốn cho vay của tổ chức tín dụng đối với khách hàng.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D26__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 26,
+      "dieu_title": "Các quy định khác",
+      "khoan": 3
+    },
+    "input_text": "Thực hiện việc phân loại, trích lập dự phòng và sử dụng dự phòng để xử lý rủi ro đối với hoạt động cho vay theo quy định của Ngân hàng Nhà nước Việt Nam về phân loại tài sản có, mức trích, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D26__K4",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 26,
+      "dieu_title": "Các quy định khác",
+      "khoan": 4
+    },
+    "input_text": "Thực hiện việc hạch toán kế toán, báo cáo thống kê đối với hoạt động cho vay theo quy định của pháp luật hiện hành về chế độ hạch toán kế toán và báo cáo thống kê của tổ chức tín dụng.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D27__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 27,
+      "dieu_title": "Phương thức cho vay",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng thỏa thuận với khách hàng việc áp dụng các phương thức cho vay như sau:",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D27__K1_2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 27,
+      "dieu_title": "Phương thức cho vay",
+      "khoan": 1
+    },
+    "input_text": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách hàng thực hiện thủ tục cho vay và ký kết thỏa thuận cho vay.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D27__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 27,
+      "dieu_title": "Phương thức cho vay",
+      "khoan": 2
+    },
+    "input_text": "Cho vay hợp vốn: Là việc có từ hai tổ chức tín dụng trở lên cùng thực hiện cho vay đối với khách hàng để thực hiện một phương án, dự án vay vốn.",
+    "summary": "",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D27__K3",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 27,
+      "dieu_title": "Phương thức cho vay",
+      "khoan": 3
+    },
+    "input_text": "Cho vay lưu vụ: Là việc tổ chức tín dụng thực hiện cho vay đối với khách hàng để nuôi trồng, chăm sóc các cây trồng, vật nuôi có tính chất mùa vụ theo chu kỳ sản xuất liền kề trong năm hoặc các cây lưu gốc, cây công nghiệp có thu hoạch hàng năm. Theo đó, tổ chức tín dụng và khách hàng thỏa thuận dư nợ gốc của chu kỳ trước tiếp tục được sử dụng cho chu kỳ sản xuất tiếp theo nhưng không vượt quá thời gian của 02 chu kỳ sản xuất liên tiếp.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D27__K4",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 27,
+      "dieu_title": "Phương thức cho vay",
+      "khoan": 4
+    },
+    "input_text": "Cho vay theo hạn mức: Tổ chức tín dụng xác định và thỏa thuận với khách hàng một mức dư nợ cho vay tối đa được duy trì trong một khoảng thời gian nhất định. Trong hạn mức cho vay, tổ chức tín dụng thực hiện cho vay từng lần. Một năm ít nhất một lần, tổ chức tín dụng xem xét xác định lại mức dư nợ cho vay tối đa và thời gian duy trì mức dư nợ này.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D27__K5",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 27,
+      "dieu_title": "Phương thức cho vay",
+      "khoan": 5
+    },
+    "input_text": "Cho vay theo hạn mức cho vay dự phòng: Tổ chức tín dụng cam kết đảm bảo sẵn sàng cho khách hàng vay vốn trong phạm vi mức cho vay dự phòng đã thỏa thuận. Tổ chức tín dụng và khách hàng thỏa thuận thời hạn hiệu lực của hạn mức cho vay dự phòng nhưng không vượt quá 01 (một) năm.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D27__K6",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 27,
+      "dieu_title": "Phương thức cho vay",
+      "khoan": 6
+    },
+    "input_text": "Cho vay theo hạn mức thấu chi trên tài khoản thanh toán: Tổ chức tín dụng chấp thuận cho khách hàng chi vượt số tiền có trên tài khoản thanh toán của khách hàng một mức thấu chi tối đa để thực hiện dịch vụ thanh toán trên tài khoản thanh toán. Mức thấu chi tối đa được duy trì trong một khoảng thời gian tối đa 01 (một) năm.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D27__K7",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 27,
+      "dieu_title": "Phương thức cho vay",
+      "khoan": 7
+    },
+    "input_text": "Cho vay quay vòng: Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay đối với nhu cầu vốn có chu kỳ hoạt động kinh doanh không quá 01 (một) tháng, khách hàng được sử dụng dư nợ gốc của chu kỳ hoạt động kinh doanh trước cho chu kỳ kinh doanh tiếp theo nhưng thời hạn cho vay không vượt quá 03 (ba) tháng.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D27__K8",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 27,
+      "dieu_title": "Phương thức cho vay",
+      "khoan": 8
+    },
+    "input_text": "Cho vay tuần hoàn (rollover): Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay ngắn hạn đối với khách hàng với điều kiện: a) Đến thời hạn trả nợ, khách hàng có quyền trả nợ hoặc kéo dài thời hạn trả nợ thêm một khoảng thời gian nhất định đối với một phần hoặc toàn bộ số dư nợ gốc của khoản vay; b) Tổng thời hạn vay vốn không vượt quá 12 tháng kể từ ngày giải ngân ban đầu và không vượt quá một chu kỳ hoạt động kinh doanh; c) Tại thời điểm xem xét cho vay, khách hàng không có nợ xấu tại các tổ chức tín dụng; d) Trong quá trình cho vay tuần hoàn, nếu khách hàng có nợ xấu tại các tổ chức tín dụng thì không được thực hiện kéo dài thời hạn trả nợ theo thỏa thuận.",
+    "summary": "",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "không được",
+        "có quyền",
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D27__K9",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 27,
+      "dieu_title": "Phương thức cho vay",
+      "khoan": 9
+    },
+    "input_text": "Các phương thức cho vay khác được kết hợp các phương thức cho vay quy định tại khoản 1, 2, 3, 4, 5, 6, 7 và khoản 8 Điều này, phù hợp với điều kiện hoạt động kinh doanh của tổ chức tín dụng và đặc điểm của khoản vay.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D28__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 28,
+      "dieu_title": "Thời hạn cho vay",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng và khách hàng căn cứ vào chu kỳ hoạt động kinh doanh, thời hạn thu hồi vốn, khả năng trả nợ của khách hàng, nguồn vốn cho vay và thời hạn hoạt động còn lại của tổ chức tín dụng để thỏa thuận về thời hạn cho vay.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D28__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 28,
+      "dieu_title": "Thời hạn cho vay",
+      "khoan": 2
+    },
+    "input_text": "Đối với khách hàng là pháp nhân được thành lập và hoạt động tại Việt Nam, pháp nhân được thành lập ở nước ngoài và hoạt động hợp pháp tại Việt Nam, thời hạn cho vay không quá thời hạn hoạt động hợp pháp còn lại của khách hàng; đối với cá nhân có quốc tịch nước ngoài cư trú tại Việt Nam, thời hạn cho vay không vượt quá thời hạn được phép cư trú còn lại tại Việt Nam.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D29__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 29,
+      "dieu_title": "Lưu giữ hồ sơ cho vay",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng lập hồ sơ cho vay, bao gồm: a) Hồ sơ đề nghị vay vốn; b) Thỏa thuận cho vay; c) Báo cáo thực trạng tài chính do khách hàng gửi tổ chức tín dụng trong thời gian vay vốn; d) Hồ sơ liên quan đến bảo đảm tiền vay; đ) Quyết định cho vay có chữ ký của người có thẩm quyền; trường hợp quyết định tập thể, phải có biên bản ghi rõ quyết định được thông qua; e) Những tài liệu phát sinh trong quá trình sử dụng khoản vay liên quan đến thỏa thuận cho vay do tổ chức tín dụng hướng dẫn.",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D29__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 29,
+      "dieu_title": "Lưu giữ hồ sơ cho vay",
+      "khoan": 2
+    },
+    "input_text": "Tổ chức tín dụng phải lưu giữ hồ sơ cho vay; thời hạn lưu giữ hồ sơ cho vay thực hiện theo quy định của pháp luật.",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D30__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 30,
+      "dieu_title": "Phương thức cho vay",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng thỏa thuận với khách hàng việc áp dụng các phương thức cho vay như sau:",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D30__K1_2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 30,
+      "dieu_title": "Phương thức cho vay",
+      "khoan": 1
+    },
+    "input_text": "Phương thức cho vay theo quy định tại khoản 1, 4 và 6 Điều 27 Thông tư này.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 27"
+    ],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D30__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 30,
+      "dieu_title": "Phương thức cho vay",
+      "khoan": 2
+    },
+    "input_text": "Các phương thức cho vay khác được kết hợp các phương thức cho vay quy định tại khoản 1 Điều này, phù hợp với điều kiện hoạt động kinh doanh của tổ chức tín dụng và đặc điểm của khoản vay.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D31__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 31,
+      "dieu_title": "Thời hạn cho vay",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng và khách hàng thỏa thuận về thời hạn cho vay trên cơ sở khả năng trả nợ của khách hàng, nguồn vốn cho vay, thời hạn hoạt động còn lại của tổ chức tín dụng.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D31__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 31,
+      "dieu_title": "Thời hạn cho vay",
+      "khoan": 2
+    },
+    "input_text": "Đối với cá nhân có quốc tịch nước ngoài cư trú tại Việt Nam, thời hạn cho vay không vượt quá thời hạn được phép cư trú còn lại tại Việt Nam.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D32__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 32,
+      "dieu_title": "Lưu giữ hồ sơ cho vay",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng lập hồ sơ cho vay, bao gồm: a) Hồ sơ đề nghị vay vốn; b) Thỏa thuận cho vay; c) Báo cáo tình hình thu nhập của khách hàng trong thời gian vay vốn theo hướng dẫn của tổ chức tín dụng; d) Hồ sơ liên quan đến bảo đảm tiền vay; đ) Quyết định cho vay có chữ ký của người có thẩm quyền; trường hợp quyết định tập thể, phải có biên bản ghi rõ quyết định được thông qua; e) Những tài liệu phát sinh trong quá trình sử dụng khoản vay liên quan đến thỏa thuận cho vay do tổ chức tín dụng hướng dẫn.",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D32__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 32,
+      "dieu_title": "Lưu giữ hồ sơ cho vay",
+      "khoan": 2
+    },
+    "input_text": "Tổ chức tín dụng phải lưu giữ hồ sơ cho vay; thời hạn lưu giữ hồ sơ cho vay thực hiện theo quy định của pháp luật.",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D33__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương III",
+      "dieu": 33,
+      "dieu_title": "Hiệu lực thi hành",
+      "khoan": 1
+    },
+    "input_text": "Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 3 năm 2017.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D33__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương III",
+      "dieu": 33,
+      "dieu_title": "Hiệu lực thi hành",
+      "khoan": 2
+    },
+    "input_text": "Kể từ ngày Thông tư này có hiệu lực thi hành, các văn bản sau đây hết hiệu lực thi hành: a) Quyết định số 1627/2001/QĐ-NHNN ngày 31 tháng 12 năm 2001 của Thống đốc Ngân hàng Nhà nước Việt Nam về việc ban hành Quy chế cho vay của tổ chức tín dụng đối với khách hàng; b) Quyết định số 28/2002/QĐ-NHNN ngày 11 tháng 01 năm 2002 của Thống đốc Ngân hàng Nhà nước Việt Nam về sửa đổi Điều 2 Quyết định số 1627/2001/QĐ-NHNN ngày 31 tháng 12 năm 2001 của Thống đốc Ngân hàng Nhà nước về việc ban hành Quy chế cho vay của tổ chức tín dụng đối với khách hàng; c) Quyết định số 127/2005/QĐ-NHNN ngày 03 tháng 02 năm 2005 của Thống đốc Ngân hàng Nhà nước Việt Nam về việc sửa đổi, bổ sung một số điều của Quy chế cho vay của tổ chức tín dụng đối với khách hàng ban hành theo Quyết định số 1627/2001/QĐ-NHNN ngày 31 tháng 12 năm 2001 của Thống đốc Ngân hàng Nhà nước; d) Quyết định số 783/2005/QĐ-NHNN ngày 31 tháng 5 năm 2005 của Thống đốc Ngân hàng Nhà nước Việt Nam về việc sửa đổi, bổ sung Khoản 6 Điều 1 của Quyết định số 127/2005/QĐ-NHNN ngày 03 tháng 02 năm 2005 của Thống đốc Ngân hàng Nhà nước Việt Nam về việc sửa đổi, bổ sung một số điều của Quy chế cho vay của tổ chức tín dụng đối với khách hàng ban hành theo Quyết định số 1627/2001/QĐ-NHNN ngày 31 tháng 12 năm 2001 của Thống đốc Ngân hàng Nhà nước Việt Nam; đ) Thông tư số 12/2010/TT-NHNN ngày 14 tháng 4 năm 2010 của Thống đốc Ngân hàng Nhà nước Việt Nam hướng dẫn tổ chức tín dụng cho vay bằng đồng Việt Nam đối với khách hàng theo lãi suất thỏa thuận; e) Thông tư số 05/2011/TT-NHNN ngày 10 tháng 3 năm 2011 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về thu phí cho vay của tổ chức tín dụng, ngân hàng hàng nước ngoài đối với khách hàng; g) Thông tư số 33/2011/TT-NHNN ngày 08 tháng 10 năm 2011 của Thống đốc Ngân hàng Nhà nước Việt Nam sửa đổi, bổ sung một số điều của Thông tư số 13/2010/TT-NHNN ngày 20 tháng 5 năm 2010 quy định về các tỷ lệ bảo đảm an toàn trong hoạt động của tổ chức tín dụng và Quy chế cho vay của tổ chức tín dụng đối với khách hàng ban hành kèm theo Quyết định số 1627/2001/QĐ-NHNN ngày 31 tháng 12 năm 2001 của Thống đốc Ngân hàng Nhà nước Việt Nam; h) Thông tư số 08/2014/TT-NHNN ngày 17 tháng 3 năm 2014 của Ngân hàng Nhà nước Việt Nam quy định lãi suất cho vay ngắn hạn bằng đồng Việt Nam của tổ chức tín dụng đối với khách hàng vay để đáp ứng nhu cầu vốn phục vụ một số lĩnh vực, ngành kinh tế.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [
+      "Thông tư số 12/2010/TT-NHNN",
+      "Thông tư số 05/2011/TT-NHNN",
+      "Thông tư số 33/2011/TT-NHNN",
+      "Thông tư số 13/2010/TT-NHNN",
+      "Thông tư số 08/2014/TT-NHNN",
+      "Quyết định số 1627/2001/QĐ-NHNN",
+      "Quyết định số 28/2002/QĐ-NHNN",
+      "Quyết định số 127/2005/QĐ-NHNN",
+      "Quyết định số 783/2005/QĐ-NHNN",
+      "Điều 2",
+      "Điều 1 của Quyết định số 127/2005/QĐ-NHNN ngày 03 tháng 02 năm 2005 của Thống đốc Ngân hàng"
+    ],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D34__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương III",
+      "dieu": 34,
+      "dieu_title": "Quy định chuyển tiếp",
+      "khoan": 1
+    },
+    "input_text": "Đối với các hợp đồng tín dụng được ký kết trước ngày Thông tư này có hiệu lực thi hành:",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D34__K1_2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương III",
+      "dieu": 34,
+      "dieu_title": "Quy định chuyển tiếp",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng đó hoặc thỏa thuận sửa đổi, bổ sung hợp đồng tín dụng phù hợp với quy định tại Thông tư này.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D34__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương III",
+      "dieu": 34,
+      "dieu_title": "Quy định chuyển tiếp",
+      "khoan": 2
+    },
+    "input_text": "Trường hợp áp dụng phương thức cho vay theo hạn mức tín dụng, hạn mức tín dụng dự phòng, hạn mức thấu chi trên tài khoản thanh toán, nếu trong nội dung hợp đồng không thỏa thuận thời hạn duy trì hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng, thì tổ chức tín dụng và khách hàng được tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng nhưng thời hạn duy trì của hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng tối đa không vượt quá 01 (một) năm kể từ ngày Thông tư này có hiệu lực thi hành.",
+    "summary": "",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D35__K1",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương III",
+      "dieu": 35,
+      "dieu_title": "Tổ chức thực hiện",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng căn cứ Thông tư này để quy định nội bộ về hoạt động cho vay đối với khách hàng.",
+    "summary": "",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  },
+  {
+    "id": "39_2016_TT-NHNN__D35__K2",
+    "doc_id": "39_2016_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "39/2016/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2016-12-30"
+    },
+    "path": {
+      "chuong": "Chương III",
+      "dieu": 35,
+      "dieu_title": "Tổ chức thực hiện",
+      "khoan": 2
+    },
+    "input_text": "Chánh Văn phòng, Vụ trưởng Vụ Chính sách tiền tệ và Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, Giám đốc Ngân hàng Nhà nước Việt Nam chi nhánh các tỉnh, thành phố trực thuộc Trung ương; Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên và Tổng giám đốc (Giám đốc) các tổ chức tín dụng có trách nhiệm tổ chức thực hiện Thông tư này./. Nơi nhận:\n- Như khoản 2 Điều 35;\n- Ban Lãnh đạo NHNN;\n- Văn phòng Chính phủ;\n- Bộ Tư pháp (để kiểm tra);\n- Công báo;\n- Lưu: VP, Vụ CSTT. KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC\n\n\n\n\nNguyễn Thị Hồng",
+    "summary": "",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm"
+      ],
+      "triggers": [],
+      "actions": []
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 35"
+    ],
+    "keywords": [],
+    "tags": [],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": ""
+  }
+]
