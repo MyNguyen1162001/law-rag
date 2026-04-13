@@ -20,8 +20,7 @@ def main() -> int:
     parser.add_argument("--write", action="store_true", help="Persist nhom = cluster_<i>")
     args = parser.parse_args()
 
-    coll = store.collection(config.COLL_CLAUSES)
-    data = coll.get(include=["embeddings", "metadatas"])
+    data = store.get_all(config.COLL_CLAUSES, include=["embeddings"])
     if not data["ids"]:
         print("No clauses in DB. Run `python -m scripts.ingest <file>` first.", file=sys.stderr)
         return 1

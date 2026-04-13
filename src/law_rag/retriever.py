@@ -26,9 +26,8 @@ def _bm25_path(coll_name: str) -> Path:
 
 
 def rebuild_bm25(coll_name: str = config.COLL_CLAUSES) -> int:
-    """Rebuild the BM25 index for a Chroma collection. Returns doc count."""
-    coll = store.collection(coll_name)
-    data = coll.get(include=["metadatas", "documents"])
+    """Rebuild the BM25 index for a collection. Returns doc count."""
+    data = store.get_all(coll_name)
     if not data["ids"]:
         return 0
     corpus_tokens = []
@@ -64,9 +63,8 @@ def _load_bm25(coll_name: str) -> Optional[Dict]:
 
 
 def dense_search(query: str, coll_name: str, k: int, where: Optional[Dict] = None) -> List[Tuple[str, float]]:
-    coll = store.collection(coll_name)
     qvec = embed.encode([query])[0].tolist()
-    res = coll.query(query_embeddings=[qvec], n_results=k, where=where)
+    res = store.query(coll_name, qvec, k=k, where=where)
     out: List[Tuple[str, float]] = []
     for cid, dist in zip(res["ids"][0], res["distances"][0]):
         out.append((cid, 1.0 - float(dist)))  # cosine distance → similarity

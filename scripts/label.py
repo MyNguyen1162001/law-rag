@@ -14,9 +14,8 @@ def cmd_set(args) -> int:
 
 
 def cmd_list(args) -> int:
-    coll = store.collection(config.COLL_CLAUSES)
     where = {"nhom": {"$ne": ""}} if args.labelled else None
-    data = coll.get(where=where)
+    data = store.get_all(config.COLL_CLAUSES, where=where)
     for i, cid in enumerate(data["ids"]):
         meta = data["metadatas"][i] or {}
         nhom = meta.get("nhom") or "-"

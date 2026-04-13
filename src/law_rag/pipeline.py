@@ -11,6 +11,7 @@ from . import config, embed, extract_llm, parse_doc, retriever, rules, store
 from .schema import ClauseRecord
 from .segment import (
     extract_doc_meta,
+    segment_appendices,
     segment_paragraphs,
     slug_doc_id,
     to_clause_records,
@@ -44,11 +45,16 @@ def ingest_file(path: Path, *, move_to_processed: bool = True, skip_llm: bool = 
     doc_id = slug_doc_id(path.stem)
     doc_meta = extract_doc_meta(paragraphs, path.stem)
 
-    # 3. Segment → Khoản
-    log.info("[3/%d] Segment Khoản", total)
-    khoans = segment_paragraphs(paragraphs)
+    # 3. Separate appendices, then segment main body → Khoản
+    log.info("[3/%d] Segment Khoản + Phụ lục", total)
+    main_paragraphs, appendix_records = segment_appendices(paragraphs, doc_id, doc_meta)
+    khoans = segment_paragraphs(main_paragraphs)
     records = to_clause_records(khoans, doc_id, doc_meta)
-    log.info("       %d Khoản", len(records))
+    records.extend(appendix_records)
+    n_main = len(records) - len(appendix_records)
+    n_full = sum(1 for r in appendix_records if r.record_type == "full_text")
+    n_clause = sum(1 for r in appendix_records if r.record_type == "clause")
+    log.info("       %d Khoản (main) + %d Phụ lục (%d full + %d clause)", n_main, len(appendix_records), n_full, n_clause)
     if not records:
         raise ValueError(f"No Khoản found in {path}")
 
@@ -60,7 +66,7 @@ def ingest_file(path: Path, *, move_to_processed: bool = True, skip_llm: bool = 
     step = 5
     # 5. LLM enrichment
     if not skip_llm:
-        log.info("[%d/%d] LLM enrichment (Gemini, ~5 RPM, batch 8)", step, total)
+        log.info("[%d/%d] LLM enrichment (~5 RPM, batch 8)", step, total)
         try:
             extract_llm.enrich_batch(records, batch_size=8)
         except Exception as e:  # noqa: BLE001
@@ -80,11 +86,11 @@ def ingest_file(path: Path, *, move_to_processed: bool = True, skip_llm: bool = 
     log.info("       %d vectors of dim %d", embeddings.shape[0], embeddings.shape[1])
     step += 1
 
-    # 8. Upsert into all collections
-    log.info("[%d/%d] Upsert into Chroma (clauses + articles + document)", step, total)
-    store.upsert_clauses(records, embeddings)
-    store.upsert_articles(records, embeddings)
-    store.upsert_document(records, embeddings)
+    # 8. Insert into all collections
+    log.info("[%d/%d] Insert into Qdrant (clauses + articles + document)", step, total)
+    store.insert_clauses(records, embeddings)
+    store.insert_articles(records, embeddings)
+    store.insert_document(records, embeddings)
     step += 1
 
     # 9. Rebuild BM25 sidecar

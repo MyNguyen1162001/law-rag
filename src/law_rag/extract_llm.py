@@ -1,4 +1,4 @@
-"""Gemini-based enrichment of ClauseRecord. Only fills fields rules left blank."""
+"""LLM-based enrichment of ClauseRecord. Only fills fields rules left blank."""
 from __future__ import annotations
 
 import json
@@ -6,10 +6,9 @@ import logging
 import time
 from typing import List
 
-import google.generativeai as genai
 from tqdm import tqdm
 
-from . import config
+from . import config, llm as llm_module
 from .schema import ClauseRecord, LLMEnrichment
 
 log = logging.getLogger(__name__)
@@ -23,6 +22,7 @@ Với MỖI Khoản dưới đây, hãy trả về một JSON object có CHÍNH 
 - doi_tuong: danh sách chủ thể (TCTD, NHNN, chi nhánh, khách hàng, ...)
 - keywords: 3-8 từ khóa thực thể (entity-like, không phải stopword)
 - tags: 2-5 tag ngắn snake_case để gom nhóm (vd: quan_tri, cap_phep, chi_nhanh)
+- sanctions: object (dict) ánh xạ từng chủ thể (đối tượng) đến danh sách chế tài/xử phạt áp dụng cho chủ thể đó; thêm khóa đặc biệt "references" là danh sách các Điều/Khoản liên quan. Ví dụ: {"tổ chức tín dụng": ["phạt tiền từ 50-200 triệu đồng"], "chi nhánh ngân hàng nước ngoài": ["đình chỉ hoạt động"], "references": ["Điều 5"]}. Dùng {} nếu Khoản không quy định chế tài.
 - reasoning: 1 câu giải thích vì sao Khoản này thuộc nhóm chủ đề đó
 - clause_type_override: chỉ điền nếu bạn KHÔNG đồng ý với clause_type rule-based đã suy ra; chọn 1 trong: definition|obligation|permission|prohibition|procedure|sanction|unknown. Nếu đồng ý, để null.
 
@@ -30,22 +30,6 @@ QUAN TRỌNG: với các trường list, dùng [] thay vì null khi không có g
 Trả về DUY NHẤT một JSON array, mỗi phần tử ứng với một Khoản theo đúng thứ tự đầu vào.
 KHÔNG thêm markdown, KHÔNG thêm văn bản ngoài JSON.
 """
-
-
-_model = None
-
-
-def _get_model():
-    global _model
-    if _model is None:
-        if not config.GEMINI_API_KEY:
-            raise RuntimeError("GEMINI_API_KEY not set in .env")
-        genai.configure(api_key=config.GEMINI_API_KEY)
-        _model = genai.GenerativeModel(
-            config.GEMINI_MODEL,
-            generation_config={"response_mime_type": "application/json", "temperature": 0.1},
-        )
-    return _model
 
 
 def _build_user_message(records: List[ClauseRecord]) -> str:
@@ -108,7 +92,6 @@ def enrich_batch(
     if len(todo) < len(records):
         log.info("Resuming: %d/%d records still need enrichment.", len(todo), len(records))
 
-    model = _get_model()
     min_interval = 60.0 / rpm
     last_call = 0.0
 
@@ -129,9 +112,9 @@ def enrich_batch(
             if wait > 0:
                 time.sleep(wait)
             try:
-                resp = model.generate_content(prompt)
+                resp_text = llm_module.generate(prompt)
                 last_call = time.time()
-                enrichments = _parse_response(resp.text, len(batch))
+                enrichments = _parse_response(resp_text, len(batch))
                 break
             except Exception as e:  # noqa: BLE001
                 last_call = time.time()
@@ -144,7 +127,7 @@ def enrich_batch(
                     )
                     time.sleep(backoff)
                     continue
-                log.error("Gemini call failed for batch %d: %s", i // batch_size, e)
+                log.error("LLM call failed for batch %d: %s", i // batch_size, e)
                 break
 
         for rec, enr in zip(batch, enrichments):
@@ -170,6 +153,8 @@ def _merge(rec: ClauseRecord, enr: LLMEnrichment) -> None:
         rec.keywords = enr.keywords
     if enr.tags:
         rec.tags = enr.tags
+    if enr.sanctions:
+        rec.sanctions = enr.sanctions
     if enr.reasoning:
         rec.reasoning = enr.reasoning
     if enr.clause_type_override and enr.clause_type_override != rec.normative.clause_type:

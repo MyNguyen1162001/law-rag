@@ -1,0 +1,877 @@
+[
+  {
+    "id": "12_2024_TT-NHNN__D1__K1",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 1 và bổ sung khoản 13, khoản 14 Điều 2 như sau: a) Sửa đổi, bổ sung khoản 1 như sau: “1. Cho vay là hình thức cấp tín dụng thông qua việc tổ chức tín dụng giao hoặc cam kết giao cho khách hàng một khoản tiền để sử dụng vào mục đích xác định, trong một thời gian nhất định, theo nguyên tắc có hoàn trả đầy đủ tiền gốc, lãi theo thỏa thuận cho tổ chức tín dụng.”. b) Bổ sung khoản 13 như sau: “13. Khoản cho vay có mức giá trị nhỏ là khoản cho vay theo quy định tại khoản 2 Điều 102 Luật Các tổ chức tín dụng và không vượt quá 100.000.000 (một trăm triệu) đồng Việt Nam.”. c) Bổ sung khoản 14 như sau: “14. Người có liên quan của khách hàng là tổ chức, cá nhân có quan hệ với khách hàng theo quy định tại khoản 24 Điều 4 Luật Các tổ chức tín dụng.”.",
+    "summary": "Sửa đổi định nghĩa 'cho vay' và bổ sung định nghĩa 'khoản cho vay có mức giá trị nhỏ' và 'người có liên quan của khách hàng'.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "cho vay",
+        "khoản cho vay có mức giá trị nhỏ",
+        "người có liên quan của khách hàng"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [
+      "Điều 2",
+      "Điều 102",
+      "Điều 4"
+    ],
+    "keywords": [
+      "cho vay",
+      "cấp tín dụng",
+      "khoản cho vay nhỏ",
+      "người có liên quan",
+      "khách hàng",
+      "tổ chức tín dụng"
+    ],
+    "tags": [
+      "definition",
+      "amendment"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa các thuật ngữ quan trọng trong hoạt động cho vay."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D1__K2",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 2
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 2 Điều 4 như sau: “2. Khách hàng vay vốn tổ chức tín dụng phải đảm bảo sử dụng vốn vay đúng mục đích đã cam kết, hoàn trả nợ gốc, lãi tiền vay, phí đầy đủ, đúng hạn theo thỏa thuận với tổ chức tín dụng.”.",
+    "summary": "Khách hàng vay vốn phải đảm bảo sử dụng vốn đúng mục đích và hoàn trả nợ gốc, lãi đầy đủ, đúng hạn.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [
+        "vay vốn"
+      ],
+      "actions": [
+        "đảm bảo sử dụng vốn vay đúng mục đích",
+        "hoàn trả nợ gốc, lãi tiền vay",
+        "trả phí"
+      ]
+    },
+    "doi_tuong": [
+      "khách hàng"
+    ],
+    "references": [
+      "Điều 4"
+    ],
+    "keywords": [
+      "khách hàng",
+      "vay vốn",
+      "mục đích",
+      "hoàn trả nợ",
+      "lãi",
+      "tổ chức tín dụng"
+    ],
+    "tags": [
+      "obligation",
+      "customer"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ bắt buộc của khách hàng khi vay vốn."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D1__K3",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 3
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 3 Điều 7 như sau: “3. Có phương án sử dụng vốn khả thi. Điều kiện này không bắt buộc đối với khoản cho vay có mức giá trị nhỏ.”.",
+    "summary": "Quy định về phương án sử dụng vốn khả thi, không bắt buộc cho khoản vay có mức giá trị nhỏ.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [
+        "cho vay"
+      ],
+      "actions": [
+        "có phương án sử dụng vốn khả thi"
+      ]
+    },
+    "doi_tuong": [
+      "khách hàng"
+    ],
+    "references": [
+      "Điều 7"
+    ],
+    "keywords": [
+      "phương án sử dụng vốn",
+      "khả thi",
+      "khoản cho vay nhỏ",
+      "không bắt buộc"
+    ],
+    "tags": [
+      "condition",
+      "loan"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đặt ra một điều kiện cho việc cho vay, với một ngoại lệ."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D1__K4",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 4
+    },
+    "input_text": "Sửa đổi, bổ sung Điều 9 như sau: “Điều 9. Hồ sơ đề nghị vay vốn",
+    "summary": "Sửa đổi, bổ sung Điều 9 về hồ sơ đề nghị vay vốn.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "hồ sơ đề nghị vay vốn"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 9"
+    ],
+    "keywords": [
+      "hồ sơ",
+      "đề nghị vay vốn",
+      "Điều 9"
+    ],
+    "tags": [
+      "procedure",
+      "amendment"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đề cập đến việc sửa đổi một điều về quy trình hồ sơ."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D1__K1_2",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 1
+    },
+    "input_text": "Khi có nhu cầu vay vốn, khách hàng phải cung cấp cho tổ chức tín dụng: a) Thông tin, tài liệu, dữ liệu chứng minh đủ điều kiện vay vốn theo quy định tại Điều 7 Thông tư này và các thông tin, tài liệu, dữ liệu khác do tổ chức tín dụng hướng dẫn; b) Thông tin về người có liên quan của khách hàng trong trường hợp quy định tại khoản 2 Điều này. Thông tin về người có liên quan là cá nhân, bao gồm: họ và tên; số định danh cá nhân; quốc tịch, số hộ chiếu, ngày cấp, nơi cấp đối với người nước ngoài; mối quan hệ với khách hàng. Thông tin về người có liên quan là tổ chức, bao gồm: tên, mã số doanh nghiệp, địa chỉ trụ sở chính của doanh nghiệp, số Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ pháp lý tương đương, người đại diện theo pháp luật, mối quan hệ với khách hàng.",
+    "summary": "Khách hàng phải cung cấp thông tin, tài liệu chứng minh đủ điều kiện vay và thông tin về người có liên quan.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [
+        "nhu cầu vay vốn"
+      ],
+      "actions": [
+        "cung cấp thông tin, tài liệu, dữ liệu",
+        "chứng minh đủ điều kiện vay",
+        "cung cấp thông tin về người có liên quan"
+      ]
+    },
+    "doi_tuong": [
+      "khách hàng",
+      "tổ chức tín dụng"
+    ],
+    "references": [
+      "Điều 7"
+    ],
+    "keywords": [
+      "khách hàng",
+      "thông tin",
+      "tài liệu",
+      "điều kiện vay",
+      "người có liên quan",
+      "tổ chức tín dụng"
+    ],
+    "tags": [
+      "obligation",
+      "customer_info"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ bắt buộc của khách hàng trong việc cung cấp thông tin."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D1__K2_2",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 2
+    },
+    "input_text": "Quy định tại điểm b khoản 1 Điều này áp dụng trong trường hợp: a) Tại thời điểm đề nghị cho vay tại ngân hàng thương mại, ngân hàng hợp tác xã, chi nhánh ngân hàng nước ngoài, khách hàng có tổng mức dư nợ cấp tín dụng (bao gồm cả mức dư nợ cho vay mà khách hàng đang đề nghị cho vay) lớn hơn hoặc bằng 0,1% vốn tự có của ngân hàng thương mại, ngân hàng hợp tác xã, chi nhánh ngân hàng nước ngoài đó tại cuối ngày làm việc gần nhất; b) Tại thời điểm đề nghị cho vay tại tổ chức tín dụng phi ngân hàng, tổ chức tài chính vi mô, khách hàng có tổng mức dư nợ cấp tín dụng (bao gồm cả mức dư nợ cho vay mà khách hàng đang đề nghị cho vay) lớn hơn hoặc bằng 0,5% vốn tự có của tổ chức tín dụng phi ngân hàng, tổ chức tài chính vi mô đó tại cuối ngày làm việc gần nhất; c) Tại thời điểm đề nghị cho vay tại quỹ tín dụng nhân dân, khách hàng có tổng mức dư nợ cấp tín dụng (bao gồm cả mức dư nợ cho vay mà khách hàng đang đề nghị cho vay) lớn hơn hoặc bằng 1% vốn tự có của quỹ tín dụng nhân dân đó tại cuối ngày làm việc gần nhất; d) Trường hợp tổ chức tín dụng có vốn tự có âm, các tỷ lệ trên được áp dụng trên vốn điều lệ hoặc vốn được cấp đối với chi nhánh ngân hàng nước ngoài.”.",
+    "summary": "Quy định các trường hợp áp dụng điểm b khoản 1, liên quan đến tỷ lệ dư nợ so với vốn tự có của các loại tổ chức tín dụng.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "đề nghị cho vay",
+        "tổng mức dư nợ cấp tín dụng lớn hơn hoặc bằng một tỷ lệ vốn tự có"
+      ],
+      "actions": []
+    },
+    "doi_tuong": [
+      "ngân hàng thương mại",
+      "ngân hàng hợp tác xã",
+      "chi nhánh ngân hàng nước ngoài",
+      "tổ chức tín dụng phi ngân hàng",
+      "tổ chức tài chính vi mô",
+      "quỹ tín dụng nhân dân",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "dư nợ",
+      "vốn tự có",
+      "ngân hàng thương mại",
+      "tổ chức tín dụng phi ngân hàng",
+      "quỹ tín dụng nhân dân",
+      "tỷ lệ",
+      "cho vay"
+    ],
+    "tags": [
+      "condition",
+      "exposure_limit"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này xác định các điều kiện kích hoạt để áp dụng một quy định khác."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D1__K5",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 5
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 2 Điều 16 như sau: “2. Khách hàng có trách nhiệm cung cấp thông tin, tài liệu, dữ liệu cho tổ chức tín dụng trung thực, chính xác, đầy đủ, kịp thời và phải chịu trách nhiệm về việc cung cấp thông tin, tài liệu, dữ liệu đó: a) Các thông tin, tài liệu, dữ liệu quy định tại khoản 1 Điều 9 Thông tư này; b) Báo cáo việc sử dụng vốn vay và cung cấp thông tin, tài liệu, dữ liệu chứng minh vốn vay được sử dụng đúng mục đích ghi trong thỏa thuận cho vay; c) Các thông tin, tài liệu, dữ liệu về biện pháp bảo đảm tiền vay trong trường hợp tổ chức tín dụng, khách hàng có thỏa thuận về việc áp dụng biện pháp bảo đảm.”.",
+    "summary": "Khách hàng có trách nhiệm cung cấp thông tin trung thực, chính xác, đầy đủ, kịp thời và chịu trách nhiệm về thông tin đó, bao gồm thông tin về sử dụng vốn và biện pháp bảo đảm.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm",
+        "phải",
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "cung cấp thông tin, tài liệu, dữ liệu",
+        "báo cáo sử dụng vốn vay",
+        "cung cấp thông tin về biện pháp bảo đảm"
+      ]
+    },
+    "doi_tuong": [
+      "khách hàng",
+      "tổ chức tín dụng"
+    ],
+    "references": [
+      "Điều 16",
+      "Điều 9"
+    ],
+    "keywords": [
+      "khách hàng",
+      "trách nhiệm",
+      "thông tin",
+      "trung thực",
+      "sử dụng vốn",
+      "biện pháp bảo đảm",
+      "tổ chức tín dụng"
+    ],
+    "tags": [
+      "obligation",
+      "customer_info",
+      "collateral"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ và trách nhiệm của khách hàng trong việc cung cấp và báo cáo thông tin."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D1__K6",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 6
+    },
+    "input_text": "Sửa đổi, bổ sung điểm b(iii) khoản 2, điểm c(iii) khoản 2 và bổ sung điểm c(iv) khoản 2 Điều 22 Thông tư số 39/2016/TT-NHNN đã được sửa đổi, bổ sung bởi điểm c, d khoản 6 Điều 1 Thông tư số 06/2023/TT-NHNN ngày 28 tháng 6 năm 2023 của Thống đốc Ngân hàng Nhà nước Việt Nam sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN ngày 30 tháng 12 năm 2016 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về hoạt động cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng như sau: a) Sửa đổi, bổ sung điểm b(iii) khoản 2 như sau: “(iii) Trường hợp cho vay để bảo đảm thực hiện nghĩa vụ của khách hàng vay đối với bên thứ ba, tổ chức tín dụng cho vay thỏa thuận với khách hàng để phong tỏa số tiền cho vay tại tổ chức tín dụng cho vay đảm bảo phù hợp với quy định của pháp luật cho đến khi chấm dứt nghĩa vụ bảo đảm;”. b) Sửa đổi, bổ sung điểm c(iii) khoản 2 như sau: “(iii) Trường hợp cho vay để bảo đảm thực hiện nghĩa vụ của khách hàng vay đối với bên thứ ba, đảm bảo thu hồi được vốn cho vay trong trường hợp các bên không thực hiện đúng thỏa thuận nghĩa vụ bảo đảm;” c) Bổ sung điểm c(iv) khoản 2 như sau: “(iv) Đối với các khoản cho vay có mức giá trị nhỏ, có biện pháp kiểm tra, giám sát việc sử dụng vốn vay đúng mục đích đã cam kết và trả nợ của khách hàng, đảm bảo khả năng thu hồi nợ gốc và lãi tiền vay đầy đủ, đúng hạn theo thỏa thuận.”.",
+    "summary": "Sửa đổi, bổ sung các quy định về cho vay để bảo đảm nghĩa vụ với bên thứ ba và về kiểm tra, giám sát khoản vay nhỏ.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "cho vay để bảo đảm thực hiện nghĩa vụ của khách hàng vay đối với bên thứ ba",
+        "khoản cho vay có mức giá trị nhỏ"
+      ],
+      "actions": [
+        "phong tỏa số tiền cho vay",
+        "đảm bảo thu hồi vốn cho vay",
+        "kiểm tra, giám sát việc sử dụng vốn vay"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng",
+      "bên thứ ba"
+    ],
+    "references": [
+      "Thông tư số 39/2016/TT-NHNN",
+      "Thông tư số 06/2023/TT-NHNN",
+      "Điều 22",
+      "Điều 1"
+    ],
+    "keywords": [
+      "cho vay",
+      "bảo đảm nghĩa vụ",
+      "bên thứ ba",
+      "phong tỏa",
+      "thu hồi vốn",
+      "khoản vay nhỏ",
+      "kiểm tra giám sát"
+    ],
+    "tags": [
+      "procedure",
+      "collateral",
+      "small_loan"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định các quy trình và biện pháp trong các trường hợp cho vay cụ thể."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D1__K7",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 7
+    },
+    "input_text": "Sửa đổi, bổ sung Điều 24 Thông tư số 39/2016/TT-NHNN đã được sửa đổi, bổ sung bởi khoản 8 Điều 1 Thông tư số 06/2023/TT-NHNN như sau: “Điều 24. Kiểm tra sử dụng tiền vay",
+    "summary": "Khoản này sửa đổi, bổ sung Điều 24 của Thông tư số 39/2016/TT-NHNN về kiểm tra sử dụng tiền vay.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "Kiểm tra sử dụng tiền vay"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng"
+    ],
+    "references": [
+      "Thông tư số 39/2016/TT-NHNN",
+      "Thông tư số 06/2023/TT-NHNN",
+      "Điều 24",
+      "Điều 1"
+    ],
+    "keywords": [
+      "Thông tư 39/2016/TT-NHNN",
+      "Thông tư 06/2023/TT-NHNN",
+      "Điều 24",
+      "Kiểm tra",
+      "Sử dụng tiền vay"
+    ],
+    "tags": [
+      "sua_doi_bo_sung",
+      "tham_chieu"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định về việc sửa đổi một điều khoản cụ thể trong văn bản pháp luật hiện hành."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D1__K1_3",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 1
+    },
+    "input_text": "Khách hàng có nghĩa vụ sử dụng vốn vay đúng mục đích đã cam kết, hoàn trả nợ gốc, lãi, phí đầy đủ, đúng hạn theo thỏa thuận; báo cáo việc sử dụng vốn vay và cung cấp thông tin, tài liệu, dữ liệu chứng minh vốn vay được sử dụng đúng mục đích.",
+    "summary": "Khoản này quy định nghĩa vụ của khách hàng trong việc sử dụng vốn vay đúng mục đích, trả nợ đầy đủ và báo cáo, cung cấp thông tin cho tổ chức tín dụng.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có nghĩa vụ",
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "Sử dụng vốn vay đúng mục đích",
+        "Hoàn trả nợ gốc lãi phí",
+        "Báo cáo sử dụng vốn",
+        "Cung cấp thông tin tài liệu"
+      ]
+    },
+    "doi_tuong": [
+      "Khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "Khách hàng",
+      "Nghĩa vụ",
+      "Vốn vay",
+      "Mục đích vay",
+      "Trả nợ",
+      "Báo cáo"
+    ],
+    "tags": [
+      "nghia_vu_khach_hang",
+      "su_dung_von_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này liệt kê các hành vi bắt buộc mà khách hàng phải thực hiện."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D1__K2_3",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 2
+    },
+    "input_text": "Tổ chức tín dụng có quyền, nghĩa vụ kiểm tra, giám sát việc sử dụng vốn vay và trả nợ của khách hàng quy định tại khoản 1 Điều 102 Luật Các tổ chức tín dụng; có quyền yêu cầu khách hàng báo cáo việc sử dụng vốn vay và cung cấp thông tin, tài liệu, dữ liệu chứng minh vốn vay được sử dụng đúng mục đích.",
+    "summary": "Khoản này quy định quyền và nghĩa vụ của tổ chức tín dụng trong việc kiểm tra, giám sát việc sử dụng vốn vay và trả nợ của khách hàng, và quyền yêu cầu khách hàng báo cáo, cung cấp thông tin.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có quyền",
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "Kiểm tra sử dụng vốn vay",
+        "Giám sát trả nợ",
+        "Yêu cầu báo cáo",
+        "Yêu cầu cung cấp thông tin"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "Khách hàng"
+    ],
+    "references": [
+      "Điều 102"
+    ],
+    "keywords": [
+      "Tổ chức tín dụng",
+      "Quyền",
+      "Nghĩa vụ",
+      "Kiểm tra",
+      "Giám sát",
+      "Khách hàng"
+    ],
+    "tags": [
+      "quyen_nghia_vu_tctd",
+      "kiem_tra_giam_sat"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này trao quyền và đặt ra nghĩa vụ cho tổ chức tín dụng trong hoạt động cho vay."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D1__K3_2",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 3
+    },
+    "input_text": "Đối với các khoản cho vay có mức giá trị nhỏ, tổ chức tín dụng có biện pháp kiểm tra, giám sát việc sử dụng vốn vay đúng mục đích đã cam kết và trả nợ của khách hàng, đảm bảo khả năng thu hồi nợ gốc và lãi tiền vay đầy đủ, đúng hạn theo thỏa thuận.”.",
+    "summary": "Khoản này quy định tổ chức tín dụng phải có biện pháp kiểm tra, giám sát đối với các khoản cho vay giá trị nhỏ để đảm bảo sử dụng vốn đúng mục đích và thu hồi nợ.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [],
+      "triggers": [
+        "Đối với các khoản cho vay có mức giá trị nhỏ"
+      ],
+      "actions": [
+        "Có biện pháp kiểm tra",
+        "Giám sát việc sử dụng vốn vay",
+        "Giám sát trả nợ",
+        "Đảm bảo thu hồi nợ"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "Khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "Cho vay giá trị nhỏ",
+      "Tổ chức tín dụng",
+      "Kiểm tra",
+      "Giám sát",
+      "Thu hồi nợ"
+    ],
+    "tags": [
+      "kiem_tra_giam_sat",
+      "cho_vay_gia_tri_nho"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đặt ra nghĩa vụ cụ thể cho tổ chức tín dụng trong một trường hợp cho vay đặc thù."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D1__K8",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+      "khoan": 8
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 1, khoản 3 và bổ sung khoản 5, khoản 6, khoản 7 Điều 26 như sau: a) Sửa đổi, bổ sung khoản 1 như sau: “1. Tuân thủ các quy định về những trường hợp không được cho vay, hạn chế cho vay và giới hạn cho vay tại Luật Các tổ chức tín dụng và quy định của Ngân hàng Nhà nước Việt Nam về các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của tổ chức tín dụng.”. b) Sửa đổi, bổ sung khoản 3 như sau: “3. Thực hiện việc phân loại, trích lập dự phòng và sử dụng dự phòng để xử lý rủi ro đối với hoạt động cho vay theo quy định của pháp luật.”. c) Bổ sung khoản 5 như sau: “5. Trường hợp cho vay để bảo đảm thực hiện nghĩa vụ của khách hàng vay đối với bên thứ ba, tổ chức tín dụng cho vay thỏa thuận với khách hàng để phong tỏa số tiền cho vay tại tổ chức tín dụng cho vay đảm bảo phù hợp với quy định của pháp luật cho đến khi chấm dứt nghĩa vụ bảo đảm.”. d) Bổ sung khoản 6 như sau: “6. Tổ chức tín dụng phải lưu trữ hồ sơ cho vay theo quy định tại Luật Các tổ chức tín dụng; thời hạn lưu trữ hồ sơ cho vay thực hiện theo quy định của pháp luật về lưu trữ.”. đ) Bổ sung khoản 7 như sau: “7. Tổ chức tín dụng phải yêu cầu khách hàng cung cấp tài liệu, dữ liệu chứng minh phương án sử dụng vốn khả thi, khả năng tài chính của khách hàng, mục đích sử dụng vốn hợp pháp trước khi quyết định cho vay, trừ khoản cho vay có mức giá trị nhỏ. Đối với khoản cho vay có mức giá trị nhỏ, tổ chức tín dụng phải có tối thiểu thông tin về mục đích sử dụng vốn hợp pháp, khả năng tài chính của khách hàng trước khi quyết định cho vay.”.",
+    "summary": "Khoản này sửa đổi, bổ sung Điều 26 với các quy định về tuân thủ giới hạn cho vay, phân loại nợ, trích lập dự phòng, phong tỏa tiền vay, lưu trữ hồ sơ và yêu cầu thông tin khách hàng trước khi cho vay.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "không được",
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "Trường hợp cho vay để bảo đảm thực hiện nghĩa vụ của khách hàng vay đối với bên thứ ba",
+        "Đối với khoản cho vay có mức giá trị nhỏ"
+      ],
+      "actions": [
+        "Tuân thủ quy định không được cho vay",
+        "Phân loại nợ",
+        "Trích lập dự phòng",
+        "Phong tỏa số tiền cho vay",
+        "Lưu trữ hồ sơ cho vay",
+        "Yêu cầu khách hàng cung cấp tài liệu"
+      ]
+    },
+    "doi_tuong": [
+      "Tổ chức tín dụng",
+      "Khách hàng"
+    ],
+    "references": [
+      "Điều 26"
+    ],
+    "keywords": [
+      "Điều 26",
+      "Giới hạn cho vay",
+      "Trích lập dự phòng",
+      "Phong tỏa tiền vay",
+      "Lưu trữ hồ sơ",
+      "Thẩm định khách hàng"
+    ],
+    "tags": [
+      "sua_doi_bo_sung",
+      "quan_tri_rủi_ro",
+      "thu_tuc_cho_vay"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này bao gồm nhiều quy định về nghĩa vụ và thủ tục mà tổ chức tín dụng phải tuân thủ trong hoạt động cho vay."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D3__K1",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 3,
+      "dieu_title": "Trách nhiệm tổ chức thực hiện",
+      "khoan": 1
+    },
+    "input_text": "Chánh Văn phòng, Vụ trưởng Vụ Chính sách tiền tệ, Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, Giám đốc Ngân hàng Nhà nước chi nhánh các tỉnh, thành phố trực thuộc Trung ương, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chịu trách nhiệm tổ chức thực hiện Thông tư này.",
+    "summary": "Khoản này quy định trách nhiệm tổ chức thực hiện Thông tư cho các cá nhân, đơn vị thuộc Ngân hàng Nhà nước và các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "Chịu trách nhiệm tổ chức thực hiện"
+      ]
+    },
+    "doi_tuong": [
+      "Chánh Văn phòng NHNN",
+      "Vụ trưởng Vụ Chính sách tiền tệ",
+      "Thủ trưởng đơn vị thuộc NHNN",
+      "Giám đốc NHNN chi nhánh tỉnh",
+      "Tổ chức tín dụng",
+      "Chi nhánh ngân hàng nước ngoài"
+    ],
+    "references": [],
+    "keywords": [
+      "Trách nhiệm tổ chức thực hiện",
+      "Ngân hàng Nhà nước",
+      "Tổ chức tín dụng",
+      "Chi nhánh ngân hàng nước ngoài"
+    ],
+    "tags": [
+      "trach_nhiem_thuc_hien",
+      "to_chuc"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này phân công trách nhiệm thi hành văn bản pháp luật cho các chủ thể cụ thể."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D4__K1",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 4,
+      "dieu_title": "Điều khoản thi hành",
+      "khoan": 1
+    },
+    "input_text": "Thông tư này có hiệu lực từ ngày 01 tháng 7 năm 2024.",
+    "summary": "Khoản này quy định thời điểm Thông tư có hiệu lực thi hành.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "Có hiệu lực"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "Hiệu lực",
+      "Ngày 01 tháng 7 năm 2024"
+    ],
+    "tags": [
+      "hieu_luc"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này xác định ngày bắt đầu có hiệu lực của văn bản pháp luật."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D4__K2",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 4,
+      "dieu_title": "Điều khoản thi hành",
+      "khoan": 2
+    },
+    "input_text": "Bãi bỏ khoản 8, điểm b khoản 9 Điều 1 Thông tư số 06/2023/TT-NHNN.",
+    "summary": "Khoản này bãi bỏ một phần của Thông tư số 06/2023/TT-NHNN.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "Bãi bỏ"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [
+      "Thông tư số 06/2023/TT-NHNN",
+      "Điều 1"
+    ],
+    "keywords": [
+      "Bãi bỏ",
+      "Thông tư 06/2023/TT-NHNN",
+      "Khoản 8",
+      "Điểm b khoản 9"
+    ],
+    "tags": [
+      "ba_bo",
+      "tham_chieu"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc hủy bỏ hiệu lực của một quy định pháp luật cụ thể trước đó."
+  },
+  {
+    "id": "12_2024_TT-NHNN__D4__K3",
+    "doc_id": "12_2024_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "12/2024/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2024-06-28"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 4,
+      "dieu_title": "Điều khoản thi hành",
+      "khoan": 3
+    },
+    "input_text": "Đối với các thỏa thuận cho vay, hợp đồng tín dụng được ký kết trước ngày Thông tư này có hiệu lực thi hành, tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội dung trong thỏa thuận cho vay, hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết thỏa thuận cho vay, hợp đồng tín dụng đó. Trường hợp thoả thuận sửa đổi, bổ sung thỏa thuận cho vay, hợp đồng tín dụng, nội dung sửa đổi, bổ sung phải phù hợp với quy định tại Thông tư này./. Nơi nhận:\n- Như Điều 3;\n- Ban Lãnh đạo NHNN;\n- Văn phòng Chính phủ;\n- Bộ Tư pháp (để kiểm tra);\n- Công báo;\n- Cổng TTĐT của NHNN;\n- Lưu: VT, Vụ CSTT, Vụ PC. KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC\n\n\n\n\nPhạm Thanh Hà",
+    "summary": "Các thỏa thuận cho vay, hợp đồng tín dụng ký kết trước khi Thông tư có hiệu lực tiếp tục được thực hiện theo quy định pháp luật tại thời điểm ký kết. Nội dung sửa đổi, bổ sung sau đó phải phù hợp với Thông tư này.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "thỏa thuận cho vay, hợp đồng tín dụng được ký kết trước ngày Thông tư này có hiệu lực thi hành",
+        "thoả thuận sửa đổi, bổ sung thỏa thuận cho vay, hợp đồng tín dụng"
+      ],
+      "actions": [
+        "tiếp tục thực hiện các nội dung trong thỏa thuận cho vay, hợp đồng tín dụng đã ký kết",
+        "nội dung sửa đổi, bổ sung phải phù hợp với quy định tại Thông tư này"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [
+      "Điều 3"
+    ],
+    "keywords": [
+      "thỏa thuận cho vay",
+      "hợp đồng tín dụng",
+      "Thông tư",
+      "hiệu lực thi hành",
+      "sửa đổi",
+      "bổ sung",
+      "quy định pháp luật"
+    ],
+    "tags": [
+      "hieu_luc",
+      "hop_dong",
+      "dieu_khoan_thi_hanh"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định về hiệu lực áp dụng của Thông tư đối với các hợp đồng đã ký và việc sửa đổi sau này."
+  }
+]

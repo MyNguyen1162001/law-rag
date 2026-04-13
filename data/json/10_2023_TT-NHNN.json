@@ -1,0 +1,98 @@
+[
+  {
+    "id": "10_2023_TT-NHNN__D2__K1",
+    "doc_id": "10_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "10/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-08-23"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 2,
+      "dieu_title": "Điều khoản thi hành",
+      "khoan": 1
+    },
+    "input_text": "Thông tư này có hiệu lực thi hành từ ngày 01 tháng 9 năm 2023.",
+    "summary": "Thông tư này có hiệu lực từ ngày 01 tháng 9 năm 2023.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [
+        "từ ngày 01 tháng 9 năm 2023"
+      ],
+      "actions": [
+        "có hiệu lực thi hành"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "hiệu lực",
+      "thi hành",
+      "Thông tư",
+      "ngày"
+    ],
+    "tags": [
+      "hieu_luc",
+      "thoi_gian"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định thời điểm có hiệu lực của văn bản pháp luật."
+  },
+  {
+    "id": "10_2023_TT-NHNN__D3__K1",
+    "doc_id": "10_2023_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "10/2023/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2023-08-23"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 3,
+      "dieu_title": "Trách nhiệm tổ chức thực hiện",
+      "khoan": 1
+    },
+    "input_text": "Chánh Văn phòng, Vụ trưởng Vụ Chính sách tiền tệ, Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, Giám đốc Ngân hàng Nhà nước chi nhánh các tỉnh, thành phố trực thuộc Trung ương, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chịu trách nhiệm tổ chức thực hiện Thông tư này./. Nơi nhận:\n- Như Điều 3;\n- Ban Lãnh đạo NHNN;\n- Văn phòng Chính phủ;\n- Bộ Tư pháp (để kiểm tra);\n- Công báo;\n- Cổng TTĐT của NHNN;\n- Lưu: VT, Vụ CSTT, Vụ PC. KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC\n\n\n\n\nPhạm Thanh Hà",
+    "summary": "Các lãnh đạo, đơn vị thuộc NHNN, chi nhánh NHNN, TCTD và chi nhánh ngân hàng nước ngoài có trách nhiệm tổ chức thực hiện Thông tư này.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "tổ chức thực hiện",
+        "chịu trách nhiệm"
+      ]
+    },
+    "doi_tuong": [
+      "Chánh Văn phòng",
+      "Vụ trưởng Vụ Chính sách tiền tệ",
+      "Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "Giám đốc Ngân hàng Nhà nước chi nhánh",
+      "tổ chức tín dụng",
+      "chi nhánh ngân hàng nước ngoài"
+    ],
+    "references": [
+      "Điều 3"
+    ],
+    "keywords": [
+      "trách nhiệm",
+      "tổ chức thực hiện",
+      "Ngân hàng Nhà nước",
+      "tổ chức tín dụng",
+      "chi nhánh ngân hàng nước ngoài"
+    ],
+    "tags": [
+      "trach_nhiem",
+      "to_chuc_thi_hanh",
+      "doi_tuong_ap_dung"
+    ],
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ cụ thể của các chủ thể trong việc thực thi văn bản."
+  }
+]

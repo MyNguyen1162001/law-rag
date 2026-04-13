@@ -131,3 +131,86 @@ See [src/law_rag/schema.py](src/law_rag/schema.py). Notable fields:
 | [scripts/classify.py](scripts/classify.py) | use case 2 |
 | [scripts/label.py](scripts/label.py) | manage labels + rebuild prototypes |
 | [scripts/chat.py](scripts/chat.py) | use case 3 |
+| [scripts/eval_self_retrieval.py](scripts/eval_self_retrieval.py) | eval: store/plumbing sanity |
+| [scripts/eval_sibling.py](scripts/eval_sibling.py) | eval: embedding quality |
+| [scripts/eval_retrieval.py](scripts/eval_retrieval.py) | eval: retrieval + ablation |
+| [eval/gold.csv](eval/gold.csv) | 20 hand-written test queries |
+
+## Evaluation
+
+Chạy theo thứ tự — mỗi test de-risk cho test sau.
+
+### Test 1: Self-retrieval (store OK?)
+
+Query mỗi clause bằng chính embedding của nó → top-1 phải là chính nó.
+
+```bash
+# Nhanh — dùng embedding đã lưu
+python -m scripts.eval_self_retrieval
+
+# Nghiêm ngặt — re-embed từ text (load BGE-M3)
+python -m scripts.eval_self_retrieval --reembed
+
+# Check top-5 thay vì top-1
+python -m scripts.eval_self_retrieval --top-k 5
+```
+
+| Self-hit @1 | Ý nghĩa |
+|---|---|
+| ≥ 99% | OK → sang test 2 |
+| 95–99% | Vài duplicate text (boilerplate) |
+| < 95% | Bug store → dừng, debug `src/law_rag/store.py` |
+
+### Test 2: Sibling coherence (embedding tốt?)
+
+Top-k neighbors có cùng Điều/Chương/văn bản không? So với random baseline.
+
+```bash
+python -m scripts.eval_sibling
+python -m scripts.eval_sibling --top-k 5
+python -m scripts.eval_sibling --show-worst 20
+```
+
+| Lift (same-Điều) | Ý nghĩa |
+|---|---|
+| ≥ 5x | STRONG → sang test 3 |
+| 2–5x | OK |
+| < 2x | Embedding yếu → check `text_for_embedding()` |
+
+### Test 3: Retrieval quality (retriever tìm đúng?)
+
+Synthetic gold set (tự sinh từ JSON metadata) + ablation dense/bm25/hybrid.
+
+```bash
+# Hybrid mode (production)
+python -m scripts.eval_retrieval
+
+# So sánh 3 mode
+python -m scripts.eval_retrieval --mode all
+
+# Nhanh — subsample 200 query
+python -m scripts.eval_retrieval --mode all --sample 200
+
+# Xem misses
+python -m scripts.eval_retrieval --mode all --show-misses 10
+```
+
+### Test 4: Manual gold set (query thật)
+
+20 câu hỏi viết tay theo kiểu user thật, lưu trong `eval/gold.csv`.
+
+```bash
+# Hybrid trên gold thủ công
+python -m scripts.eval_retrieval --gold eval/gold.csv
+
+# Ablation trên gold thủ công
+python -m scripts.eval_retrieval --gold eval/gold.csv --mode all --show-misses 5
+```
+
+Thêm query mới vào `eval/gold.csv` (format: `"query","id1;id2"`).
+
+### Khi nào chạy lại?
+
+- Sau khi ingest thêm văn bản mới
+- Sau khi thay đổi `text_for_embedding()`, embed model, hoặc RRF weights
+- Sau khi sửa segment.py hoặc rules.py

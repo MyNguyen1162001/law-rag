@@ -12,20 +12,19 @@ def classify(query: str, k: int = 5) -> dict:
     qvec = embed.encode([query])[0].tolist()
 
     # 1) Try prototypes (fast, O(num_classes))
-    proto = store.collection(config.COLL_PROTOTYPES)
-    proto_data = proto.get()
+    proto_data = store.get_all(config.COLL_PROTOTYPES)
     if proto_data["ids"]:
-        res = proto.query(query_embeddings=[qvec], n_results=1)
+        res = store.query(config.COLL_PROTOTYPES, qvec, k=1)
         nhom = res["metadatas"][0][0]["nhom"]
         sim = 1.0 - float(res["distances"][0][0])
         if sim >= 0.45:
             return {"nhom": nhom, "confidence": sim, "method": "prototype"}
 
     # 2) Fallback: kNN over labelled clauses, majority vote
-    clauses = store.collection(config.COLL_CLAUSES)
-    res = clauses.query(
-        query_embeddings=[qvec],
-        n_results=k,
+    res = store.query(
+        config.COLL_CLAUSES,
+        qvec,
+        k=k,
         where={"nhom": {"$ne": ""}},
     )
     if not res["ids"][0]:

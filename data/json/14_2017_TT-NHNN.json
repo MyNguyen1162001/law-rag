@@ -1,0 +1,1029 @@
+[
+  {
+    "id": "14_2017_TT-NHNN__D1__K1",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 1,
+      "dieu_title": "Phạm vi điều chỉnh",
+      "khoan": 1
+    },
+    "input_text": "Thông tư này quy định về phương pháp tính lãi phát sinh trong hoạt động nhận tiền gửi, cấp tín dụng giữa tổ chức tín dụng, chi nhánh ngân hàng nước ngoài với khách hàng.",
+    "summary": "Thông tư này quy định phương pháp tính lãi phát sinh trong hoạt động nhận tiền gửi và cấp tín dụng giữa tổ chức tín dụng, chi nhánh ngân hàng nước ngoài với khách hàng.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "quy định về phương pháp tính lãi phát sinh"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "chi nhánh ngân hàng nước ngoài",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "Thông tư",
+      "phương pháp tính lãi",
+      "tiền gửi",
+      "cấp tín dụng",
+      "tổ chức tín dụng",
+      "chi nhánh ngân hàng nước ngoài",
+      "khách hàng"
+    ],
+    "tags": [
+      "pham_vi",
+      "tinh_lai"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa phạm vi điều chỉnh của Thông tư."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D2__K1",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 2,
+      "dieu_title": "Đối tượng áp dụng",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài nhận tiền gửi của khách hàng, cấp tín dụng cho khách hàng (sau đây gọi là tổ chức tín dụng).",
+    "summary": "Đối tượng áp dụng của Thông tư là tổ chức tín dụng và chi nhánh ngân hàng nước ngoài khi nhận tiền gửi và cấp tín dụng cho khách hàng.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [
+        "nhận tiền gửi của khách hàng",
+        "cấp tín dụng cho khách hàng"
+      ],
+      "actions": [
+        "nhận tiền gửi",
+        "cấp tín dụng"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "chi nhánh ngân hàng nước ngoài"
+    ],
+    "references": [],
+    "keywords": [
+      "đối tượng áp dụng",
+      "tổ chức tín dụng",
+      "chi nhánh ngân hàng nước ngoài",
+      "nhận tiền gửi",
+      "cấp tín dụng",
+      "khách hàng"
+    ],
+    "tags": [
+      "doi_tuong",
+      "tctd"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này xác định chủ thể phải tuân theo Thông tư."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D2__K2",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 2,
+      "dieu_title": "Đối tượng áp dụng",
+      "khoan": 2
+    },
+    "input_text": "Khách hàng gửi tiền, nhận cấp tín dụng tại tổ chức tín dụng (sau đây gọi là khách hàng).",
+    "summary": "Khách hàng gửi tiền hoặc nhận cấp tín dụng tại tổ chức tín dụng là đối tượng áp dụng của Thông tư.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [
+        "gửi tiền",
+        "nhận cấp tín dụng tại tổ chức tín dụng"
+      ],
+      "actions": [
+        "gửi tiền",
+        "nhận cấp tín dụng"
+      ]
+    },
+    "doi_tuong": [
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "khách hàng",
+      "gửi tiền",
+      "nhận cấp tín dụng",
+      "tổ chức tín dụng"
+    ],
+    "tags": [
+      "doi_tuong",
+      "khach_hang"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa khách hàng là đối tượng áp dụng."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D3__K1",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 3,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 1
+    },
+    "input_text": "Số tiền lãi: là khoản tiền tổ chức tín dụng phải trả cho khách hàng gửi tiền hoặc khách hàng nhận cấp tín dụng phải trả cho tổ chức tín dụng về việc sử dụng khoản tiền đã nhận.",
+    "summary": "Số tiền lãi là khoản tiền tổ chức tín dụng phải trả cho khách hàng gửi tiền hoặc khách hàng nhận cấp tín dụng phải trả cho tổ chức tín dụng về việc sử dụng khoản tiền đã nhận.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [],
+      "actions": [
+        "phải trả"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "số tiền lãi",
+      "tổ chức tín dụng",
+      "khách hàng",
+      "gửi tiền",
+      "cấp tín dụng",
+      "phải trả"
+    ],
+    "tags": [
+      "giai_thich",
+      "tinh_lai"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa số tiền lãi và quy định nghĩa vụ trả lãi."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D3__K2",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 3,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 2
+    },
+    "input_text": "Thời hạn tính lãi: là toàn bộ khoảng thời gian do tổ chức tín dụng và khách hàng thỏa thuận để tính số tiền lãi của khoản tiền gửi, cấp tín dụng phù hợp với quy định tại Thông tư này.",
+    "summary": "Thời hạn tính lãi là khoảng thời gian do tổ chức tín dụng và khách hàng thỏa thuận để tính số tiền lãi của khoản tiền gửi, cấp tín dụng.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "thỏa thuận"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "thời hạn tính lãi",
+      "tổ chức tín dụng",
+      "khách hàng",
+      "thỏa thuận",
+      "tiền gửi",
+      "cấp tín dụng"
+    ],
+    "tags": [
+      "giai_thich",
+      "tinh_lai"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa thời hạn tính lãi."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D3__K3",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 3,
+      "dieu_title": "Giải thích từ ngữ",
+      "khoan": 3
+    },
+    "input_text": "Kỳ tính lãi: là khoảng thời gian trong thời hạn tính lãi mà tổ chức tín dụng và khách hàng thỏa thuận dùng để tính số tiền lãi. Kỳ tính lãi có thể được xác định bằng giờ, ngày, tuần, tháng, năm theo thỏa thuận giữa tổ chức tín dụng và khách hàng phù hợp với quy định của pháp luật.",
+    "summary": "Kỳ tính lãi là khoảng thời gian trong thời hạn tính lãi mà tổ chức tín dụng và khách hàng thỏa thuận dùng để tính số tiền lãi, có thể được xác định bằng giờ, ngày, tuần, tháng, năm.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "thỏa thuận",
+        "xác định"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "kỳ tính lãi",
+      "thời hạn tính lãi",
+      "tổ chức tín dụng",
+      "khách hàng",
+      "thỏa thuận",
+      "giờ",
+      "ngày",
+      "tuần",
+      "tháng",
+      "năm"
+    ],
+    "tags": [
+      "giai_thich",
+      "tinh_lai"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa kỳ tính lãi và cho phép các phương thức xác định."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D4__K1",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 4,
+      "dieu_title": "Nguyên tắc tính lãi",
+      "khoan": 1
+    },
+    "input_text": "Lãi suất tính lãi: được quy đổi theo tỷ lệ %/năm (lãi suất năm); một năm là ba trăm sáu mươi lăm ngày. Thời gian sử dụng để quy đổi mức lãi suất tính lãi theo tỷ lệ %/tháng, %/tuần, %/giờ sang mức lãi suất theo tỷ lệ %/ngày; quy đổi mức lãi suất theo tỷ lệ %/ngày sang mức lãi suất theo tỷ lệ %/năm và ngược lại được tính như sau: a) Một năm là ba trăm sáu mươi lăm ngày; b) Một tháng là ba mươi ngày; c) Một tuần là bảy ngày; d) Một ngày là hai mươi tư giờ.",
+    "summary": "Lãi suất tính lãi được quy đổi theo tỷ lệ %/năm và quy định cách quy đổi từ các đơn vị thời gian khác.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "quy đổi"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "lãi suất tính lãi",
+      "quy đổi",
+      "%/năm",
+      "tháng",
+      "tuần",
+      "giờ",
+      "ngày"
+    ],
+    "tags": [
+      "nguyen_tac",
+      "tinh_lai"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nguyên tắc và phương pháp quy đổi lãi suất."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D4__K2",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 4,
+      "dieu_title": "Nguyên tắc tính lãi",
+      "khoan": 2
+    },
+    "input_text": "Đối với khoản tiền gửi, cấp tín dụng có thời hạn từ một ngày trở lên: Tổ chức tín dụng được thỏa thuận với khách hàng về thời hạn tính lãi và thời điểm xác định số dư để tính lãi theo một trong hai cách sau: a) Thời hạn tính lãi được xác định từ ngày tiếp theo ngày giải ngân khoản cấp tín dụng hoặc ngày tiếp theo ngày nhận tiền gửi đến hết ngày thanh toán hết khoản cấp tín dụng, khoản tiền gửi (bỏ ngày đầu, tính ngày cuối của thời hạn tính lãi) và thời điểm xác định số dư để tính lãi là đầu mỗi ngày trong thời hạn tính lãi. b) Thời hạn tính lãi được xác định từ ngày giải ngân khoản cấp tín dụng hoặc ngày nhận tiền gửi đến hết ngày liền kề trước ngày thanh toán hết khoản cấp tín dụng, khoản tiền gửi (tính ngày đầu, bỏ ngày cuối của thời hạn tính lãi) và thời điểm xác định số dư để tính lãi là cuối mỗi ngày trong thời hạn tính lãi.",
+    "summary": "Tổ chức tín dụng được thỏa thuận với khách hàng về thời hạn tính lãi và thời điểm xác định số dư để tính lãi theo hai cách cụ thể cho khoản tiền gửi, cấp tín dụng có thời hạn từ một ngày trở lên.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "khoản tiền gửi, cấp tín dụng có thời hạn từ một ngày trở lên"
+      ],
+      "actions": [
+        "thỏa thuận",
+        "xác định thời hạn tính lãi",
+        "xác định thời điểm số dư"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "thỏa thuận",
+      "thời hạn tính lãi",
+      "thời điểm số dư",
+      "tổ chức tín dụng",
+      "khách hàng",
+      "tiền gửi",
+      "cấp tín dụng",
+      "giải ngân"
+    ],
+    "tags": [
+      "nguyen_tac",
+      "tinh_lai",
+      "thoa_thuan"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cho phép tổ chức tín dụng và khách hàng thỏa thuận phương pháp tính lãi."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D4__K3",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 4,
+      "dieu_title": "Nguyên tắc tính lãi",
+      "khoan": 3
+    },
+    "input_text": "Đối với khoản tiền gửi, cấp tín dụng mà thời hạn tính từ khi nhận tiền gửi hoặc từ khi giải ngân khoản cấp tín dụng đến khi thanh toán hết khoản tiền gửi, khoản cấp tín dụng dưới một ngày: Tổ chức tín dụng thỏa thuận với khách hàng về thời hạn tính lãi được tính từ khi nhận tiền gửi hoặc từ khi giải ngân khoản cấp tín dụng đến khi thanh toán hết khoản tiền gửi, khoản cấp tín dụng, nhưng không được vượt quá một ngày.",
+    "summary": "Tổ chức tín dụng và khách hàng được thỏa thuận về thời hạn tính lãi cho khoản tiền gửi/cấp tín dụng có thời hạn tính dưới một ngày, nhưng thời hạn tính lãi không được vượt quá một ngày.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "không được",
+        "được"
+      ],
+      "triggers": [
+        "khoản tiền gửi, cấp tín dụng có thời hạn tính từ khi nhận tiền/giải ngân đến khi thanh toán hết dưới một ngày"
+      ],
+      "actions": [
+        "thỏa thuận với khách hàng về thời hạn tính lãi"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "thời hạn tính lãi",
+      "tiền gửi",
+      "cấp tín dụng",
+      "thỏa thuận",
+      "thanh toán"
+    ],
+    "tags": [
+      "tinh_lai",
+      "thoa_thuan",
+      "nguyen_tac"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định một giới hạn (không được vượt quá một ngày) trong việc thỏa thuận, thuộc nhóm quy định về nguyên tắc tính lãi."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D4__K4",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 4,
+      "dieu_title": "Nguyên tắc tính lãi",
+      "khoan": 4
+    },
+    "input_text": "Tổ chức tín dụng và khách hàng được thỏa thuận về mức lãi suất, phương pháp tính lãi phù hợp với quy định của pháp luật về nhận tiền gửi, cấp tín dụng và quy định tại Thông tư này.",
+    "summary": "Tổ chức tín dụng và khách hàng được thỏa thuận về mức lãi suất và phương pháp tính lãi, phải phù hợp với pháp luật về nhận tiền gửi, cấp tín dụng và Thông tư này.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "thỏa thuận về mức lãi suất",
+        "thỏa thuận về phương pháp tính lãi"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "lãi suất",
+      "phương pháp tính lãi",
+      "thỏa thuận",
+      "tiền gửi",
+      "cấp tín dụng"
+    ],
+    "tags": [
+      "tinh_lai",
+      "thoa_thuan",
+      "nguyen_tac"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cho phép các chủ thể thỏa thuận về lãi suất và phương pháp tính, thuộc nhóm nguyên tắc tính lãi."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D5__K1",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 5,
+      "dieu_title": "Minh bạch lãi suất",
+      "khoan": 1
+    },
+    "input_text": "Phương pháp tính lãi a) Yếu tố tính lãi: (i) Thời hạn tính lãi: Được xác định theo quy định tại điểm a khoản 2 Điều 4 Thông tư này. (ii) Số dư thực tế: Là số dư đầu ngày tính lãi của số dư tiền gửi, số dư nợ gốc trong hạn, số dư nợ gốc quá hạn, số dư lãi chậm trả thực tế mà bên nhận tiền gửi, bên nhận cấp tín dụng còn phải trả cho bên gửi tiền, bên cấp tín dụng được sử dụng để tính lãi theo thỏa thuận và quy định của pháp luật về nhận tiền gửi, cấp tín dụng. (iii) Số ngày duy trì số dư thực tế: Là số ngày mà số dư thực tế đầu mỗi ngày không thay đổi. (iv) Lãi suất tính lãi: Được tính theo tỷ lệ %/năm theo quy định tại khoản 1 Điều 4 Thông tư này. b) Công thức tính lãi: Số tiền lãi của từng kỳ tính lãi được xác định như sau: - Số tiền lãi của một ngày được tính toán như sau: Số tiền lãi ngày = Số dư thực tế  x  Lãi suất tính lãi 365 Số tiền lãi của kỳ tính lãi bằng (=) tổng số tiền lãi ngày của toàn bộ các ngày trong kỳ tính lãi. - Đối với các khoản tiền gửi, cấp tín dụng có thời gian duy trì số dư thực tế nhiều hơn một (01) ngày trong kỳ tính lãi, được sử dụng công thức rút gọn sau để tính lãi: Số tiền lãi = ∑ ( Số dư thực tế  x  số ngày duy trì số dư thực tế  x  Lãi suất tính lãi) 365",
+    "summary": "Quy định các yếu tố và công thức cụ thể để tính lãi cho khoản tiền gửi và cấp tín dụng.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "xác định thời hạn tính lãi",
+        "xác định số dư thực tế",
+        "xác định số ngày duy trì số dư",
+        "xác định lãi suất tính lãi",
+        "áp dụng công thức tính lãi"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [
+      "Điều 4"
+    ],
+    "keywords": [
+      "phương pháp tính lãi",
+      "thời hạn tính lãi",
+      "số dư thực tế",
+      "lãi suất tính lãi",
+      "công thức tính lãi"
+    ],
+    "tags": [
+      "tinh_lai",
+      "minh_bach",
+      "phuong_phap"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định cụ thể phương pháp tính lãi mà các chủ thể phải áp dụng, thuộc nhóm minh bạch lãi suất."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D5__K2",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 5,
+      "dieu_title": "Minh bạch lãi suất",
+      "khoan": 2
+    },
+    "input_text": "Minh bạch lãi suất a) Đối với khoản tiền gửi, cấp tín dụng có thỏa thuận được lập thành văn bản dưới hình thức thỏa thuận cụ thể hoặc thỏa thuận khung và thỏa thuận cụ thể: (i) Văn bản thỏa thuận nhận tiền gửi, cấp tín dụng giữa tổ chức tín dụng và khách hàng phải có nội dung về phương pháp tính lãi và mức lãi suất tính lãi; trường hợp thỏa thuận áp dụng lãi suất điều chỉnh thì trong văn bản thỏa thuận phải có nội dung về nguyên tắc và các yếu tố để xác định lãi suất điều chỉnh và tại thời điểm điều chỉnh lãi suất, tổ chức tín dụng phải thông báo cho khách hàng bằng văn bản về mức lãi suất cụ thể được điều chỉnh. (ii) Đối với khoản tiền gửi, cấp tín dụng có thời hạn từ một ngày trở lên có thỏa thuận phương pháp tính lãi khác với phương pháp tính lãi quy định tại khoản 1 Điều này: Ngoài việc thực hiện quy định tại điểm a(i) khoản này thì tổ chức tín dụng phải ghi rõ mức lãi suất năm tương ứng theo phương pháp tính lãi quy định tại khoản 1 Điều này trong văn bản thỏa thuận nhận tiền gửi, cấp tín dụng; trường hợp thỏa thuận áp dụng lãi suất điều chỉnh thì tại thời điểm điều chỉnh lãi suất, trong thông báo về mức lãi suất cụ thể được điều chỉnh, tổ chức tín dụng phải ghi rõ mức lãi suất năm tương ứng theo phương pháp tính lãi quy định tại khoản 1 Điều này. b) Đối với các khoản tiền gửi, cấp tín dụng sử dụng hợp đồng theo mẫu hoặc điều kiện giao dịch chung trong giao kết thỏa thuận nhận tiền gửi, cấp tín dụng: (i) Tổ chức tín dụng phải thực hiện minh bạch thông tin về hợp đồng theo mẫu hoặc điều kiện giao dịch chung theo quy định của pháp luật về nhận tiền gửi và cấp tín dụng. Ngoài ra, tổ chức tín dụng phải niêm yết công khai thông tin về phương pháp tính lãi tại trụ sở và đăng tải trên trang thông tin điện tử của tổ chức tín dụng (nếu có). Trước khi thực hiện giao dịch, tổ chức tín dụng phải cung cấp đầy đủ thông tin cho khách hàng về phương pháp tính lãi và mức lãi suất tính lãi; trường hợp có áp dụng lãi suất điều chỉnh thì thông tin cung cấp phải bao gồm cả nguyên tắc và các yếu tố để xác định lãi suất điều chỉnh và tại thời điểm điều chỉnh lãi suất, tổ chức tín dụng phải thông báo cho khách hàng về mức lãi suất cụ thể được điều chỉnh. Tổ chức tín dụng phải có xác nhận của khách hàng về việc đã được tổ chức tín dụng cung cấp đầy đủ thông tin trong trường hợp pháp luật về nhận tiền gửi, cấp tín dụng có quy định. (ii) Đối với khoản tiền gửi, cấp tín dụng có thời hạn từ một ngày trở lên thỏa thuận phương pháp tính lãi khác với phương pháp tính lãi quy định tại khoản 1 Điều này: Ngoài thực hiện quy định tại điểm b(i) khoản này thì tổ chức tín dụng phải cung cấp cho khách hàng mức lãi suất năm tương ứng theo phương pháp tính lãi quy định tại khoản 1 Điều này; trường hợp có áp dụng lãi suất điều chỉnh thì tại thời điểm điều chỉnh lãi suất, tổ chức tín dụng phải thông báo cho khách hàng về mức lãi suất cụ thể được điều chỉnh và mức lãi suất năm tương ứng theo phương pháp tính lãi quy định tại khoản 1 Điều này.",
+    "summary": "Quy định các nghĩa vụ của tổ chức tín dụng để đảm bảo minh bạch lãi suất trong thỏa thuận với khách hàng, bao gồm nội dung văn bản, niêm yết công khai và cung cấp thông tin.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "khoản tiền gửi, cấp tín dụng có thỏa thuận thành văn bản",
+        "khoản tiền gửi, cấp tín dụng sử dụng hợp đồng mẫu/điều kiện giao dịch chung"
+      ],
+      "actions": [
+        "ghi nội dung phương pháp tính lãi và lãi suất trong văn bản thỏa thuận",
+        "thông báo lãi suất điều chỉnh",
+        "niêm yết công khai phương pháp tính lãi",
+        "cung cấp thông tin cho khách hàng",
+        "có xác nhận của khách hàng"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "minh bạch lãi suất",
+      "văn bản thỏa thuận",
+      "niêm yết công khai",
+      "cung cấp thông tin",
+      "lãi suất điều chỉnh"
+    ],
+    "tags": [
+      "minh_bach",
+      "thoa_thuan",
+      "thong_tin"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đặt ra nhiều nghĩa vụ cho tổ chức tín dụng để đảm bảo khách hàng được minh bạch về lãi suất."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D6__K1",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 6,
+      "dieu_title": "Hạch toán kế toán",
+      "khoan": 1
+    },
+    "input_text": "Tổ chức tín dụng thực hiện hạch toán kế toán thu nhập, chi phí lãi tuân thủ quy định của pháp luật về kế toán và các quy định khác của pháp luật có liên quan.",
+    "summary": "Tổ chức tín dụng phải hạch toán kế toán thu nhập và chi phí lãi theo quy định của pháp luật về kế toán và các quy định liên quan.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "hạch toán kế toán thu nhập lãi",
+        "hạch toán kế toán chi phí lãi"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng"
+    ],
+    "references": [],
+    "keywords": [
+      "hạch toán kế toán",
+      "thu nhập lãi",
+      "chi phí lãi"
+    ],
+    "tags": [
+      "ke_toan",
+      "hach_toan"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ hạch toán kế toán của tổ chức tín dụng, thuộc nhóm quy định về kế toán."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D7__K1",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 7,
+      "dieu_title": "Trách nhiệm của các đơn vị Ngân hàng Nhà nước",
+      "khoan": 1
+    },
+    "input_text": "Vụ Tài chính - Kế toán làm đầu mối xử lý các vấn đề vướng mắc liên quan đến việc triển khai thực hiện Thông tư này.",
+    "summary": "Vụ Tài chính - Kế toán của Ngân hàng Nhà nước là đầu mối xử lý các vướng mắc trong triển khai Thông tư này.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [
+        "có vướng mắc liên quan đến việc triển khai Thông tư"
+      ],
+      "actions": [
+        "xử lý các vấn đề vướng mắc"
+      ]
+    },
+    "doi_tuong": [
+      "Vụ Tài chính - Kế toán (Ngân hàng Nhà nước)"
+    ],
+    "references": [],
+    "keywords": [
+      "Vụ Tài chính - Kế toán",
+      "đầu mối",
+      "vướng mắc",
+      "triển khai"
+    ],
+    "tags": [
+      "trach_nhiem",
+      "xu_ly"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này phân công trách nhiệm xử lý vướng mắc cho một đơn vị cụ thể của NHNN."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D7__K2",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 7,
+      "dieu_title": "Trách nhiệm của các đơn vị Ngân hàng Nhà nước",
+      "khoan": 2
+    },
+    "input_text": "Cơ quan Thanh tra, giám sát ngân hàng có trách nhiệm thanh tra, giám sát việc thực hiện Thông tư này và xử lý các vi phạm theo thẩm quyền.",
+    "summary": "Cơ quan Thanh tra, giám sát ngân hàng có trách nhiệm thanh tra, giám sát việc thực hiện Thông tư này và xử lý vi phạm theo thẩm quyền.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm"
+      ],
+      "triggers": [],
+      "actions": [
+        "thanh tra việc thực hiện Thông tư",
+        "giám sát việc thực hiện Thông tư",
+        "xử lý vi phạm"
+      ]
+    },
+    "doi_tuong": [
+      "Cơ quan Thanh tra, giám sát ngân hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "Thanh tra, giám sát ngân hàng",
+      "trách nhiệm",
+      "thanh tra",
+      "giám sát",
+      "xử lý vi phạm"
+    ],
+    "tags": [
+      "trach_nhiem",
+      "thanh_tra",
+      "xu_phat"
+    ],
+    "sanctions": {
+      "references": []
+    },
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ thanh tra, giám sát và xử lý vi phạm của cơ quan chuyên môn."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D8__K1",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 8,
+      "dieu_title": "Điều khoản chuyển tiếp",
+      "khoan": 1
+    },
+    "input_text": "Việc tính lãi của khoản tiền gửi, cấp tín dụng có thỏa thuận giữa tổ chức tín dụng và khách hàng về phương pháp tính lãi trước ngày Thông tư này có hiệu lực thi hành được tiếp tục thực hiện theo các thỏa thuận đã ký kết phù hợp với quy định của pháp luật tại thời điểm ký kết; trường hợp tổ chức tín dụng và khách hàng thỏa thuận sửa đổi, bổ sung về phương pháp tính lãi thì phải phù hợp với quy định tại Thông tư này.",
+    "summary": "Các thỏa thuận tính lãi trước khi Thông tư có hiệu lực được tiếp tục thực hiện theo thỏa thuận đã ký; nếu sửa đổi, bổ sung thì phải phù hợp với Thông tư này.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "khoản tiền gửi, cấp tín dụng có thỏa thuận phương pháp tính lãi trước ngày Thông tư có hiệu lực"
+      ],
+      "actions": [
+        "tiếp tục thực hiện thỏa thuận đã ký",
+        "sửa đổi, bổ sung thỏa thuận về phương pháp tính lãi"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "thỏa thuận tính lãi",
+      "hiệu lực thi hành",
+      "sửa đổi",
+      "bổ sung",
+      "chuyển tiếp"
+    ],
+    "tags": [
+      "chuyen_tiep",
+      "thoa_thuan"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định cách áp dụng Thông tư cho các thỏa thuận đã có trước đó, thuộc nhóm điều khoản chuyển tiếp."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D8__K2",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 8,
+      "dieu_title": "Điều khoản chuyển tiếp",
+      "khoan": 2
+    },
+    "input_text": "Việc tính lãi của khoản tiền gửi không có thỏa thuận giữa tổ chức tín dụng và khách hàng về phương pháp tính lãi trước ngày Thông tư này có hiệu lực thi hành được thực hiện như sau: a) Đối với tiền gửi không có thỏa thuận về kỳ hạn gửi tiền: Kể từ ngày Thông tư này có hiệu lực thi hành, tổ chức tín dụng chuyển sang tính lãi theo quy định tại Thông tư này và thông báo cho khách hàng gửi tiền. b) Đối với tiền gửi có thỏa thuận về kỳ hạn gửi tiền: Kể từ ngày Thông tư này có hiệu lực thi hành, tổ chức tín dụng tiếp tục tính lãi theo phương pháp tính lãi đang thực hiện trước ngày Thông tư này có hiệu lực cho đến hết thời hạn của khoản tiền gửi; trường hợp tổ chức tín dụng và khách hàng thỏa thuận bổ sung về phương pháp tính lãi thì phải phù hợp với quy định tại Thông tư này.",
+    "summary": "Quy định phương pháp tính lãi cho khoản tiền gửi không có thỏa thuận về phương pháp tính lãi trước khi Thông tư có hiệu lực, bao gồm tiền gửi không kỳ hạn và có kỳ hạn.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "khoản tiền gửi không có thỏa thuận về phương pháp tính lãi trước ngày Thông tư có hiệu lực"
+      ],
+      "actions": [
+        "chuyển sang tính lãi theo Thông tư và thông báo cho khách hàng",
+        "tiếp tục tính lãi theo phương pháp đang thực hiện cho đến hết thời hạn",
+        "thỏa thuận bổ sung về phương pháp tính lãi"
+      ]
+    },
+    "doi_tuong": [
+      "tổ chức tín dụng",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "tiền gửi",
+      "tính lãi",
+      "thỏa thuận",
+      "kỳ hạn",
+      "thông báo",
+      "phương pháp tính lãi"
+    ],
+    "tags": [
+      "chuyen_doi",
+      "tinh_lai",
+      "tien_gui"
+    ],
+    "sanctions": {
+      "references": [
+        "Điều 8"
+      ]
+    },
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ cụ thể của tổ chức tín dụng trong việc tính lãi và thông báo khi áp dụng Thông tư mới."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D9__K1",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 9,
+      "dieu_title": "Tổ chức thực hiện",
+      "khoan": 1
+    },
+    "input_text": "Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2018.",
+    "summary": "Quy định ngày có hiệu lực thi hành của Thông tư.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "có hiệu lực thi hành"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "hiệu lực",
+      "thi hành",
+      "Thông tư"
+    ],
+    "tags": [
+      "hieu_luc"
+    ],
+    "sanctions": {
+      "references": [
+        "Điều 9"
+      ]
+    },
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này chỉ xác định thời điểm hiệu lực, không quy định nghĩa vụ, hành vi hay chế tài."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D9__K2",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 9,
+      "dieu_title": "Tổ chức thực hiện",
+      "khoan": 2
+    },
+    "input_text": "Kể từ ngày Thông tư này có hiệu lực thi hành, các văn bản sau đây hết hiệu lực thi hành: a) Quyết định số 652/2001/QĐ-NHNN ngày 17 tháng 5 năm 2001 của Thống đốc Ngân hàng Nhà nước về việc ban hành Quy định phương pháp tính và hạch toán thu, trả lãi của Ngân hàng Nhà nước và các tổ chức tín dụng; b) Quyết định số 51/2006/QĐ-NHNN ngày 06 tháng 10 năm 2006 của Thống đốc Ngân hàng Nhà nước về việc hủy bỏ Điều 4 của quy định phương pháp tính và hạch toán thu, trả lãi của Ngân hàng Nhà nước và các tổ chức tín dụng ban hành kèm theo Quyết định số 652/2001/QĐ-NHNN ngày 17 tháng 5 năm 2001 của Thống đốc Ngân hàng Nhà nước; c) Khoản 2 Điều 13 Quyết định số 1160/2004/QĐ-NHNN ngày 13 tháng 9 năm 2004 của Thống đốc Ngân hàng Nhà nước về việc ban hành Quy chế về tiền gửi tiết kiệm.",
+    "summary": "Liệt kê các văn bản hết hiệu lực thi hành khi Thông tư này có hiệu lực.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [
+        "Thông tư này có hiệu lực thi hành"
+      ],
+      "actions": [
+        "hết hiệu lực thi hành"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [
+      "Quyết định số 652/2001/QĐ-NHNN",
+      "Quyết định số 51/2006/QĐ-NHNN",
+      "Quyết định số 1160/2004/QĐ-NHNN",
+      "Điều 4 của quy định phương pháp tính và hạch toán thu",
+      "Điều 13"
+    ],
+    "keywords": [
+      "văn bản",
+      "hết hiệu lực",
+      "Quyết định",
+      "Thống đốc",
+      "Ngân hàng Nhà nước"
+    ],
+    "tags": [
+      "hieu_luc",
+      "van_ban"
+    ],
+    "sanctions": {
+      "references": [
+        "Điều 9"
+      ]
+    },
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này chỉ liệt kê các văn bản bị thay thế, không quy định hành động hay chế tài cho chủ thể."
+  },
+  {
+    "id": "14_2017_TT-NHNN__D9__K3",
+    "doc_id": "14_2017_TT-NHNN",
+    "doc_meta": {
+      "so_hieu": "14/2017/TT-NHNN",
+      "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+      "ngay_ban_hanh": "2017-09-29"
+    },
+    "path": {
+      "chuong": null,
+      "dieu": 9,
+      "dieu_title": "Tổ chức thực hiện",
+      "khoan": 3
+    },
+    "input_text": "Chánh Văn phòng, Vụ trưởng Vụ Tài chính - Kế toán, Chánh Thanh tra Cơ quan Thanh tra, giám sát ngân hàng, Thủ trưởng các đơn vị liên quan thuộc Ngân hàng Nhà nước, Giám đốc Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc Trung ương, Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên và Tổng giám đốc (Giám đốc) các tổ chức tín dụng chịu trách nhiệm tổ chức thực hiện Thông tư này./. Nơi nhận:\n- Như Điều 9;\n- Ban Lãnh đạo NHNN;\n- Văn phòng Chính phủ;\n- Công báo;\n- Bộ Tư pháp (để kiểm tra);\n- Bộ Tài chính;\n- Lưu: VP, PC, TCKT (5). KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC\n\n\n\n\nĐào Minh Tú",
+    "summary": "Quy định trách nhiệm tổ chức thực hiện Thông tư này cho các cá nhân và đơn vị có thẩm quyền trong Ngân hàng Nhà nước và tổ chức tín dụng.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "chịu trách nhiệm tổ chức thực hiện"
+      ]
+    },
+    "doi_tuong": [
+      "Chánh Văn phòng",
+      "Vụ trưởng Vụ Tài chính - Kế toán",
+      "Chánh Thanh tra Cơ quan Thanh tra, giám sát ngân hàng",
+      "Thủ trưởng các đơn vị liên quan thuộc Ngân hàng Nhà nước",
+      "Giám đốc Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc Trung ương",
+      "Chủ tịch Hội đồng quản trị",
+      "Chủ tịch Hội đồng thành viên",
+      "Tổng giám đốc (Giám đốc) các tổ chức tín dụng"
+    ],
+    "references": [
+      "Điều 9"
+    ],
+    "keywords": [
+      "trách nhiệm",
+      "tổ chức thực hiện",
+      "Ngân hàng Nhà nước",
+      "tổ chức tín dụng",
+      "Chánh Văn phòng",
+      "Vụ trưởng"
+    ],
+    "tags": [
+      "to_chuc_thi_hanh",
+      "trach_nhiem"
+    ],
+    "sanctions": {
+      "references": [
+        "Điều 9"
+      ]
+    },
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này giao nghĩa vụ tổ chức thực hiện cho một danh sách cụ thể các chủ thể."
+  }
+]

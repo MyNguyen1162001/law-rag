@@ -1,0 +1,4210 @@
+[
+  {
+    "id": "54_2026_ND-CP__D1__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 1,
+      "dieu_title": "Bổ sung Điều 2a",
+      "khoan": 1
+    },
+    "input_text": "Bổ sung Điều 2a sau Điều 2 như sau: “Điều 2a. Nguyên tắc giải quyết thủ tục hành chính",
+    "summary": "Bổ sung Điều 2a quy định về nguyên tắc giải quyết thủ tục hành chính.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "bổ sung điều",
+        "quy định nguyên tắc"
+      ]
+    },
+    "doi_tuong": [
+      "cơ quan hành chính"
+    ],
+    "references": [
+      "Điều 2"
+    ],
+    "keywords": [
+      "Điều 2a",
+      "nguyên tắc",
+      "thủ tục hành chính",
+      "giải quyết"
+    ],
+    "tags": [
+      "bo_sung_dieu",
+      "nguyen_tac"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc bổ sung một điều luật mới về nguyên tắc chung."
+  },
+  {
+    "id": "54_2026_ND-CP__D1__K1_2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 1,
+      "dieu_title": "Bổ sung Điều 2a",
+      "khoan": 1
+    },
+    "input_text": "Hồ sơ đề nghị giải quyết thủ tục hành chính được gửi bằng hình thức trực tiếp, trực tuyến hoặc thông qua dịch vụ bưu chính.",
+    "summary": "Quy định các hình thức gửi hồ sơ đề nghị giải quyết thủ tục hành chính.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "khi gửi hồ sơ đề nghị giải quyết thủ tục hành chính"
+      ],
+      "actions": [
+        "gửi hồ sơ",
+        "trực tiếp",
+        "trực tuyến",
+        "dịch vụ bưu chính"
+      ]
+    },
+    "doi_tuong": [
+      "cá nhân",
+      "tổ chức"
+    ],
+    "references": [],
+    "keywords": [
+      "hồ sơ",
+      "thủ tục hành chính",
+      "trực tiếp",
+      "trực tuyến",
+      "bưu chính"
+    ],
+    "tags": [
+      "hinh_thuc_gui",
+      "ho_so"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cho phép các chủ thể lựa chọn hình thức gửi hồ sơ."
+  },
+  {
+    "id": "54_2026_ND-CP__D1__K2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 1,
+      "dieu_title": "Bổ sung Điều 2a",
+      "khoan": 2
+    },
+    "input_text": "Mẫu đơn, tờ khai, thành phần hồ sơ tại khoản 3, khoản 4 Điều 10, khoản 2 Điều 14, điểm b khoản 3 Điều 17, Điều 26, khoản 3 Điều 31, khoản 3 Điều 32 của Nghị định này có quy định về các thông tin đã có trong cơ sở dữ liệu quốc gia về dân cư hoặc cơ sở dữ liệu chuyên ngành thì các thông tin này được thay thế bằng mã số định danh cá nhân hoặc mã số chuyên ngành thể hiện trong mẫu đơn, tờ khai khi cơ sở dữ liệu quốc gia về dân cư hoặc cơ sở dữ liệu chuyên ngành được vận hành. Trường hợp người Việt Nam định cư ở nước ngoài và người nước ngoài đang cư trú ở Việt Nam chưa được cấp mã số định danh cá nhân hoặc thông tin chưa có trên cơ sở dữ liệu thì được tiếp tục nộp bản sao giấy tờ, tài liệu theo yêu cầu của thủ tục hành chính.",
+    "summary": "Quy định việc thay thế thông tin trong hồ sơ bằng mã số định danh khi cơ sở dữ liệu vận hành và ngoại lệ cho người chưa có mã số.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "khi cơ sở dữ liệu quốc gia về dân cư hoặc cơ sở dữ liệu chuyên ngành được vận hành",
+        "trường hợp người Việt Nam định cư ở nước ngoài và người nước ngoài chưa được cấp mã số định danh"
+      ],
+      "actions": [
+        "thay thế thông tin bằng mã số",
+        "nộp bản sao giấy tờ"
+      ]
+    },
+    "doi_tuong": [
+      "cá nhân",
+      "người Việt Nam định cư ở nước ngoài",
+      "người nước ngoài"
+    ],
+    "references": [
+      "Điều 10",
+      "Điều 14",
+      "Điều 17",
+      "Điều 26",
+      "Điều 31",
+      "Điều 32 của Nghị định này có quy định về các thông tin đã có trong cơ sở dữ liệu quốc gia về"
+    ],
+    "keywords": [
+      "mã số định danh",
+      "cơ sở dữ liệu quốc gia",
+      "dân cư",
+      "bản sao giấy tờ",
+      "thủ tục hành chính"
+    ],
+    "tags": [
+      "ho_so",
+      "ma_so_dinh_danh",
+      "ngoai_le"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cho phép sử dụng mã số định danh thay cho thông tin thông thường và cho phép ngoại lệ."
+  },
+  {
+    "id": "54_2026_ND-CP__D1__K3",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 1,
+      "dieu_title": "Bổ sung Điều 2a",
+      "khoan": 3
+    },
+    "input_text": "Kết quả giải quyết thủ tục hành chính được trả bằng bản điện tử; trường hợp cá nhân, tổ chức có yêu cầu nhận bản giấy thì cơ quan giải quyết thủ tục hành chính có trách nhiệm trả đồng thời cả bản điện tử và bản giấy. Kết quả giải quyết thủ tục hành chính bản điện tử có giá trị pháp lý như kết quả giải quyết thủ tục hành chính bằng văn bản giấy.”",
+    "summary": "Quy định hình thức trả kết quả thủ tục hành chính bằng bản điện tử và bản giấy theo yêu cầu, đồng thời khẳng định giá trị pháp lý của bản điện tử.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm",
+        "được"
+      ],
+      "triggers": [
+        "khi trả kết quả giải quyết thủ tục hành chính",
+        "trường hợp cá nhân, tổ chức có yêu cầu nhận bản giấy"
+      ],
+      "actions": [
+        "trả kết quả bằng bản điện tử",
+        "trả đồng thời bản điện tử và bản giấy"
+      ]
+    },
+    "doi_tuong": [
+      "cơ quan giải quyết thủ tục hành chính",
+      "cá nhân",
+      "tổ chức"
+    ],
+    "references": [],
+    "keywords": [
+      "kết quả",
+      "thủ tục hành chính",
+      "bản điện tử",
+      "bản giấy",
+      "giá trị pháp lý"
+    ],
+    "tags": [
+      "hinh_thuc_tra",
+      "gia_tri_phap_ly"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ của cơ quan trong việc trả kết quả và khẳng định giá trị pháp lý."
+  },
+  {
+    "id": "54_2026_ND-CP__D2__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 2,
+      "dieu_title": "Sửa đổi, bổ sung Điều 8",
+      "khoan": 1
+    },
+    "input_text": "Bổ sung khoản 4a sau khoản 4 như sau: “4a. Trường hợp dự án đầu tư xây dựng nhà ở mà chưa thực hiện lấy ý kiến Bộ Quốc phòng, Bộ Công an theo quy định của pháp luật về nhà ở khi thực hiện chấp thuận chủ trương đầu tư và chủ đầu tư có nhu cầu bán, cho thuê mua nhà ở cho tổ chức, cá nhân nước ngoài theo quy định của pháp luật về nhà ở thì trong văn bản đề nghị bán, cho thuê mua nhà ở hình thành trong tương lai phải nêu rõ nội dung này làm cơ sở để Sở Xây dựng lấy ý kiến Bộ Quốc phòng, Bộ Công an. Bộ Quốc phòng, Bộ Công an có trách nhiệm trả lời trong thời hạn 07 ngày kể từ ngày nhận được văn bản của Sở Xây dựng. Văn bản thông báo nhà ở hình thành trong tương lai đủ điều kiện được bán, cho thuê mua của Sở Xây dựng phải nêu rõ kết quả theo ý kiến của Bộ Quốc phòng, Bộ Công an. Trường hợp sau khi có văn bản thông báo nhà ở hình thành trong tương lai đủ điều kiện được bán, cho thuê mua mà chủ đầu tư có nhu cầu bán nhà ở cho tổ chức, cá nhân nước ngoài thì có văn bản gửi Sở Xây dựng đề nghị điều chỉnh hoặc bổ sung nội dung này trong văn bản thông báo. Việc điều chỉnh, bổ sung văn bản thông báo nhà ở hình thành trong tương lai đủ điều kiện được bán, cho thuê mua được thực hiện theo quy định tại Điều này.”",
+    "summary": "Quy định trình tự, thủ tục lấy ý kiến Bộ Quốc phòng, Bộ Công an và điều chỉnh văn bản thông báo đối với dự án nhà ở bán/cho thuê mua cho tổ chức, cá nhân nước ngoài chưa lấy ý kiến khi chấp thuận chủ trương.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "có trách nhiệm",
+        "được"
+      ],
+      "triggers": [
+        "trường hợp dự án đầu tư xây dựng nhà ở chưa thực hiện lấy ý kiến Bộ Quốc phòng, Bộ Công an",
+        "khi chủ đầu tư có nhu cầu bán, cho thuê mua nhà ở cho tổ chức, cá nhân nước ngoài",
+        "trường hợp sau khi có văn bản thông báo mà chủ đầu tư có nhu cầu bán nhà ở cho tổ chức, cá nhân nước ngoài"
+      ],
+      "actions": [
+        "nêu rõ nội dung trong văn bản đề nghị",
+        "lấy ý kiến",
+        "trả lời trong thời hạn 07 ngày",
+        "nêu rõ kết quả trong văn bản thông báo",
+        "gửi văn bản đề nghị điều chỉnh hoặc bổ sung",
+        "điều chỉnh, bổ sung văn bản thông báo"
+      ]
+    },
+    "doi_tuong": [
+      "chủ đầu tư",
+      "Sở Xây dựng",
+      "Bộ Quốc phòng",
+      "Bộ Công an"
+    ],
+    "references": [],
+    "keywords": [
+      "dự án nhà ở",
+      "bán nhà",
+      "cho thuê mua",
+      "tổ chức nước ngoài",
+      "cá nhân nước ngoài",
+      "lấy ý kiến",
+      "văn bản thông báo"
+    ],
+    "tags": [
+      "du_an_nha_o",
+      "ngoai",
+      "trinh_tu_thu_tuc"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định các nghĩa vụ cụ thể cho nhiều chủ thể trong một quy trình phức tạp."
+  },
+  {
+    "id": "54_2026_ND-CP__D3__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 3,
+      "dieu_title": "Sửa đổi, bổ sung Điều 9",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung điểm e khoản 2 như sau: “e) Giấy tờ, tài liệu chứng minh việc bảo đảm cung cấp các dịch vụ cấp điện, cấp nước, thoát nước, thu gom rác thải, xử lý nước thải;”",
+    "summary": "Sửa đổi, bổ sung thành phần hồ sơ chứng minh việc bảo đảm cung cấp dịch vụ hạ tầng.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "sửa đổi, bổ sung thành phần hồ sơ"
+      ]
+    },
+    "doi_tuong": [
+      "chủ đầu tư",
+      "cơ quan có thẩm quyền"
+    ],
+    "references": [],
+    "keywords": [
+      "hồ sơ",
+      "giấy tờ",
+      "tài liệu",
+      "dịch vụ",
+      "cấp điện",
+      "cấp nước",
+      "thoát nước",
+      "rác thải",
+      "nước thải"
+    ],
+    "tags": [
+      "sua_doi_ho_so",
+      "ha_tang"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa/sửa đổi một thành phần cụ thể trong hồ sơ."
+  },
+  {
+    "id": "54_2026_ND-CP__D4__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 4,
+      "dieu_title": "Sửa đổi, bổ sung Điều 13",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung điểm a, điểm d khoản 2 như sau: “a) Bên chuyển nhượng và bên nhận chuyển nhượng hợp đồng thống nhất lập hợp đồng chuyển nhượng hợp đồng theo mẫu tại Phụ lục XI ban hành kèm theo Nghị định này. Hợp đồng chuyển nhượng hợp đồng phải được lập thành văn bản với số lượng theo thỏa thuận của các bên nhưng không ít hơn 06 bản, bảo đảm đáp ứng yêu cầu của giao dịch và việc thực hiện nghĩa vụ của các bên theo quy định của pháp luật về đất đai, nhà ở, kinh doanh bất động sản, thuế, công chứng và pháp luật có liên quan”. “d) Sau khi thực hiện quy định tại điểm c khoản này, một trong các bên nộp hồ sơ đến chủ đầu tư dự án bất động sản để đề nghị chủ đầu tư xác nhận việc chuyển nhượng hợp đồng; các giấy tờ trong hồ sơ bao gồm: các bản chính hợp đồng chuyển nhượng hợp đồng kèm theo bản chính hợp đồng mua bán; trường hợp chuyển nhượng một hoặc một số nhà ở, công trình xây dựng trong tổng số nhà ở, công trình xây dựng đã mua, thuê mua theo hợp đồng thì phải nộp bản chính hợp đồng hoặc phụ lục hợp đồng có thể hiện nhà ở, công trình xây dựng chuyển nhượng đã ký với chủ đầu tư; giấy tờ chứng minh đã nộp thuế hoặc được miễn, giảm thuế theo quy định của pháp luật về thuế. Việc xác nhận của chủ đầu tư vào hợp đồng chuyển nhượng hợp đồng quy định tại điểm đ khoản này là cơ sở chuyển giao quyền và nghĩa vụ của các bên”.",
+    "summary": "Quy định về hình thức, số lượng hợp đồng chuyển nhượng và trình tự, hồ sơ đề nghị chủ đầu tư xác nhận việc chuyển nhượng hợp đồng mua bán, thuê mua bất động sản.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "khi chuyển nhượng hợp đồng mua bán, thuê mua bất động sản",
+        "sau khi thực hiện các thủ tục theo điểm c"
+      ],
+      "actions": [
+        "lập hợp đồng chuyển nhượng theo mẫu",
+        "lập thành văn bản",
+        "nộp hồ sơ đến chủ đầu tư",
+        "xác nhận việc chuyển nhượng"
+      ]
+    },
+    "doi_tuong": [
+      "bên chuyển nhượng",
+      "bên nhận chuyển nhượng",
+      "chủ đầu tư"
+    ],
+    "references": [],
+    "keywords": [
+      "hợp đồng chuyển nhượng",
+      "mẫu",
+      "văn bản",
+      "hồ sơ",
+      "xác nhận",
+      "chủ đầu tư",
+      "bất động sản"
+    ],
+    "tags": [
+      "chuyen_nhuong",
+      "hop_dong",
+      "ho_so",
+      "xac_nhan"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định các nghĩa vụ bắt buộc về hình thức hợp đồng và trình tự xác nhận."
+  },
+  {
+    "id": "54_2026_ND-CP__D5__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 5,
+      "dieu_title": "Sửa đổi, bổ sung Điều 15",
+      "khoan": 1
+    },
+    "input_text": "Bãi bỏ khoản 2.",
+    "summary": "Bãi bỏ khoản 2 Điều 15.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "bãi bỏ khoản"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "bãi bỏ",
+      "khoản 2",
+      "Điều 15"
+    ],
+    "tags": [
+      "ba_bo"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này chỉ ra việc hủy bỏ một quy định hiện hành."
+  },
+  {
+    "id": "54_2026_ND-CP__D6__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 6,
+      "dieu_title": "Sửa đổi, bổ sung Điều 17",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung điểm b khoản 4 Điều 17 như sau: “b) Trường hợp Sàn giao dịch bất động sản chấm dứt, đình chỉ hoạt động thì thực hiện theo quy định của pháp luật về doanh nghiệp. Văn bản thông báo chấm dứt, đình chỉ hoạt động phải được đồng thời gửi đến Sở Xây dựng để đăng tải lên Trang thông tin điện tử của Sở Xây dựng và Hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản.”",
+    "summary": "Sửa đổi quy định về việc Sàn giao dịch bất động sản chấm dứt, đình chỉ hoạt động phải thực hiện theo luật doanh nghiệp và thông báo cho Sở Xây dựng để đăng tải thông tin.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "Trường hợp Sàn giao dịch bất động sản chấm dứt, đình chỉ hoạt động"
+      ],
+      "actions": [
+        "thực hiện theo quy định của pháp luật về doanh nghiệp",
+        "gửi văn bản thông báo đến Sở Xây dựng",
+        "đăng tải lên Trang thông tin điện tử của Sở Xây dựng",
+        "đăng tải lên Hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản"
+      ]
+    },
+    "doi_tuong": [
+      "Sàn giao dịch bất động sản",
+      "Sở Xây dựng"
+    ],
+    "references": [
+      "Điều 17"
+    ],
+    "keywords": [
+      "Sàn giao dịch bất động sản",
+      "chấm dứt hoạt động",
+      "đình chỉ hoạt động",
+      "Sở Xây dựng",
+      "thông báo",
+      "đăng tải thông tin",
+      "hệ thống thông tin bất động sản"
+    ],
+    "tags": [
+      "thong_bao",
+      "dang_tai_thong_tin",
+      "chap_dut_hoat_dong"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ thông báo và đăng tải thông tin khi chấm dứt hoạt động, thuộc nhóm thủ tục hành chính."
+  },
+  {
+    "id": "54_2026_ND-CP__D7__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 7,
+      "dieu_title": "Sửa đổi, bổ sung Điều 18",
+      "khoan": 1
+    },
+    "input_text": "“Doanh nghiệp kinh doanh dịch vụ môi giới bất động sản phải đáp ứng điều kiện về trụ sở, địa điểm hoạt động kinh doanh của doanh nghiệp theo quy định của pháp luật về doanh nghiệp.”",
+    "summary": "Doanh nghiệp kinh doanh dịch vụ môi giới bất động sản phải đáp ứng điều kiện về trụ sở và địa điểm hoạt động theo luật doanh nghiệp.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [],
+      "actions": [
+        "đáp ứng điều kiện về trụ sở",
+        "đáp ứng điều kiện về địa điểm hoạt động kinh doanh"
+      ]
+    },
+    "doi_tuong": [
+      "Doanh nghiệp kinh doanh dịch vụ môi giới bất động sản"
+    ],
+    "references": [],
+    "keywords": [
+      "doanh nghiệp môi giới bất động sản",
+      "trụ sở",
+      "địa điểm hoạt động",
+      "điều kiện kinh doanh",
+      "pháp luật doanh nghiệp"
+    ],
+    "tags": [
+      "dieu_kien_kinh_doanh",
+      "co_so_vat_chat"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đặt ra nghĩa vụ phải đáp ứng điều kiện về cơ sở vật chất để kinh doanh."
+  },
+  {
+    "id": "54_2026_ND-CP__D8__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 8,
+      "dieu_title": "Bổ sung Điều 18a",
+      "khoan": 1
+    },
+    "input_text": "Bổ sung Điều 18a sau Điều 18 như sau: “Điều 18a. Chấm dứt, đình chỉ hoạt động doanh nghiệp kinh doanh dịch vụ môi giới bất động sản Việc chấm dứt, đình chỉ hoạt động của doanh nghiệp kinh doanh dịch vụ môi giới bất động sản được thực hiện theo quy định của pháp luật về doanh nghiệp. Văn bản thông báo chấm dứt, đình chỉ hoạt động phải được đồng thời gửi đến Sở Xây dựng để đăng tải lên Trang thông tin điện tử của Sở Xây dựng và Hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản.”",
+    "summary": "Bổ sung quy định về việc chấm dứt, đình chỉ hoạt động của doanh nghiệp môi giới bất động sản phải theo luật doanh nghiệp và thông báo cho Sở Xây dựng để đăng tải thông tin.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "Việc chấm dứt, đình chỉ hoạt động của doanh nghiệp kinh doanh dịch vụ môi giới bất động sản"
+      ],
+      "actions": [
+        "thực hiện theo quy định của pháp luật về doanh nghiệp",
+        "gửi văn bản thông báo đến Sở Xây dựng",
+        "đăng tải lên Trang thông tin điện tử của Sở Xây dựng",
+        "đăng tải lên Hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản"
+      ]
+    },
+    "doi_tuong": [
+      "doanh nghiệp kinh doanh dịch vụ môi giới bất động sản",
+      "Sở Xây dựng"
+    ],
+    "references": [
+      "Điều 18"
+    ],
+    "keywords": [
+      "doanh nghiệp môi giới bất động sản",
+      "chấm dứt hoạt động",
+      "đình chỉ hoạt động",
+      "Sở Xây dựng",
+      "thông báo",
+      "đăng tải thông tin",
+      "hệ thống thông tin bất động sản"
+    ],
+    "tags": [
+      "thong_bao",
+      "dang_tai_thong_tin",
+      "chap_dut_hoat_dong"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ thông báo và đăng tải thông tin khi chấm dứt hoạt động, tương tự một thủ tục hành chính."
+  },
+  {
+    "id": "54_2026_ND-CP__D9__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 9,
+      "dieu_title": "Sửa đổi, bổ sung Điều 26",
+      "khoan": 1
+    },
+    "input_text": "Bãi bỏ khoản 6.",
+    "summary": "Bãi bỏ khoản 6 của Điều 26.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "bãi bỏ khoản 6"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "bãi bỏ",
+      "khoản 6",
+      "Điều 26",
+      "sửa đổi văn bản"
+    ],
+    "tags": [
+      "sua_doi_bo_sung",
+      "ba_bo"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này chỉ thực hiện hành động bãi bỏ một phần của văn bản pháp luật."
+  },
+  {
+    "id": "54_2026_ND-CP__D10__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 10,
+      "dieu_title": "Sửa đổi, bổ sung Điều 31",
+      "khoan": 1
+    },
+    "input_text": "Bãi bỏ điểm c khoản 9.",
+    "summary": "Bãi bỏ điểm c khoản 9 của Điều 31.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "bãi bỏ điểm c khoản 9"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "bãi bỏ",
+      "điểm c",
+      "khoản 9",
+      "Điều 31",
+      "sửa đổi văn bản"
+    ],
+    "tags": [
+      "sua_doi_bo_sung",
+      "ba_bo"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này chỉ thực hiện hành động bãi bỏ một phần cụ thể của văn bản pháp luật."
+  },
+  {
+    "id": "54_2026_ND-CP__D11__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 11,
+      "dieu_title": "Sửa đổi, bổ sung Điều 38",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 5 như sau: Bãi bỏ đoạn “Trường hợp dự án thực hiện điều chỉnh chủ trương đầu tư theo quy định pháp luật sau thời điểm Luật Kinh doanh bất động sản có hiệu lực thi hành thì thực hiện theo chủ trương đầu tư của dự án được chấp thuận điều chỉnh.”",
+    "summary": "Bãi bỏ một đoạn quy định về việc áp dụng chủ trương đầu tư đã điều chỉnh cho dự án sau khi Luật Kinh doanh bất động sản có hiệu lực.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "bãi bỏ đoạn quy định"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "bãi bỏ",
+      "điều chỉnh chủ trương đầu tư",
+      "dự án",
+      "Luật Kinh doanh bất động sản",
+      "hiệu lực thi hành"
+    ],
+    "tags": [
+      "sua_doi_bo_sung",
+      "ba_bo",
+      "quy_dinh_chuyen_doi"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này thực chất là bãi bỏ một quy định, không phải trao quyền (permission) như rule-based suy ra."
+  },
+  {
+    "id": "54_2026_ND-CP__D12__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 12,
+      "dieu_title": "Sửa đổi, bổ sung, thay thế một số cụm từ",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung, thay thế một số cụm từ sau:",
+    "summary": "Sửa đổi, bổ sung, thay thế một số cụm từ trong văn bản.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "sửa đổi cụm từ",
+        "bổ sung cụm từ",
+        "thay thế cụm từ"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "sửa đổi",
+      "bổ sung",
+      "thay thế",
+      "cụm từ",
+      "văn bản pháp luật"
+    ],
+    "tags": [
+      "sua_doi_bo_sung",
+      "chinh_ly_van_ban"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này chỉ nêu mục đích chung là sửa đổi ngôn ngữ văn bản, không quy định nội dung cụ thể."
+  },
+  {
+    "id": "54_2026_ND-CP__D12__K1_2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 12,
+      "dieu_title": "Sửa đổi, bổ sung, thay thế một số cụm từ",
+      "khoan": 1
+    },
+    "input_text": "Thay thế cụm từ “trang thông tin điện tử của doanh nghiệp” thành “trang thông tin điện tử của doanh nghiệp (nếu có)” tại khoản 3 Điều 4.",
+    "summary": "Thay thế cụm từ 'trang thông tin điện tử của doanh nghiệp' thành 'trang thông tin điện tử của doanh nghiệp (nếu có)' tại khoản 3 Điều 4.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "thay thế cụm từ"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 4"
+    ],
+    "keywords": [
+      "thay thế",
+      "trang thông tin điện tử",
+      "doanh nghiệp",
+      "nếu có",
+      "khoản 3",
+      "Điều 4"
+    ],
+    "tags": [
+      "sua_doi_bo_sung",
+      "chinh_ly_van_ban",
+      "dieu_kien_tuy_chon"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định một thay đổi cụ thể về ngôn từ trong văn bản pháp luật."
+  },
+  {
+    "id": "54_2026_ND-CP__D12__K2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 12,
+      "dieu_title": "Sửa đổi, bổ sung, thay thế một số cụm từ",
+      "khoan": 2
+    },
+    "input_text": "Thay thế cụm từ “thỏa thuận cấp bảo lãnh” tại Phụ lục I (Mẫu số 01a và Mẫu số 01b) thành “văn bản cam kết bảo lãnh”.",
+    "summary": "Thay thế cụm từ 'thỏa thuận cấp bảo lãnh' bằng 'văn bản cam kết bảo lãnh' trong các mẫu biểu Phụ lục I.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "thay thế cụm từ"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "thỏa thuận cấp bảo lãnh",
+      "văn bản cam kết bảo lãnh",
+      "Phụ lục I",
+      "Mẫu số 01a",
+      "Mẫu số 01b"
+    ],
+    "tags": [
+      "sua_doi",
+      "mau_bieu",
+      "bao_lanh"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc sửa đổi thuật ngữ trong mẫu biểu pháp lý."
+  },
+  {
+    "id": "54_2026_ND-CP__D12__K3",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 12,
+      "dieu_title": "Sửa đổi, bổ sung, thay thế một số cụm từ",
+      "khoan": 3
+    },
+    "input_text": "Thay thế đoạn “Văn bản này được lập thành 06 bản (Bên A giữ 01 bản, Bên B giữ 01 bản, 01 bản nộp cho cơ quan thuế, 01 nộp cho cơ quan nhận hồ sơ cấp Giấy chứng nhận và 02 bản lưu tại chủ đầu tư (công ty ……….) và có giá trị pháp lý như nhau./.” tại Điều 9 của Phụ lục XI thành “Văn bản này được lập thành …bản và có giá trị pháp lý như nhau./.”",
+    "summary": "Sửa đổi quy định về số lượng bản lập của văn bản tại Điều 9 Phụ lục XI, cho phép lập thành một số lượng bản cụ thể.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "lập thành ...bản"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 9 của Phụ lục XI thành “Văn bản này được lập thành …bản và có giá trị pháp lý như nhau"
+    ],
+    "keywords": [
+      "Văn bản",
+      "lập thành",
+      "bản",
+      "giá trị pháp lý",
+      "Phụ lục XI",
+      "Điều 9"
+    ],
+    "tags": [
+      "sua_doi",
+      "quy_dinh_chung",
+      "thu_tuc"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cho phép xác định số lượng bản lập của một văn bản."
+  },
+  {
+    "id": "54_2026_ND-CP__D12__K4",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 12,
+      "dieu_title": "Sửa đổi, bổ sung, thay thế một số cụm từ",
+      "khoan": 4
+    },
+    "input_text": "Thay thế cụm từ “Chủ tịch Ủy ban nhân dân tỉnh/thành phố” thành cụm từ “Ủy ban nhân dân tỉnh/thành phố”; thay thế cụm từ “Chủ tịch” thành cụm từ “T/M Ủy ban nhân dân tỉnh/thành phố” tại thẩm quyền ký, ban hành trong Phụ lục XIV.",
+    "summary": "Thay thế các cụm từ liên quan đến chủ thể ký, ban hành trong Phụ lục XIV từ 'Chủ tịch Ủy ban nhân dân' sang 'Ủy ban nhân dân' và 'T/M Ủy ban nhân dân'.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "thay thế cụm từ"
+      ]
+    },
+    "doi_tuong": [
+      "Ủy ban nhân dân tỉnh/thành phố"
+    ],
+    "references": [],
+    "keywords": [
+      "Chủ tịch",
+      "Ủy ban nhân dân",
+      "thẩm quyền ký",
+      "ban hành",
+      "Phụ lục XIV"
+    ],
+    "tags": [
+      "sua_doi",
+      "thu_tuc",
+      "uy_ban_nhan_dan"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này sửa đổi quy định về thẩm quyền ký văn bản."
+  },
+  {
+    "id": "54_2026_ND-CP__D12__K5",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 12,
+      "dieu_title": "Sửa đổi, bổ sung, thay thế một số cụm từ",
+      "khoan": 5
+    },
+    "input_text": "Bãi bỏ mục 4 Phụ lục XVIII.",
+    "summary": "Bãi bỏ toàn bộ nội dung tại mục 4 của Phụ lục XVIII.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "bãi bỏ mục"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "bãi bỏ",
+      "mục 4",
+      "Phụ lục XVIII"
+    ],
+    "tags": [
+      "sua_doi",
+      "bo_sung",
+      "phu_luc"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc hủy bỏ một phần quy định trong phụ lục."
+  },
+  {
+    "id": "54_2026_ND-CP__D12__K6",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương I",
+      "dieu": 12,
+      "dieu_title": "Sửa đổi, bổ sung, thay thế một số cụm từ",
+      "khoan": 6
+    },
+    "input_text": "Bãi bỏ mục 4 Phụ lục XX.",
+    "summary": "Bãi bỏ toàn bộ nội dung tại mục 4 của Phụ lục XX.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "bãi bỏ mục"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "bãi bỏ",
+      "mục 4",
+      "Phụ lục XX"
+    ],
+    "tags": [
+      "sua_doi",
+      "bo_sung",
+      "phu_luc"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc hủy bỏ một phần quy định trong phụ lục."
+  },
+  {
+    "id": "54_2026_ND-CP__D13__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 13,
+      "dieu_title": "Bổ sung Điều 2a",
+      "khoan": 1
+    },
+    "input_text": "Bổ sung Điều 2a sau Điều 2 như sau: “Điều 2a. Nguyên tắc giải quyết thủ tục hành chính",
+    "summary": "Bổ sung một Điều mới (Điều 2a) vào Nghị định, quy định về nguyên tắc giải quyết thủ tục hành chính.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "bổ sung Điều"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 2"
+    ],
+    "keywords": [
+      "bổ sung",
+      "Điều 2a",
+      "Nguyên tắc",
+      "giải quyết",
+      "thủ tục hành chính"
+    ],
+    "tags": [
+      "bo_sung",
+      "nguyen_tac",
+      "thu_tuc_hanh_chinh"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc bổ sung một điều khoản mới về nguyên tắc chung."
+  },
+  {
+    "id": "54_2026_ND-CP__D13__K1_2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 13,
+      "dieu_title": "Bổ sung Điều 2a",
+      "khoan": 1
+    },
+    "input_text": "Hồ sơ đề nghị giải quyết thủ tục hành chính được gửi bằng hình thức trực tiếp, trực tuyến hoặc thông qua dịch vụ bưu chính.",
+    "summary": "Cho phép gửi hồ sơ đề nghị giải quyết thủ tục hành chính thông qua các hình thức trực tiếp, trực tuyến hoặc bưu chính.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "Hồ sơ đề nghị giải quyết thủ tục hành chính"
+      ],
+      "actions": [
+        "gửi bằng hình thức trực tiếp",
+        "gửi bằng hình thức trực tuyến",
+        "gửi thông qua dịch vụ bưu chính"
+      ]
+    },
+    "doi_tuong": [
+      "người nộp hồ sơ"
+    ],
+    "references": [],
+    "keywords": [
+      "Hồ sơ",
+      "giải quyết",
+      "thủ tục hành chính",
+      "trực tiếp",
+      "trực tuyến",
+      "bưu chính"
+    ],
+    "tags": [
+      "hinh_thuc_nop",
+      "thu_tuc_hanh_chinh",
+      "quyen_han"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cho phép người nộp hồ sơ lựa chọn hình thức nộp."
+  },
+  {
+    "id": "54_2026_ND-CP__D13__K2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 13,
+      "dieu_title": "Bổ sung Điều 2a",
+      "khoan": 2
+    },
+    "input_text": "Mẫu đơn, tờ khai, thành phần hồ sơ tại khoản 1 Điều 6, khoản 2, khoản 3 Điều 65, khoản 1 Điều 75, khoản 1 Điều 77, khoản 2 Điều 84 của Nghị định này có quy định về các thông tin đã có trong cơ sở dữ liệu quốc gia về dân cư hoặc cơ sở dữ liệu chuyên ngành thì các thông tin này được thay thế bằng mã số định danh cá nhân hoặc mã số chuyên ngành thể hiện trong mẫu đơn, tờ khai khi cơ sở dữ liệu quốc gia về dân cư hoặc cơ sở dữ liệu chuyên ngành được vận hành. Trường hợp người Việt Nam định cư ở nước ngoài và người nước ngoài đang cư trú ở Việt Nam chưa được cấp mã số định danh cá nhân hoặc thông tin chưa có trên cơ sở dữ liệu thì được tiếp tục nộp bản sao giấy tờ, tài liệu theo yêu cầu của thủ tục hành chính.",
+    "summary": "Cho phép thay thế thông tin trong hồ sơ bằng mã số định danh khi cơ sở dữ liệu vận hành, và cho phép tiếp tục nộp bản sao giấy tờ trong trường hợp chưa có mã số hoặc thông tin chưa có trên cơ sở dữ liệu.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "cơ sở dữ liệu quốc gia về dân cư hoặc cơ sở dữ liệu chuyên ngành được vận hành",
+        "người Việt Nam định cư ở nước ngoài và người nước ngoài đang cư trú ở Việt Nam chưa được cấp mã số định danh cá nhân hoặc thông tin chưa có trên cơ sở dữ liệu"
+      ],
+      "actions": [
+        "thay thế bằng mã số định danh cá nhân hoặc mã số chuyên ngành",
+        "tiếp tục nộp bản sao giấy tờ, tài liệu"
+      ]
+    },
+    "doi_tuong": [
+      "người nộp hồ sơ",
+      "người Việt Nam định cư ở nước ngoài",
+      "người nước ngoài"
+    ],
+    "references": [
+      "Điều 6",
+      "Điều 65",
+      "Điều 75",
+      "Điều 77",
+      "Điều 84 của Nghị định này có quy định về các thông tin đã có trong cơ sở dữ liệu quốc gia về"
+    ],
+    "keywords": [
+      "mã số định danh cá nhân",
+      "cơ sở dữ liệu quốc gia",
+      "cơ sở dữ liệu chuyên ngành",
+      "hồ sơ",
+      "thủ tục hành chính",
+      "bản sao giấy tờ"
+    ],
+    "tags": [
+      "ho_so",
+      "ma_so_dinh_danh",
+      "quyen_han",
+      "thu_tuc_hanh_chinh"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định quyền và phương thức cung cấp thông tin trong hồ sơ thủ tục hành chính."
+  },
+  {
+    "id": "54_2026_ND-CP__D13__K3",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 13,
+      "dieu_title": "Bổ sung Điều 2a",
+      "khoan": 3
+    },
+    "input_text": "Kết quả giải quyết thủ tục hành chính được trả bằng bản điện tử; trường hợp cá nhân, tổ chức có yêu cầu nhận bản giấy thì cơ quan giải quyết thủ tục hành chính có trách nhiệm trả đồng thời cả bản điện tử và bản giấy. Kết quả giải quyết thủ tục hành chính bản điện tử có giá trị pháp lý như kết quả giải quyết thủ tục hành chính bằng văn bản giấy.”",
+    "summary": "Kết quả giải quyết thủ tục hành chính được trả bằng bản điện tử và có giá trị pháp lý như bản giấy; nếu cá nhân, tổ chức yêu cầu bản giấy thì cơ quan phải trả cả hai bản.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm",
+        "được"
+      ],
+      "triggers": [
+        "cá nhân, tổ chức có yêu cầu nhận bản giấy"
+      ],
+      "actions": [
+        "trả kết quả bằng bản điện tử",
+        "trả kết quả bằng bản giấy"
+      ]
+    },
+    "doi_tuong": [
+      "cơ quan giải quyết thủ tục hành chính",
+      "cá nhân",
+      "tổ chức"
+    ],
+    "references": [],
+    "keywords": [
+      "thủ tục hành chính",
+      "bản điện tử",
+      "bản giấy",
+      "giá trị pháp lý",
+      "kết quả giải quyết"
+    ],
+    "tags": [
+      "trinh_tu_thu_tuc",
+      "gia_tri_phap_ly",
+      "van_ban_dien_tu"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ của cơ quan hành chính và quyền của cá nhân/tổ chức trong việc nhận kết quả thủ tục."
+  },
+  {
+    "id": "54_2026_ND-CP__D14__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 14,
+      "dieu_title": "Sửa đổi, bổ sung Điều 4",
+      "khoan": 1
+    },
+    "input_text": "Bổ sung vào cuối điểm a khoản 2 như sau: “a) ...Trường hợp dự án có một phần diện tích nằm ngoài khu vực cần đảm bảo quốc phòng, an ninh thì Ủy ban nhân dân cấp tỉnh xác định phần diện tích mà tổ chức, cá nhân nước ngoài được sở hữu nhà ở trong danh mục các dự án đầu tư xây dựng nhà ở mà tổ chức, cá nhân nước ngoài được phép sở hữu, bảo đảm phù hợp với thông báo của Bộ Quốc phòng, Bộ Công an.”",
+    "summary": "Ủy ban nhân dân cấp tỉnh xác định phần diện tích nhà ở mà tổ chức, cá nhân nước ngoài được sở hữu trong dự án có một phần nằm ngoài khu vực quốc phòng, an ninh, bảo đảm phù hợp với thông báo của Bộ Quốc phòng, Bộ Công an.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "dự án có một phần diện tích nằm ngoài khu vực cần đảm bảo quốc phòng, an ninh"
+      ],
+      "actions": [
+        "xác định phần diện tích được sở hữu"
+      ]
+    },
+    "doi_tuong": [
+      "Ủy ban nhân dân cấp tỉnh",
+      "tổ chức nước ngoài",
+      "cá nhân nước ngoài",
+      "Bộ Quốc phòng",
+      "Bộ Công an"
+    ],
+    "references": [],
+    "keywords": [
+      "sở hữu nhà ở",
+      "tổ chức nước ngoài",
+      "cá nhân nước ngoài",
+      "dự án đầu tư",
+      "quốc phòng an ninh",
+      "Ủy ban nhân dân cấp tỉnh"
+    ],
+    "tags": [
+      "so_huu_nha_o",
+      "doi_tuong_nuoc_ngoai",
+      "du_an_dau_tu"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này trao quyền cho tổ chức, cá nhân nước ngoài được sở hữu nhà ở trong một phần diện tích nhất định và quy định trách nhiệm xác định của UBND cấp tỉnh."
+  },
+  {
+    "id": "54_2026_ND-CP__D14__K2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 14,
+      "dieu_title": "Sửa đổi, bổ sung Điều 4",
+      "khoan": 2
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 3 như sau: “3. Trên cơ sở thông báo của Bộ Quốc phòng, Bộ Công an quy định tại khoản 2 Điều này, Ủy ban nhân dân cấp tỉnh có trách nhiệm xác định danh mục các dự án đầu tư xây dựng nhà ở trên địa bàn mà tổ chức, cá nhân nước ngoài được phép sở hữu nhà ở và công bố công khai danh mục này trên Cổng thông tin điện tử của Ủy ban nhân dân cấp tỉnh, đồng thời gửi cho cơ quan quản lý nhà ở cấp tỉnh để đăng tải danh mục các dự án này trên Cổng thông tin điện tử của cơ quan này. Trường hợp danh mục các dự án đầu tư xây dựng nhà ở mà tổ chức, cá nhân nước ngoài được phép sở hữu nhà ở chưa được xác định và công khai theo quy định tại khoản này mà chủ đầu tư hoặc nhà đầu tư đề xuất dự án có nhu cầu bán nhà ở cho tổ chức, cá nhân nước ngoài thì được lựa chọn đề nghị lấy ý kiến Bộ Quốc phòng, Bộ Công an khi thực hiện thủ tục chấp thuận chủ trương đầu tư hoặc khi thực hiện thủ tục thông báo nhà ở hình thành trong tương lai đủ điều kiện được bán, cho thuê mua.”",
+    "summary": "Ủy ban nhân dân cấp tỉnh có trách nhiệm xác định, công khai danh mục dự án nhà ở mà tổ chức, cá nhân nước ngoài được phép sở hữu; nếu danh mục chưa được công khai, chủ đầu tư có thể đề nghị lấy ý kiến Bộ Quốc phòng, Bộ Công an trong một số thủ tục cụ thể.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm",
+        "được"
+      ],
+      "triggers": [
+        "trên cơ sở thông báo của Bộ Quốc phòng, Bộ Công an",
+        "danh mục các dự án... chưa được xác định và công khai",
+        "chủ đầu tư hoặc nhà đầu tư đề xuất dự án có nhu cầu bán nhà ở cho tổ chức, cá nhân nước ngoài"
+      ],
+      "actions": [
+        "xác định danh mục dự án",
+        "công bố công khai danh mục",
+        "gửi danh mục cho cơ quan quản lý nhà ở cấp tỉnh",
+        "đề nghị lấy ý kiến Bộ Quốc phòng, Bộ Công an"
+      ]
+    },
+    "doi_tuong": [
+      "Ủy ban nhân dân cấp tỉnh",
+      "tổ chức nước ngoài",
+      "cá nhân nước ngoài",
+      "Bộ Quốc phòng",
+      "Bộ Công an",
+      "chủ đầu tư",
+      "nhà đầu tư",
+      "cơ quan quản lý nhà ở cấp tỉnh"
+    ],
+    "references": [],
+    "keywords": [
+      "danh mục dự án",
+      "sở hữu nhà ở",
+      "công khai",
+      "cổng thông tin điện tử",
+      "chấp thuận chủ trương đầu tư",
+      "thông báo nhà ở hình thành trong tương lai"
+    ],
+    "tags": [
+      "so_huu_nha_o",
+      "cong_khai_thong_tin",
+      "trinh_tu_thu_tuc",
+      "quan_ly_nha_o"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ của UBND cấp tỉnh và quyền/procedure cho chủ đầu tư liên quan đến sở hữu nhà ở của người nước ngoài."
+  },
+  {
+    "id": "54_2026_ND-CP__D15__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 15,
+      "dieu_title": "Sửa đổi, bổ sung Điều 5",
+      "khoan": 1
+    },
+    "input_text": "Bãi bỏ đoạn “Cơ quan có thẩm quyền quản lý quy hoạch cấp tỉnh khi phê duyệt quy hoạch thì có trách nhiệm công bố dân số tương đương một phường quy định tại khoản này trên Cổng thông tin điện tử của cơ quan mình” tại khoản 1.",
+    "summary": "Bãi bỏ nghĩa vụ công bố dân số tương đương một phường trên cổng thông tin điện tử của cơ quan có thẩm quyền quản lý quy hoạch cấp tỉnh khi phê duyệt quy hoạch.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm"
+      ],
+      "triggers": [],
+      "actions": [
+        "bãi bỏ trách nhiệm công bố"
+      ]
+    },
+    "doi_tuong": [
+      "Cơ quan có thẩm quyền quản lý quy hoạch cấp tỉnh"
+    ],
+    "references": [],
+    "keywords": [
+      "bãi bỏ",
+      "công bố dân số",
+      "quy hoạch",
+      "cổng thông tin điện tử",
+      "phê duyệt quy hoạch"
+    ],
+    "tags": [
+      "sua_doi_bo_sung",
+      "cong_khai_thong_tin",
+      "quy_hoach"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này bãi bỏ một nghĩa vụ (obligation) cụ thể trước đây của cơ quan quản lý quy hoạch."
+  },
+  {
+    "id": "54_2026_ND-CP__D16__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 16,
+      "dieu_title": "Sửa đổi Điều 7",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi điểm b khoản 5 như sau: “b) Trường hợp hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản đã được kết nối, khai thác thì cơ quan cấp Giấy chứng nhận không thực hiện gửi báo cáo trực tiếp về Bộ Xây dựng, Bộ Nông nghiệp và Môi trường theo quy định tại điểm a khoản này.”",
+    "summary": "Trường hợp hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản đã được kết nối, khai thác thì cơ quan cấp Giấy chứng nhận không phải gửi báo cáo trực tiếp về Bộ Xây dựng, Bộ Nông nghiệp và Môi trường.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản đã được kết nối, khai thác"
+      ],
+      "actions": [
+        "không thực hiện gửi báo cáo trực tiếp"
+      ]
+    },
+    "doi_tuong": [
+      "cơ quan cấp Giấy chứng nhận",
+      "Bộ Xây dựng",
+      "Bộ Nông nghiệp và Môi trường"
+    ],
+    "references": [],
+    "keywords": [
+      "hệ thống thông tin",
+      "cơ sở dữ liệu",
+      "kết nối",
+      "khai thác",
+      "báo cáo",
+      "Giấy chứng nhận"
+    ],
+    "tags": [
+      "bao_cao",
+      "co_so_du_lieu",
+      "ket_noi_he_thong"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cho phép miễn trừ một nghĩa vụ báo cáo trong điều kiện cụ thể (hệ thống đã kết nối)."
+  },
+  {
+    "id": "54_2026_ND-CP__D17__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 17,
+      "dieu_title": "Sửa đổi Điều 14",
+      "khoan": 1
+    },
+    "input_text": "Bãi bỏ đoạn: “Trong quá trình lập, phê duyệt quy hoạch xây dựng, quy hoạch đô thị cơ quan thẩm định quy hoạch lấy ý kiến Bộ Quốc phòng, Bộ Công an về khu vực cần bảo đảm quốc phòng an ninh theo quy định tại Điều 4 của Nghị định này trong thời hạn tối đa 15 ngày, kể từ ngày nhận được đề nghị của cơ quan thẩm định quy hoạch” tại khoản 3.",
+    "summary": "Bãi bỏ quy định về việc cơ quan thẩm định quy hoạch phải lấy ý kiến Bộ Quốc phòng, Bộ Công an về khu vực quốc phòng an ninh trong thời hạn tối đa 15 ngày khi lập, phê duyệt quy hoạch.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "bãi bỏ quy định lấy ý kiến"
+      ]
+    },
+    "doi_tuong": [
+      "cơ quan thẩm định quy hoạch",
+      "Bộ Quốc phòng",
+      "Bộ Công an"
+    ],
+    "references": [
+      "Điều 4 của Nghị định này trong thời hạn tối đa 15 ngày"
+    ],
+    "keywords": [
+      "bãi bỏ",
+      "lấy ý kiến",
+      "quy hoạch xây dựng",
+      "quy hoạch đô thị",
+      "quốc phòng an ninh",
+      "thẩm định quy hoạch"
+    ],
+    "tags": [
+      "sua_doi_bo_sung",
+      "trinh_tu_thu_tuc",
+      "quy_hoach",
+      "quoc_phong_an_ninh"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này bãi bỏ một thủ tục (procedure) bắt buộc trước đây, tức là cho phép không phải thực hiện thủ tục đó nữa."
+  },
+  {
+    "id": "54_2026_ND-CP__D18__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 18,
+      "dieu_title": "Sửa đổi, bổ sung Điều 15",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 6 như sau: “6. Trường hợp nhà đầu tư lựa chọn đề nghị lấy ý kiến Bộ Quốc phòng, Bộ Công an xác định dự án thuộc khu vực cần bảo đảm quốc phòng, an ninh hoặc không thuộc khu vực này khi thực hiện thủ tục chấp thuận chủ trương đầu tư thì trong hồ sơ đề nghị chấp thuận chủ trương đầu tư phải nêu rõ nội dung này làm cơ sở để Ủy ban nhân dân cấp tỉnh lấy ý kiến Bộ Quốc phòng, Bộ Công an trong quá trình thẩm định chủ trương đầu tư dự án.”",
+    "summary": "Nhà đầu tư phải nêu rõ trong hồ sơ đề nghị chấp thuận chủ trương đầu tư nếu lựa chọn đề nghị lấy ý kiến Bộ Quốc phòng, Bộ Công an về khu vực quốc phòng, an ninh.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [
+        "nhà đầu tư lựa chọn đề nghị lấy ý kiến Bộ Quốc phòng, Bộ Công an xác định dự án thuộc khu vực cần đảm bảo quốc phòng, an ninh hoặc không thuộc khu vực này khi thực hiện thủ tục chấp thuận chủ trương đầu tư"
+      ],
+      "actions": [
+        "nêu rõ nội dung đề nghị lấy ý kiến trong hồ sơ"
+      ]
+    },
+    "doi_tuong": [
+      "nhà đầu tư",
+      "Ủy ban nhân dân cấp tỉnh",
+      "Bộ Quốc phòng",
+      "Bộ Công an"
+    ],
+    "references": [],
+    "keywords": [
+      "chấp thuận chủ trương đầu tư",
+      "hồ sơ đề nghị",
+      "lấy ý kiến",
+      "quốc phòng an ninh",
+      "nhà đầu tư"
+    ],
+    "tags": [
+      "trinh_tu_thu_tuc",
+      "ho_so",
+      "quoc_phong_an_ninh",
+      "dau_tu"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đặt ra nghĩa vụ (phải) cho nhà đầu tư khi thực hiện một thủ tục cụ thể."
+  },
+  {
+    "id": "54_2026_ND-CP__D19__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 19,
+      "dieu_title": "Bổ sung Điều 37a",
+      "khoan": 1
+    },
+    "input_text": "Bổ sung Điều 37a sau Điều 37 như sau: “Điều 37a. Giá bán, thuê mua, cho thuê nhà ở phục vụ tái định cư do nhà nước đầu tư xây dựng",
+    "summary": "Bổ sung một Điều mới (Điều 37a) quy định về giá bán, thuê mua, cho thuê nhà ở phục vụ tái định cư do nhà nước đầu tư xây dựng.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "bổ sung điều luật"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 37"
+    ],
+    "keywords": [
+      "Điều 37a",
+      "giá bán",
+      "thuê mua",
+      "cho thuê nhà ở",
+      "tái định cư",
+      "nhà nước đầu tư"
+    ],
+    "tags": [
+      "bo_sung_dieu",
+      "gia_nha_o",
+      "tai_dinh_cu"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này chỉ giới thiệu việc bổ sung một điều luật mới, chưa nêu nội dung cụ thể nên thuộc loại quy định khung."
+  },
+  {
+    "id": "54_2026_ND-CP__D19__K1_2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 19,
+      "dieu_title": "Bổ sung Điều 37a",
+      "khoan": 1
+    },
+    "input_text": "Giá bán nhà ở phục vụ tái định cư do nhà nước đầu tư xây dựng do Ủy ban nhân dân cấp tỉnh quyết định hoặc Ủy ban nhân dân cấp xã khi được ủy quyền, phân cấp được xác định trong phương án bồi thường hỗ trợ tái định cư và xác định theo nguyên tắc bảo đảm tính đúng, tính đủ chi phí theo quy định của pháp luật, trong đó chi phí cấu thành giá bán gồm: chi phí đầu tư xây dựng nhà ở theo quy định của pháp luật về xây dựng; tiền sử dụng đất hoặc tiền thuê đất theo quy định của pháp luật về đất đai và thuế giá trị gia tăng.",
+    "summary": "Quy định về việc xác định giá bán nhà ở phục vụ tái định cư do nhà nước đầu tư, do Ủy ban nhân dân cấp tỉnh hoặc cấp xã (khi được ủy quyền) quyết định, bảo đảm tính đúng, đủ chi phí theo pháp luật.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "xác định giá bán nhà ở phục vụ tái định cư do nhà nước đầu tư xây dựng"
+      ],
+      "actions": [
+        "quyết định giá bán",
+        "xác định chi phí cấu thành"
+      ]
+    },
+    "doi_tuong": [
+      "Ủy ban nhân dân cấp tỉnh",
+      "Ủy ban nhân dân cấp xã"
+    ],
+    "references": [],
+    "keywords": [
+      "giá bán",
+      "nhà ở tái định cư",
+      "Ủy ban nhân dân cấp tỉnh",
+      "chi phí đầu tư xây dựng",
+      "tiền sử dụng đất",
+      "thuế giá trị gia tăng"
+    ],
+    "tags": [
+      "gia_nha",
+      "tai_dinh_cu",
+      "tham_quyen"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định thẩm quyền và nguyên tắc xác định giá bán, thuộc nhóm quy định về giá cả và thủ tục."
+  },
+  {
+    "id": "54_2026_ND-CP__D19__K2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 19,
+      "dieu_title": "Bổ sung Điều 37a",
+      "khoan": 2
+    },
+    "input_text": "Giá thuê mua nhà ở phục vụ tái định cư do nhà nước đầu tư xây dựng do Ủy ban nhân dân cấp tỉnh quyết định hoặc Ủy ban nhân dân cấp xã khi được ủy quyền, phân cấp theo nguyên tắc quy định tại khoản 1 Điều này và xác định theo công thức quy định tại khoản 6 Điều này.",
+    "summary": "Quy định về việc xác định giá thuê mua nhà ở phục vụ tái định cư do nhà nước đầu tư, do Ủy ban nhân dân cấp tỉnh hoặc cấp xã (khi được ủy quyền) quyết định theo nguyên tắc và công thức đã định.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "xác định giá thuê mua nhà ở phục vụ tái định cư do nhà nước đầu tư xây dựng"
+      ],
+      "actions": [
+        "quyết định giá thuê mua",
+        "xác định theo công thức"
+      ]
+    },
+    "doi_tuong": [
+      "Ủy ban nhân dân cấp tỉnh",
+      "Ủy ban nhân dân cấp xã"
+    ],
+    "references": [],
+    "keywords": [
+      "giá thuê mua",
+      "nhà ở tái định cư",
+      "Ủy ban nhân dân cấp tỉnh",
+      "công thức"
+    ],
+    "tags": [
+      "gia_nha",
+      "tai_dinh_cu",
+      "tham_quyen"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định thẩm quyền và căn cứ xác định giá thuê mua, thuộc nhóm quy định về giá cả."
+  },
+  {
+    "id": "54_2026_ND-CP__D19__K3",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 19,
+      "dieu_title": "Bổ sung Điều 37a",
+      "khoan": 3
+    },
+    "input_text": "Giá thuê nhà ở phục vụ tái định cư do nhà nước đầu tư xây dựng do Ủy ban nhân dân cấp tỉnh quyết định hoặc Ủy ban nhân dân cấp xã khi được ủy quyền, phân cấp được xác định theo nguyên tắc bảo đảm tính đúng, tính đủ chi phí theo quy định của pháp luật, trong đó chi phí cấu thành giá thuê gồm: các chi phí quy định tại khoản 1 Điều này, chi phí bảo trì được phân bổ theo thời hạn thu hồi vốn. Thời hạn thu hồi vốn đối với nhà ở để cho thuê do Ủy ban nhân dân cấp tỉnh quyết định hoặc Ủy ban nhân dân cấp xã khi được ủy quyền, phân cấp và tối đa không vượt quá thời hạn sử dụng công trình theo quy định của pháp luật và xác định theo công thức quy định tại khoản 6 Điều này.",
+    "summary": "Quy định về việc xác định giá thuê nhà ở phục vụ tái định cư do nhà nước đầu tư, do Ủy ban nhân dân cấp tỉnh hoặc cấp xã (khi được ủy quyền) quyết định, bảo đảm tính đúng, đủ chi phí và xác định thời hạn thu hồi vốn.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "xác định giá thuê nhà ở phục vụ tái định cư do nhà nước đầu tư xây dựng"
+      ],
+      "actions": [
+        "quyết định giá thuê",
+        "xác định chi phí cấu thành",
+        "quyết định thời hạn thu hồi vốn"
+      ]
+    },
+    "doi_tuong": [
+      "Ủy ban nhân dân cấp tỉnh",
+      "Ủy ban nhân dân cấp xã"
+    ],
+    "references": [],
+    "keywords": [
+      "giá thuê",
+      "nhà ở tái định cư",
+      "Ủy ban nhân dân cấp tỉnh",
+      "chi phí bảo trì",
+      "thời hạn thu hồi vốn"
+    ],
+    "tags": [
+      "gia_nha",
+      "tai_dinh_cu",
+      "tham_quyen"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định thẩm quyền, nguyên tắc và thành phần giá thuê, thuộc nhóm quy định về giá cả."
+  },
+  {
+    "id": "54_2026_ND-CP__D19__K4",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 19,
+      "dieu_title": "Bổ sung Điều 37a",
+      "khoan": 4
+    },
+    "input_text": "Trường hợp mua, thuê mua căn hộ chung cư thì việc đóng kinh phí bảo trì phần sở hữu chung được thực hiện theo quy định của pháp luật về nhà ở.",
+    "summary": "Quy định việc đóng kinh phí bảo trì phần sở hữu chung khi mua, thuê mua căn hộ chung cư phục vụ tái định cư được thực hiện theo pháp luật về nhà ở.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "mua, thuê mua căn hộ chung cư phục vụ tái định cư"
+      ],
+      "actions": [
+        "đóng kinh phí bảo trì phần sở hữu chung"
+      ]
+    },
+    "doi_tuong": [
+      "người mua, thuê mua nhà ở"
+    ],
+    "references": [],
+    "keywords": [
+      "căn hộ chung cư",
+      "kinh phí bảo trì",
+      "sở hữu chung",
+      "Luật Nhà ở"
+    ],
+    "tags": [
+      "phi_bao_tri",
+      "tai_dinh_cu",
+      "nha_chung_cu"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ tài chính của người mua/thuê mua, thuộc nhóm quy định về phí và kinh phí."
+  },
+  {
+    "id": "54_2026_ND-CP__D19__K5",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 19,
+      "dieu_title": "Bổ sung Điều 37a",
+      "khoan": 5
+    },
+    "input_text": "Chi phí quản lý vận hành nhà ở (nếu có) do người mua, thuê, thuê mua nhà ở chi trả trực tiếp cho đơn vị quản lý vận hành nhà ở theo quy định.",
+    "summary": "Quy định chi phí quản lý vận hành nhà ở (nếu có) do người mua, thuê, thuê mua nhà ở chi trả trực tiếp cho đơn vị quản lý theo quy định.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [],
+      "triggers": [
+        "có chi phí quản lý vận hành nhà ở"
+      ],
+      "actions": [
+        "chi trả chi phí quản lý vận hành"
+      ]
+    },
+    "doi_tuong": [
+      "người mua, thuê, thuê mua nhà ở",
+      "đơn vị quản lý vận hành nhà ở"
+    ],
+    "references": [],
+    "keywords": [
+      "chi phí quản lý vận hành",
+      "chi trả trực tiếp",
+      "đơn vị quản lý"
+    ],
+    "tags": [
+      "phi_quan_ly",
+      "tai_dinh_cu"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định nghĩa vụ chi trả chi phí quản lý, thuộc nhóm quy định về phí và kinh phí."
+  },
+  {
+    "id": "54_2026_ND-CP__D19__K6",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 19,
+      "dieu_title": "Bổ sung Điều 37a",
+      "khoan": 6
+    },
+    "input_text": "Công thức xác định giá thuê, giá thuê mua nhà ở phục vụ tái định cư như sau: Trong đó: a) Gt: là giá thuê, thuê mua 01 m2 sử dụng nhà ở trong 01 tháng (đồng/m2/tháng); b) Vđ: là toàn bộ chi phí hợp lý trước thuế để thực hiện đầu tư xây dựng công trình nhà ở (bao gồm cả các chi phí được phân bổ cho công trình) theo quy định của pháp luật về quản lý đầu tư xây dựng công trình, được phân bổ hàng năm cho 01 m2 sử dụng theo nguyên tắc bảo toàn vốn. Khi xác định Vđ đối với trường hợp thuê mua thì phải giảm trừ chi phí đã thanh toán lần đầu theo thỏa thuận trong hợp đồng. Tùy theo hình thức đầu tư, căn cứ xác định Vđ như sau: Trường hợp Nhà nước trực tiếp đầu tư xây dựng nhà ở phục vụ tái định cư bằng nguồn vốn nhà nước quy định tại khoản 2 Điều 113 của Luật Nhà ở hoặc sử dụng nhà ở xã hội để làm nhà ở phục vụ tái định cư: Vđ xác định căn cứ theo giá trị quyết toán vốn đầu tư được cơ quan nhà nước có thẩm quyền phê duyệt; trường hợp chưa phê duyệt quyết toán thì Vđ xác định căn cứ theo chi phí đầu tư xây dựng công trình do cơ quan nhà nước có thẩm quyền phê duyệt hoặc chi phí đầu tư xây dựng thực tế tại thời điểm xác định giá hoặc theo giá trị đề nghị quyết toán hoặc theo biên bản nghiệm thu A-B. Trường hợp Nhà nước mua nhà ở thương mại để làm nhà ở phục vụ tái định cư: Vđ xác định căn cứ theo giá mua nhà thương mại trong hợp đồng mua bán đã ký với chủ đầu tư dự án xây dựng nhà ở thương mại; c) Vsdđ: là tiền sử dụng đất phân bổ hàng năm cho 01 m2 sử dụng nhà ở theo quy định của pháp luật về đất đai. Trường hợp Nhà nước trực tiếp đầu tư xây dựng nhà ở phục vụ tái định cư bằng nguồn vốn nhà nước quy định tại khoản 2 Điều 113 của Luật Nhà ở hoặc sử dụng nhà ở xã hội làm nhà ở phục vụ tái định cư thì Vsdđ xác định theo bảng giá đất do địa phương ban hành theo quy định của pháp luật về đất đai. Trường hợp Nhà nước mua nhà ở thương mại để làm nhà ở phục vụ tái định cư đã bao gồm tiền sử dụng đất thì Vsdđ bằng 0; d) Bt: là chi phí bảo trì bình quân hàng năm phân bổ trên 01 m2 sử dụng nhà ở. Đối với thuê mua nhà ở thì không tính chi phí bảo trì (Bt = 0 đồng); người thuê mua nộp kinh phí bảo trì theo quy định của Luật Nhà ở; đ) K: là hệ số tầng điều chỉnh giá thuê, giá thuê mua đối với căn hộ được xác định theo nguyên tắc bình quân gia quyền và bảo đảm tổng hệ số các tầng của một khối nhà bằng 1; e) GTGT: thuế giá trị gia tăng xác định theo quy định của pháp luật về thuế giá trị gia tăng; g) Số 12: là số tháng tính trong 01 năm.”",
+    "summary": "Quy định chi tiết công thức và các thành phần để xác định giá thuê, giá thuê mua nhà ở phục vụ tái định cư, bao gồm các căn cứ xác định chi phí đầu tư, tiền sử dụng đất, chi phí bảo trì và các hệ số điều chỉnh.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "xác định giá thuê, giá thuê mua nhà ở phục vụ tái định cư"
+      ],
+      "actions": [
+        "xác định giá theo công thức",
+        "phân bổ chi phí",
+        "tính toán các thành phần giá"
+      ]
+    },
+    "doi_tuong": [
+      "cơ quan nhà nước có thẩm quyền",
+      "Ủy ban nhân dân cấp tỉnh",
+      "Ủy ban nhân dân cấp xã"
+    ],
+    "references": [
+      "Điều 113 của Luật Nhà ở hoặc sử dụng nhà ở xã hội để làm nhà ở phục vụ tái định cư: Vđ xác đị",
+      "Điều 113 của Luật Nhà ở hoặc sử dụng nhà ở xã hội làm nhà ở phục vụ tái định cư thì Vsdđ xác"
+    ],
+    "keywords": [
+      "công thức tính giá",
+      "chi phí đầu tư xây dựng",
+      "tiền sử dụng đất",
+      "chi phí bảo trì",
+      "hệ số tầng",
+      "thuế giá trị gia tăng"
+    ],
+    "tags": [
+      "gia_nha",
+      "tai_dinh_cu",
+      "cong_thuc_tinh_toan"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định phương pháp luận cụ thể để tính toán giá, thuộc nhóm quy định về phương pháp và thủ tục kỹ thuật."
+  },
+  {
+    "id": "54_2026_ND-CP__D20__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 20,
+      "dieu_title": "Sửa đổi, bổ sung Điều 51",
+      "khoan": 1
+    },
+    "input_text": "Bãi bỏ khoản 2.",
+    "summary": "Quy định bãi bỏ khoản 2 của Điều được sửa đổi, bổ sung.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "bãi bỏ khoản 2"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "bãi bỏ",
+      "khoản 2",
+      "sửa đổi bổ sung"
+    ],
+    "tags": [
+      "sua_doi_bo_sung",
+      "baibo"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này chỉ ra việc hủy bỏ một quy định hiện hành, thuộc nhóm sửa đổi, bổ sung văn bản."
+  },
+  {
+    "id": "54_2026_ND-CP__D20__K2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 20,
+      "dieu_title": "Sửa đổi, bổ sung Điều 51",
+      "khoan": 2
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 3 như sau: a) Thay thế cụm từ “15 ngày” thành cụm từ “10 ngày” tại điểm b; b) Thay thế cụm từ “30 ngày” thành cụm từ “20 ngày” tại điểm c.",
+    "summary": "Quy định sửa đổi, bổ sung khoản 3 bằng việc thay thế các cụm từ chỉ thời hạn.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "thay thế cụm từ '15 ngày' thành '10 ngày'",
+        "thay thế cụm từ '30 ngày' thành '20 ngày'"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "sửa đổi bổ sung",
+      "thay thế cụm từ",
+      "thời hạn"
+    ],
+    "tags": [
+      "sua_doi_bo_sung",
+      "thoi_han"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc thay đổi nội dung cụ thể của một khoản luật, thuộc nhóm sửa đổi, bổ sung văn bản."
+  },
+  {
+    "id": "54_2026_ND-CP__D20__K3",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 20,
+      "dieu_title": "Sửa đổi, bổ sung Điều 51",
+      "khoan": 3
+    },
+    "input_text": "Bãi bỏ điểm c khoản 4.",
+    "summary": "Bãi bỏ điểm c khoản 4 Điều 51.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "bãi bỏ"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "bãi bỏ",
+      "điểm c",
+      "khoản 4",
+      "Điều 51"
+    ],
+    "tags": [
+      "sua_doi",
+      "bo_sung",
+      "hieu_luc"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc hủy bỏ một phần quy định hiện hành."
+  },
+  {
+    "id": "54_2026_ND-CP__D20__K4",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 20,
+      "dieu_title": "Sửa đổi, bổ sung Điều 51",
+      "khoan": 4
+    },
+    "input_text": "Bỏ cụm từ “, điểm c” tại điểm d khoản 4.",
+    "summary": "Bỏ cụm từ “, điểm c” tại điểm d khoản 4 Điều 51.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "bỏ cụm từ"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "bỏ cụm từ",
+      "điểm c",
+      "điểm d",
+      "khoản 4",
+      "Điều 51"
+    ],
+    "tags": [
+      "sua_doi",
+      "bo_sung",
+      "hieu_luc"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc sửa đổi chi tiết một phần quy định hiện hành."
+  },
+  {
+    "id": "54_2026_ND-CP__D21__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 21,
+      "dieu_title": "Bổ sung Điều 58",
+      "khoan": 1
+    },
+    "input_text": "Bổ sung khoản 1a sau khoản 1 như sau: “1a. Trường hợp Ủy ban nhân dân cấp tỉnh phân cấp, ủy quyền cho Ủy ban nhân dân cấp xã làm đại diện chủ sở hữu nhà ở thuộc tài sản công thì Ủy ban nhân dân cấp xã đồng thời là cơ quan quản lý nhà ở thuộc tài sản công.”",
+    "summary": "Bổ sung quy định về trường hợp Ủy ban nhân dân cấp xã được phân cấp, ủy quyền làm đại diện chủ sở hữu thì đồng thời là cơ quan quản lý nhà ở thuộc tài sản công.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [
+        "Trường hợp Ủy ban nhân dân cấp tỉnh phân cấp, ủy quyền cho Ủy ban nhân dân cấp xã làm đại diện chủ sở hữu nhà ở thuộc tài sản công"
+      ],
+      "actions": [
+        "là đại diện chủ sở hữu",
+        "là cơ quan quản lý"
+      ]
+    },
+    "doi_tuong": [
+      "Ủy ban nhân dân cấp tỉnh",
+      "Ủy ban nhân dân cấp xã"
+    ],
+    "references": [],
+    "keywords": [
+      "Ủy ban nhân dân cấp tỉnh",
+      "Ủy ban nhân dân cấp xã",
+      "phân cấp",
+      "ủy quyền",
+      "đại diện chủ sở hữu",
+      "cơ quan quản lý",
+      "nhà ở",
+      "tài sản công"
+    ],
+    "tags": [
+      "bo_sung",
+      "quan_ly",
+      "thuoc_tinh"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này xác định thẩm quyền và chức năng của cơ quan nhà nước trong quản lý tài sản công."
+  },
+  {
+    "id": "54_2026_ND-CP__D22__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 22,
+      "dieu_title": "Sửa đổi, bổ sung Điều 71",
+      "khoan": 1
+    },
+    "input_text": "Bổ sung vào cuối khoản 4 như sau: “...Trường hợp không xác định được tỷ lệ chất lượng còn lại của nhà ở cũ thuộc tài sản công theo quy định tại Phụ lục VIII của Nghị định này thì Ủy ban nhân dân cấp tỉnh quyết định tỷ lệ chất lượng còn lại của nhà ở phù hợp với điều kiện thực tế.”",
+    "summary": "Bổ sung quy định cho phép Ủy ban nhân dân cấp tỉnh quyết định tỷ lệ chất lượng còn lại của nhà ở thuộc tài sản công khi không xác định được theo quy định tại Phụ lục.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "Trường hợp không xác định được tỷ lệ chất lượng còn lại của nhà ở cũ thuộc tài sản công theo quy định tại Phụ lục VIII"
+      ],
+      "actions": [
+        "quyết định tỷ lệ chất lượng còn lại"
+      ]
+    },
+    "doi_tuong": [
+      "Ủy ban nhân dân cấp tỉnh"
+    ],
+    "references": [],
+    "keywords": [
+      "Ủy ban nhân dân cấp tỉnh",
+      "tỷ lệ chất lượng còn lại",
+      "nhà ở",
+      "tài sản công",
+      "Phụ lục VIII",
+      "quyết định"
+    ],
+    "tags": [
+      "bo_sung",
+      "quyen_han",
+      "danh_gia"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này trao quyền cho cơ quan nhà nước trong việc đánh giá tài sản khi thiếu quy định cụ thể."
+  },
+  {
+    "id": "54_2026_ND-CP__D23__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 23,
+      "dieu_title": "Sửa đổi, bổ sung Điều 85",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 1 như sau: “1. Đơn vị có nhu cầu gửi 01 bộ hồ sơ quy định tại khoản 2 Điều 84 của Nghị định này đến cơ quan quản lý nhà ở cấp tỉnh.”",
+    "summary": "Quy định đơn vị có nhu cầu phải gửi 01 bộ hồ sơ đến cơ quan quản lý nhà ở cấp tỉnh.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [],
+      "triggers": [
+        "Đơn vị có nhu cầu"
+      ],
+      "actions": [
+        "gửi hồ sơ"
+      ]
+    },
+    "doi_tuong": [
+      "đơn vị có nhu cầu",
+      "cơ quan quản lý nhà ở cấp tỉnh"
+    ],
+    "references": [
+      "Điều 84 của Nghị định này đến cơ quan quản lý nhà ở cấp tỉnh"
+    ],
+    "keywords": [
+      "đơn vị",
+      "hồ sơ",
+      "cơ quan quản lý nhà ở cấp tỉnh",
+      "Điều 84",
+      "gửi"
+    ],
+    "tags": [
+      "thu_tuc",
+      "ho_so",
+      "trinh_tu"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định về trình tự, thủ tục nộp hồ sơ."
+  },
+  {
+    "id": "54_2026_ND-CP__D23__K2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 23,
+      "dieu_title": "Sửa đổi, bổ sung Điều 85",
+      "khoan": 2
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 2 như sau: Bãi bỏ đoạn “trường hợp cơ quan quản lý nhà ở trực thuộc Bộ Xây dựng ban hành văn bản thông báo thì phải đăng tải thông báo này trên Cổng thông tin điện tử của Bộ Xây dựng.”",
+    "summary": "Bãi bỏ nghĩa vụ đăng tải thông báo trên Cổng thông tin điện tử của Bộ Xây dựng đối với cơ quan quản lý nhà ở trực thuộc Bộ.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải"
+      ],
+      "triggers": [],
+      "actions": [
+        "bãi bỏ"
+      ]
+    },
+    "doi_tuong": [
+      "cơ quan quản lý nhà ở trực thuộc Bộ Xây dựng"
+    ],
+    "references": [],
+    "keywords": [
+      "bãi bỏ",
+      "cơ quan quản lý nhà ở",
+      "Bộ Xây dựng",
+      "thông báo",
+      "Cổng thông tin điện tử",
+      "đăng tải"
+    ],
+    "tags": [
+      "sua_doi",
+      "bo_sung",
+      "hieu_luc"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này hủy bỏ một nghĩa vụ công bố thông tin trước đây."
+  },
+  {
+    "id": "54_2026_ND-CP__D24__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 24,
+      "dieu_title": "Bổ sung Điều 86a",
+      "khoan": 1
+    },
+    "input_text": "Bổ sung Điều 86a sau Điều 86 như sau: “Điều 86a. Áp dụng giá dịch vụ nhà chung cư trong trường hợp đơn vị quản lý vận hành và chủ sở hữu không đạt được thỏa thuận Trường hợp đơn vị quản lý vận hành và các chủ sở hữu, người sử dụng nhà chung cư không thỏa thuận được giá dịch vụ quản lý vận hành nhà chung cư thì đơn vị quản lý vận hành được tạm thu theo mức phí dịch vụ đang thu của năm liền kề trước đó hoặc mức khác, đảm bảo mức tạm thu này không vượt khung giá dịch vụ quản lý vận hành nhà chung cư do Ủy ban nhân dân cấp tỉnh ban hành cho đến khi các bên thỏa thuận được giá dịch vụ.”",
+    "summary": "Quy định đơn vị quản lý vận hành được tạm thu phí dịch vụ theo mức cũ hoặc mức khác trong khung giá khi không thỏa thuận được với chủ sở hữu, người sử dụng.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "Trường hợp đơn vị quản lý vận hành và các chủ sở hữu, người sử dụng nhà chung cư không thỏa thuận được giá dịch vụ"
+      ],
+      "actions": [
+        "tạm thu",
+        "đảm bảo không vượt khung giá"
+      ]
+    },
+    "doi_tuong": [
+      "đơn vị quản lý vận hành",
+      "chủ sở hữu",
+      "người sử dụng nhà chung cư",
+      "Ủy ban nhân dân cấp tỉnh"
+    ],
+    "references": [
+      "Điều 86"
+    ],
+    "keywords": [
+      "đơn vị quản lý vận hành",
+      "chủ sở hữu",
+      "người sử dụng",
+      "giá dịch vụ",
+      "tạm thu",
+      "khung giá",
+      "Ủy ban nhân dân cấp tỉnh"
+    ],
+    "tags": [
+      "bo_sung",
+      "quyen_han",
+      "phi_dich_vu",
+      "nha_chung_cu"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cho phép một bên được thực hiện hành động tạm thời trong trường hợp bất đồng."
+  },
+  {
+    "id": "54_2026_ND-CP__D25__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 25,
+      "dieu_title": "Sửa đổi Điều 95",
+      "khoan": 1
+    },
+    "input_text": "Bãi bỏ khoản 8.",
+    "summary": "Bãi bỏ khoản 8 Điều 95.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "bãi bỏ"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "bãi bỏ",
+      "khoản 8",
+      "Điều 95"
+    ],
+    "tags": [
+      "sua_doi",
+      "hieu_luc"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc hủy bỏ toàn bộ một khoản quy định hiện hành."
+  },
+  {
+    "id": "54_2026_ND-CP__D26__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương II",
+      "dieu": 26,
+      "dieu_title": "Thay thế một số cụm từ",
+      "khoan": 1
+    },
+    "input_text": "Thay thế cụm từ “Điều kiện huy động vốn” tại tên các Điều 43, 44, 45, 46, 47 và 48 bằng cụm từ “Điều kiện huy động vốn để phát triển nhà ở”.",
+    "summary": "Thay thế cụm từ 'Điều kiện huy động vốn' bằng 'Điều kiện huy động vốn để phát triển nhà ở' tại các Điều 43, 44, 45, 46, 47 và 48.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "Thay thế cụm từ"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [
+      "Điều 43"
+    ],
+    "keywords": [
+      "Điều kiện huy động vốn",
+      "phát triển nhà ở",
+      "Điều 43",
+      "Điều 44",
+      "Điều 45",
+      "Điều 46",
+      "Điều 47",
+      "Điều 48"
+    ],
+    "tags": [
+      "sua_doi",
+      "dieu_khoan",
+      "cap_nhat"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc sửa đổi, thay thế thuật ngữ trong các điều khoản hiện hành."
+  },
+  {
+    "id": "54_2026_ND-CP__D27__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương III",
+      "dieu": 27,
+      "dieu_title": "Sửa đổi, bổ sung Điều 4",
+      "khoan": 1
+    },
+    "input_text": "Bổ sung khoản 8 và khoản 9 như sau: “8. Mẫu đơn, tờ khai, thành phần hồ sơ tại khoản 1 Điều 10 của Nghị định này có quy định về các thông tin đã có trong cơ sở dữ liệu quốc gia về dân cư hoặc cơ sở dữ liệu chuyên ngành thì các thông tin này được thay thế bằng mã số định danh cá nhân hoặc mã số chuyên ngành thể hiện trong mẫu đơn, tờ khai khi cơ sở dữ liệu quốc gia về dân cư hoặc cơ sở dữ liệu chuyên ngành được vận hành.",
+    "summary": "Bổ sung quy định cho phép thay thế thông tin trong mẫu đơn, tờ khai bằng mã số định danh cá nhân hoặc mã số chuyên ngành khi cơ sở dữ liệu quốc gia về dân cư hoặc cơ sở dữ liệu chuyên ngành được vận hành.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "khi cơ sở dữ liệu quốc gia về dân cư hoặc cơ sở dữ liệu chuyên ngành được vận hành"
+      ],
+      "actions": [
+        "thay thế thông tin bằng mã số định danh cá nhân",
+        "thay thế thông tin bằng mã số chuyên ngành"
+      ]
+    },
+    "doi_tuong": [
+      "cơ quan giải quyết thủ tục hành chính"
+    ],
+    "references": [
+      "Điều 10 của Nghị định này có quy định về các thông tin đã có trong cơ sở dữ liệu quốc gia về"
+    ],
+    "keywords": [
+      "mẫu đơn",
+      "tờ khai",
+      "mã số định danh cá nhân",
+      "cơ sở dữ liệu quốc gia",
+      "dân cư",
+      "cơ sở dữ liệu chuyên ngành"
+    ],
+    "tags": [
+      "thu_tuc_hanh_chinh",
+      "so_hoa",
+      "du_lieu"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này trao quyền (permission) cho việc sử dụng mã số để thay thế thông tin trong hồ sơ."
+  },
+  {
+    "id": "54_2026_ND-CP__D27__K9",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương III",
+      "dieu": 27,
+      "dieu_title": "Sửa đổi, bổ sung Điều 4",
+      "khoan": 9
+    },
+    "input_text": "Kết quả giải quyết thủ tục hành chính được trả bằng bản điện tử; trường hợp cá nhân, tổ chức có yêu cầu nhận bản giấy thì cơ quan giải quyết thủ tục hành chính có trách nhiệm trả đồng thời cả bản điện tử và bản giấy. Kết quả giải quyết thủ tục hành chính bản điện tử có giá trị pháp lý như kết quả giải quyết thủ tục hành chính bằng văn bản giấy.”",
+    "summary": "Quy định kết quả giải quyết thủ tục hành chính được trả bằng bản điện tử và có giá trị pháp lý như bản giấy; cơ quan có trách nhiệm trả cả hai bản nếu cá nhân, tổ chức yêu cầu bản giấy.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm",
+        "được"
+      ],
+      "triggers": [
+        "trường hợp cá nhân, tổ chức có yêu cầu nhận bản giấy"
+      ],
+      "actions": [
+        "trả kết quả bằng bản điện tử",
+        "trả đồng thời cả bản điện tử và bản giấy"
+      ]
+    },
+    "doi_tuong": [
+      "cơ quan giải quyết thủ tục hành chính",
+      "cá nhân",
+      "tổ chức"
+    ],
+    "references": [],
+    "keywords": [
+      "thủ tục hành chính",
+      "bản điện tử",
+      "giá trị pháp lý",
+      "văn bản giấy",
+      "kết quả giải quyết"
+    ],
+    "tags": [
+      "thu_tuc_hanh_chinh",
+      "so_hoa",
+      "gia_tri_phap_ly"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đặt ra nghĩa vụ (obligation) cho cơ quan giải quyết thủ tục hành chính về hình thức trả kết quả."
+  },
+  {
+    "id": "54_2026_ND-CP__D28__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương III",
+      "dieu": 28,
+      "dieu_title": "Sửa đổi, bổ sung Điều 16",
+      "khoan": 1
+    },
+    "input_text": "Bổ sung vào cuối khoản 1 như sau: “…Thời gian tối đa để thực hiện việc thỏa thuận chuyển nhượng quyền sử dụng đất do Ủy ban nhân cấp tỉnh quyết định nhưng phải trước thời điểm dự kiến thời gian thực hiện di dời, phá dỡ lại nhà chung cư trong kế hoạch cải tạo, xây dựng lại nhà chung cư được phê duyệt theo quy định tại khoản 2 Điều 7 của Nghị định này.”",
+    "summary": "Bổ sung quy định về thời gian tối đa để thỏa thuận chuyển nhượng quyền sử dụng đất phải được Ủy ban nhân dân cấp tỉnh quyết định trước thời điểm dự kiến di dời, phá dỡ nhà chung cư.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "thực hiện việc thỏa thuận chuyển nhượng quyền sử dụng đất",
+        "quyết định thời gian tối đa"
+      ]
+    },
+    "doi_tuong": [
+      "Ủy ban nhân dân cấp tỉnh"
+    ],
+    "references": [
+      "Điều 7 của Nghị định này"
+    ],
+    "keywords": [
+      "thỏa thuận chuyển nhượng",
+      "quyền sử dụng đất",
+      "nhà chung cư",
+      "cải tạo",
+      "xây dựng lại",
+      "kế hoạch"
+    ],
+    "tags": [
+      "nha_chung_cu",
+      "quyen_su_dung_dat",
+      "thoi_gian"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đặt ra nghĩa vụ (obligation) về thời hạn cho Ủy ban nhân dân cấp tỉnh."
+  },
+  {
+    "id": "54_2026_ND-CP__D29__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương III",
+      "dieu": 29,
+      "dieu_title": "Sửa đổi, bổ sung Điều 18",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 1 như sau: “1. Việc lựa chọn chủ đầu tư dự án cải tạo, xây dựng lại nhà chung cư thông qua tổ chức đấu thầu được áp dụng đối với trường hợp hết thời hạn lựa chọn nhà đầu tư dự án theo quy định tại khoản 5 Điều 17 của Nghị định này mà không có nhà đầu tư đăng ký tham gia hoặc có nhà đầu tư đăng ký tham gia nhưng các chủ sở hữu nhà chung cư không lựa chọn được chủ đầu tư dự án hoặc trường hợp cơ quan có thẩm quyền quyết định đấu thầu lựa chọn chủ đầu tư khi nhà đầu tư không được toàn bộ các chủ sở hữu thống nhất thỏa thuận chuyển nhượng quyền sử dụng đất quy định tại Điều 16 của Nghị định này.”",
+    "summary": "Quy định các trường hợp bắt buộc phải lựa chọn chủ đầu tư dự án cải tạo, xây dựng lại nhà chung cư thông qua đấu thầu.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [
+        "không được",
+        "được"
+      ],
+      "triggers": [
+        "hết thời hạn lựa chọn nhà đầu tư mà không có nhà đầu tư đăng ký",
+        "hết thời hạn lựa chọn nhà đầu tư mà không lựa chọn được chủ đầu tư",
+        "nhà đầu tư không được toàn bộ chủ sở hữu thống nhất thỏa thuận chuyển nhượng quyền sử dụng đất"
+      ],
+      "actions": [
+        "lựa chọn chủ đầu tư thông qua tổ chức đấu thầu",
+        "quyết định đấu thầu lựa chọn chủ đầu tư"
+      ]
+    },
+    "doi_tuong": [
+      "cơ quan có thẩm quyền",
+      "chủ sở hữu nhà chung cư",
+      "nhà đầu tư"
+    ],
+    "references": [
+      "Điều 17 của Nghị định này mà không có nhà đầu tư đăng ký tham gia hoặc có nhà đầu tư đăng ký",
+      "Điều 16 của Nghị định này"
+    ],
+    "keywords": [
+      "lựa chọn chủ đầu tư",
+      "đấu thầu",
+      "nhà chung cư",
+      "cải tạo",
+      "xây dựng lại",
+      "thỏa thuận chuyển nhượng"
+    ],
+    "tags": [
+      "nha_chung_cu",
+      "dau_thau",
+      "chu_dau_tu"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định các trường hợp bắt buộc phải áp dụng phương thức đấu thầu, mang tính chất nghĩa vụ/điều kiện (obligation/procedure) hơn là cấm đoán."
+  },
+  {
+    "id": "54_2026_ND-CP__D30__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương III",
+      "dieu": 30,
+      "dieu_title": "Sửa đổi, bổ sung một số cụm từ tại khoản 13 Điều 48",
+      "khoan": 1
+    },
+    "input_text": "Thay thế cụm từ “thời hạn tối đa 15 ngày” tại điểm b thành cụm từ “thời hạn tối đa 05 ngày làm việc” và thay thế cụm từ “kế hoạch và đầu tư, tài chính, tài nguyên và môi trường” thành cụm từ “tài chính, nông nghiệp và môi trường”.",
+    "summary": "Thay thế cụm từ 'thời hạn tối đa 15 ngày' bằng 'thời hạn tối đa 05 ngày làm việc' và thay thế tên các sở, ngành tại điểm b khoản 13 Điều 48.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "Thay thế cụm từ"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "thời hạn tối đa",
+      "ngày làm việc",
+      "Điều 48",
+      "sở tài chính",
+      "sở nông nghiệp và môi trường"
+    ],
+    "tags": [
+      "sua_doi",
+      "thoi_han",
+      "cap_nhat"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc sửa đổi, thay thế thuật ngữ và thời hạn trong một điều khoản cụ thể."
+  },
+  {
+    "id": "54_2026_ND-CP__D30__K2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương III",
+      "dieu": 30,
+      "dieu_title": "Sửa đổi, bổ sung một số cụm từ tại khoản 13 Điều 48",
+      "khoan": 2
+    },
+    "input_text": "Thay thế cụm từ “thời hạn tối đa 10 ngày” tại điểm d thành cụm từ “thời hạn tối đa 05 ngày làm việc”.",
+    "summary": "Thay thế cụm từ 'thời hạn tối đa 10 ngày' bằng 'thời hạn tối đa 05 ngày làm việc' tại điểm d khoản 13 Điều 48.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "Thay thế cụm từ"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "thời hạn tối đa",
+      "ngày làm việc",
+      "Điều 48"
+    ],
+    "tags": [
+      "sua_doi",
+      "thoi_han",
+      "cap_nhat"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc sửa đổi, thay thế thời hạn trong một điều khoản cụ thể."
+  },
+  {
+    "id": "54_2026_ND-CP__D30__K3",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương III",
+      "dieu": 30,
+      "dieu_title": "Sửa đổi, bổ sung một số cụm từ tại khoản 13 Điều 48",
+      "khoan": 3
+    },
+    "input_text": "Thay thế cụm từ “thời hạn tối đa 10 ngày” tại điểm đ thành cụm từ “thời hạn tối đa 05 ngày làm việc”.",
+    "summary": "Thay thế cụm từ 'thời hạn tối đa 10 ngày' bằng 'thời hạn tối đa 05 ngày làm việc' tại điểm đ khoản 13 Điều 48.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "Thay thế cụm từ"
+      ]
+    },
+    "doi_tuong": [],
+    "references": [],
+    "keywords": [
+      "thời hạn tối đa",
+      "ngày làm việc",
+      "Điều 48"
+    ],
+    "tags": [
+      "sua_doi",
+      "thoi_han",
+      "cap_nhat"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc sửa đổi, thay thế thời hạn trong một điều khoản cụ thể."
+  },
+  {
+    "id": "54_2026_ND-CP__D31__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương IV",
+      "dieu": 31,
+      "dieu_title": "Sửa đổi, bổ sung Điều 1",
+      "khoan": 1
+    },
+    "input_text": "Bổ sung khoản 19 như sau: “19. Nguyên tắc chung về thủ tục hành chính trong Nghị định này: a) Hồ sơ đề nghị giải quyết thủ tục hành chính được gửi bằng hình thức trực tiếp, trực tuyến hoặc thông qua dịch vụ bưu chính; b) Mẫu đơn, tờ khai, thành phần hồ sơ tại khoản 1 Điều 13, khoản 5 Điều 19, Điều 29, khoản 1 và khoản 2 Điều 30, khoản 2 Điều 35, Điều 37, Điều 38, khoản 2 Điều 44, điểm a khoản 2 Điều 48, Điều 63, Điều 67, Điều 68, khoản 2 Điều 70 có quy định về các thông tin đã có trong cơ sở dữ liệu quốc gia về dân cư hoặc cơ sở dữ liệu chuyên ngành thì các thông tin này được thay thế bằng mã số định danh cá nhân hoặc mã số chuyên ngành thể hiện trong mẫu đơn, tờ khai khi cơ sở dữ liệu quốc gia về dân cư hoặc cơ sở dữ liệu chuyên ngành được vận hành; c) Kết quả giải quyết thủ tục hành chính được trả bằng bản điện tử; trường hợp cá nhân, tổ chức có yêu cầu nhận bản giấy thì cơ quan giải quyết thủ tục hành chính có trách nhiệm trả đồng thời cả bản điện tử và bản giấy. Kết quả giải quyết thủ tục hành chính bản điện tử có giá trị pháp lý như kết quả giải quyết thủ tục hành chính bằng văn bản giấy.”",
+    "summary": "Bổ sung nguyên tắc chung về thủ tục hành chính, quy định hình thức gửi hồ sơ, sử dụng mã số định danh thay thế thông tin trong cơ sở dữ liệu, và giá trị pháp lý của kết quả điện tử.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm",
+        "được"
+      ],
+      "triggers": [
+        "khi đề nghị giải quyết thủ tục hành chính",
+        "khi cơ sở dữ liệu quốc gia về dân cư hoặc cơ sở dữ liệu chuyên ngành được vận hành",
+        "khi cá nhân, tổ chức có yêu cầu nhận bản giấy"
+      ],
+      "actions": [
+        "gửi hồ sơ",
+        "thay thế thông tin bằng mã số định danh",
+        "trả kết quả bằng bản điện tử",
+        "trả kết quả bằng bản giấy"
+      ]
+    },
+    "doi_tuong": [
+      "cá nhân",
+      "tổ chức",
+      "cơ quan giải quyết thủ tục hành chính"
+    ],
+    "references": [
+      "Điều 13",
+      "Điều 19",
+      "Điều 29",
+      "Điều 30",
+      "Điều 35",
+      "Điều 37",
+      "Điều 38",
+      "Điều 44",
+      "Điều 48",
+      "Điều 63",
+      "Điều 67",
+      "Điều 68",
+      "Điều 70"
+    ],
+    "keywords": [
+      "thủ tục hành chính",
+      "hồ sơ",
+      "mã số định danh",
+      "cơ sở dữ liệu quốc gia",
+      "bản điện tử",
+      "giá trị pháp lý"
+    ],
+    "tags": [
+      "thu_tuc_hanh_chinh",
+      "ho_so",
+      "co_so_du_lieu"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định các nghĩa vụ và cách thức thực hiện thủ tục hành chính."
+  },
+  {
+    "id": "54_2026_ND-CP__D32__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương IV",
+      "dieu": 32,
+      "dieu_title": "Sửa đổi, bổ sung Điều 29",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 1 như sau: “1. Trường hợp chưa có nhà ở thuộc sở hữu của mình được xác định khi đối tượng quy định tại khoản 1 Điều 77 của Luật Nhà ở và vợ hoặc chồng của đối tượng đó (nếu có) được xác định là không có tên hoặc không có nội dung thông tin về nhà ở trong Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất tại tỉnh, thành phố trực thuộc trung ương nơi có dự án nhà ở xã hội đó. Trong thời hạn 07 ngày, kể từ ngày nhận được giấy đề nghị xác nhận về điều kiện nhà ở, cơ quan có thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của pháp luật về đất đai tại tỉnh, thành phố trực thuộc trung ương nơi có dự án nhà ở xã hội xác nhận theo quy định tại khoản này.”",
+    "summary": "Quy định điều kiện xác định trường hợp chưa có nhà ở thuộc sở hữu và trách nhiệm xác nhận của cơ quan có thẩm quyền trong thời hạn 07 ngày.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "khi đối tượng quy định tại khoản 1 Điều 77 Luật Nhà ở đề nghị xác nhận về điều kiện nhà ở"
+      ],
+      "actions": [
+        "xác định không có tên/nội dung thông tin về nhà ở trong Giấy chứng nhận",
+        "xác nhận theo quy định"
+      ]
+    },
+    "doi_tuong": [
+      "đối tượng quy định tại khoản 1 Điều 77 Luật Nhà ở",
+      "vợ/chồng của đối tượng",
+      "cơ quan có thẩm quyền cấp Giấy chứng nhận"
+    ],
+    "references": [
+      "Điều 77 của Luật Nhà ở và vợ hoặc chồng của đối tượng đó (nếu có) được xác định là không có"
+    ],
+    "keywords": [
+      "nhà ở thuộc sở hữu",
+      "Giấy chứng nhận quyền sử dụng đất",
+      "xác nhận",
+      "dự án nhà ở xã hội",
+      "thẩm quyền"
+    ],
+    "tags": [
+      "dieu_kien_nha_o",
+      "xac_nhan",
+      "nha_o_xa_hoi"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cho phép đối tượng được xác nhận điều kiện và quy định trách nhiệm xác nhận của cơ quan."
+  },
+  {
+    "id": "54_2026_ND-CP__D33__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương IV",
+      "dieu": 33,
+      "dieu_title": "Sửa đổi, bổ sung Điều 30",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 2 như sau: “2. Trường hợp đối tượng quy định tại khoản 5 Điều 76 của Luật Nhà ở không có hợp đồng lao động thì phải bảo đảm điều kiện về thu nhập theo quy định tại khoản 1 Điều này và được cơ quan Công an cấp xã nơi thường trú hoặc tạm trú hoặc nơi ở hiện tại xác nhận. Trong thời hạn 07 ngày, kể từ ngày nhận được đơn đề nghị xác nhận, Công an cấp xã nơi công dân thường trú hoặc tạm trú hoặc nơi ở hiện tại tại thời điểm công dân đề nghị, có trách nhiệm xác nhận các thông tin gồm: Họ, chữ đệm và tên; Ngày, tháng, năm sinh; giới tính; số định danh cá nhân; ngày, tháng, năm cấp thẻ căn cước/căn cước công dân; nơi thường trú/nơi tạm trú/nơi ở hiện tại. Công dân có trách nhiệm kê khai và cam kết thông tin thu nhập bình quân hàng tháng. Công an cấp xã phối hợp với các cơ quan có liên quan trong việc xác minh, hậu kiểm thông tin thu nhập bình quân hàng tháng của công dân đối với các trường hợp cần thiết. Đơn đề nghị xác nhận điều kiện về thu nhập quy định tại khoản này đồng thời là giấy tờ chứng minh về đối tượng được hưởng chính sách hỗ trợ về nhà ở xã hội.”",
+    "summary": "Quy định điều kiện về thu nhập, trách nhiệm xác nhận của Công an cấp xã và trách nhiệm kê khai, cam kết của công dân đối với đối tượng không có hợp đồng lao động.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "có trách nhiệm",
+        "được"
+      ],
+      "triggers": [
+        "khi đối tượng quy định tại khoản 5 Điều 76 Luật Nhà ở không có hợp đồng lao động và đề nghị xác nhận"
+      ],
+      "actions": [
+        "bảo đảm điều kiện thu nhập",
+        "xác nhận thông tin cá nhân",
+        "kê khai và cam kết thông tin thu nhập",
+        "xác minh, hậu kiểm thông tin thu nhập"
+      ]
+    },
+    "doi_tuong": [
+      "đối tượng quy định tại khoản 5 Điều 76 Luật Nhà ở",
+      "Công an cấp xã",
+      "công dân",
+      "các cơ quan có liên quan"
+    ],
+    "references": [
+      "Điều 76 của Luật Nhà ở không có hợp đồng lao động thì phải bảo đảm điều kiện về thu nhập the"
+    ],
+    "keywords": [
+      "hợp đồng lao động",
+      "thu nhập",
+      "xác nhận",
+      "Công an cấp xã",
+      "cam kết",
+      "hậu kiểm"
+    ],
+    "tags": [
+      "dieu_kien_thu_nhap",
+      "xac_nhan",
+      "nha_o_xa_hoi"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đặt ra nghĩa vụ cho công dân và Công an cấp xã trong việc đảm bảo và xác nhận điều kiện thu nhập."
+  },
+  {
+    "id": "54_2026_ND-CP__D34__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương IV",
+      "dieu": 34,
+      "dieu_title": "Sửa đổi, bổ sung Điều 38",
+      "khoan": 1
+    },
+    "input_text": "“Điều 38. Trình tự, thủ tục bán, cho thuê mua, cho thuê nhà ở xã hội được đầu tư xây dựng theo dự án và không sử dụng vốn đầu tư công, nguồn tài chính công đoàn",
+    "summary": "Quy định về trình tự, thủ tục bán, cho thuê mua, cho thuê nhà ở xã hội được đầu tư xây dựng theo dự án không sử dụng vốn công.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "bán",
+        "cho thuê mua",
+        "cho thuê nhà ở xã hội"
+      ]
+    },
+    "doi_tuong": [
+      "chủ đầu tư dự án",
+      "hộ gia đình",
+      "cá nhân",
+      "Sở Xây dựng",
+      "Ủy ban nhân dân cấp xã"
+    ],
+    "references": [
+      "Điều 38"
+    ],
+    "keywords": [
+      "nhà ở xã hội",
+      "trình tự",
+      "thủ tục",
+      "chủ đầu tư",
+      "vốn đầu tư công"
+    ],
+    "tags": [
+      "trinh_tu_thu_tuc",
+      "ban_nha",
+      "nha_o_xa_hoi"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này chỉ định tiêu đề và phạm vi điều chỉnh cho các thủ tục liên quan đến nhà ở xã hội."
+  },
+  {
+    "id": "54_2026_ND-CP__D34__K1_2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương IV",
+      "dieu": 34,
+      "dieu_title": "Sửa đổi, bổ sung Điều 38",
+      "khoan": 1
+    },
+    "input_text": "Trình tự, thủ tục bán nhà ở xã hội thực hiện như sau: a) Sau 30 ngày, kể từ khi khởi công dự án, chủ đầu tư dự án đầu tư xây dựng nhà ở xã hội có trách nhiệm cung cấp các thông tin liên quan đến dự án để công bố công khai tại trang thông tin điện tử của Sở Xây dựng, Ủy ban nhân dân cấp xã tại địa phương nơi có dự án; đăng tải ít nhất 01 lần tại báo là cơ quan ngôn luận của chính quyền địa phương và công bố tại trang thông tin điện tử của chủ đầu tư (nếu có) hoặc Sàn giao dịch bất động sản của chủ đầu tư (nếu có) để người dân biết, chuẩn bị hồ sơ đăng ký mua nhà ở xã hội và thực hiện việc theo dõi, giám sát. Thông tin công khai gồm: Tên dự án; chủ đầu tư dự án; địa điểm xây dựng dự án; địa chỉ liên lạc, địa chỉ nộp đơn đăng ký; tiến độ thực hiện dự án; quy mô dự án; số lượng căn hộ/căn nhà (trong đó bao gồm: Số căn hộ/căn nhà để bán; diện tích căn hộ; giá bán (tạm tính) đối với từng loại căn hộ/căn nhà; dự kiến thời gian bắt đầu nhận hồ sơ đăng ký và các nội dung khác có liên quan). Trường hợp hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản đã được kết nối, khai thác thì thực hiện công khai thông tin về dự án đầu tư xây dựng nhà ở xã hội trên hệ thống này theo quy định của pháp luật về xây dựng và quản lý hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản; b) Trước thời điểm bắt đầu tiếp nhận hồ sơ đăng ký mua nhà ở xã hội, chủ đầu tư công khai thông tin về thời điểm bắt đầu tiếp nhận, kết thúc tiếp nhận hồ sơ đăng ký mua, số căn hộ/căn nhà để bán, diện tích căn hộ, giá bán nhà ở xã hội trên hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản và gửi Sở Xây dựng địa phương nơi có dự án để công khai trên trang thông tin điện tử của Sở Xây dựng. Việc công khai thông tin phải thực hiện tối thiểu 30 ngày trước thời điểm bắt đầu tiếp nhận hồ sơ; c) Trên cơ sở các thông tin về dự án nhà ở xã hội đã được công khai, hộ gia đình, cá nhân có nhu cầu nộp hồ sơ mua nhà ở xã hội cho chủ đầu tư dự án. Mỗi hộ gia đình, cá nhân có nhu cầu mua nhà ở xã hội không được đồng thời đăng ký mua nhà ở xã hội tại nhiều dự án trong cùng một thời điểm. Đối tượng quy định tại khoản 10 Điều 76 của Luật Nhà ở phải có xác nhận về đối tượng của Ủy ban nhân dân cấp xã nơi bị thu hồi đất và phải giải tỏa, phá dỡ nhà ở theo mẫu hướng dẫn của Bộ trưởng Bộ Xây dựng. Trong thời hạn 07 ngày, kể từ ngày nhận được đơn đề nghị xác nhận, Ủy ban nhân dân cấp xã thực hiện việc xác nhận về đối tượng. Việc nộp hồ sơ được thực hiện thông qua hình thức trực tiếp, trực tuyến hoặc dịch vụ bưu chính hoặc nộp cho cơ quan, đơn vị, doanh nghiệp nơi cá nhân đang làm việc để tổng hợp, gửi chủ đầu tư dự án. Thời gian nộp, tiếp nhận hồ sơ do chủ đầu tư quyết định nhưng tối thiểu là 30 ngày kể từ ngày bắt đầu tiếp nhận hồ sơ; d) Hồ sơ đăng ký mua nhà ở xã hội bao gồm: đơn đăng ký mua nhà ở xã hội theo Mẫu số 01 quy định tại Phụ lục II của Nghị định này; giấy tờ chứng minh đối tượng, điều kiện được hưởng chính sách hỗ trợ về nhà ở xã hội. Giấy tờ chứng minh đối tượng, điều kiện được hưởng chính sách hỗ trợ về nhà ở xã hội có giá trị trong thời gian 12 tháng, tính từ thời điểm xác nhận. Người đăng ký mua nhà ở xã hội phải cam kết chưa được hưởng chính sách hỗ trợ về nhà ở và chịu trách nhiệm về việc bảo đảm đối tượng, điều kiện được hưởng chính sách hỗ trợ về nhà ở xã hội tại thời điểm ký hợp đồng mua bán; đ) Trong thời hạn 10 ngày, kể từ ngày hết hạn nộp hồ sơ, chủ đầu tư có trách nhiệm tổng hợp Danh sách đăng ký mua nhà ở xã hội, trong đó thể hiện thông tin cá nhân của người đăng ký và các thành viên trong hộ gia đình được khai tại Đơn đăng ký mua nhà ở xã hội; gửi Sở Xây dựng địa phương nơi có dự án để kiểm tra người đăng ký mua nhà ở xã hội đã được hưởng hoặc chưa được hưởng chính sách hỗ trợ về nhà ở theo quy định của pháp luật về nhà ở. Sở Xây dựng có trách nhiệm trả lời bằng văn bản trong thời hạn 10 ngày kể từ ngày nhận được Danh sách đăng ký. Chủ đầu tư có trách nhiệm rà soát, đánh giá, tổng hợp ý kiến của Sở Xây dựng và đối chiếu với các quy định của pháp luật về nhà ở để xác định hồ sơ đáp ứng điều kiện được hưởng chính sách hỗ trợ về nhà ở xã hội. Chủ đầu tư có trách nhiệm lập, công khai Danh sách các hồ sơ đáp ứng đủ điều kiện theo quy định và các hồ sơ không đáp ứng đủ điều kiện tại địa điểm thực hiện dự án, trang thông tin điện tử của chủ đầu tư (nếu có) và tại Sàn giao dịch bất động sản của chủ đầu tư (nếu có). Trong thời hạn 30 ngày kể từ ngày hết hạn nộp hồ sơ, chủ đầu tư có trách nhiệm công khai Danh sách các hồ sơ đáp ứng đủ điều kiện mua nhà ở xã hội. Đối với hồ sơ không đáp ứng đủ điều kiện thì gửi trả lại và nêu rõ lý do trong thời hạn 15 ngày kể từ ngày công khai Danh sách; e) Trường hợp tổng số hồ sơ đăng ký đủ điều kiện trong danh sách tại điểm đ khoản này bằng hoặc ít hơn tổng số căn hộ/căn nhà dự kiến bán thì việc mua bán được thực hiện theo thỏa thuận giữa chủ đầu tư và khách hàng; g) Trường hợp tổng số hồ sơ đăng ký đủ điều kiện trong danh sách tại điểm đ khoản này lớn hơn tổng số căn hộ/căn nhà dự kiến bán thì chủ đầu tư tổ chức việc bốc thăm để lựa chọn người được mua nhà ở xã hội. Hình thức bốc thăm do chủ đầu tư quyết định nhưng phải có sự giám sát của đại diện Sở Xây dựng địa phương, đại diện Ủy ban nhân dân cấp xã, đại diện Công an cấp xã nơi có dự án, xác nhận vào biên bản kết quả bốc thăm; h) Trường hợp dự án có đối tượng ưu tiên theo quy định tại điểm đ khoản 1 Điều 79 của Luật Nhà ở thì được ưu tiên mua nhà ở xã hội mà không phải bốc thăm với số lượng căn hộ bằng tổng số hồ sơ đủ điều kiện của các nhóm đối tượng ưu tiên này trên tổng số hồ sơ đủ điều kiện trong danh sách quy định tại khoản này nhân với tổng số căn hộ/căn nhà nhà ở xã hội dự kiến bán. Việc ưu tiên đối tượng là nữ giới được áp dụng đối với trường hợp người đứng đơn đăng ký là nữ giới đơn thân hoặc phải là chủ hộ của hộ gia đình trên cơ sở dữ liệu về cư trú. Đối tượng ưu tiên quy định tại điểm đ khoản 1 Điều 79 của Luật Nhà ở được bố trí căn hộ/căn nhà theo thứ tự lần lượt như sau: người có công với cách mạng, thân nhân liệt sĩ, người khuyết tật, người được bố trí tái định cư theo hình thức mua nhà ở xã hội, nữ giới. Trường hợp số lượng đối tượng ưu tiên trong 01 nhóm vượt quá số lượng căn hộ/căn nhà ưu tiên còn lại thì thực hiện bốc thăm giữa nhóm đối tượng ưu tiên đó, các đối tượng còn lại được tiếp tục tham gia bốc thăm cùng với các đối tượng không ưu tiên; i) Sau khi nhà ở đủ điều kiện được bán theo quy định của pháp luật về kinh doanh bất động sản, chủ đầu tư thực hiện ký kết Hợp đồng mua bán nhà ở xã hội với khách hàng; đồng thời cập nhật thông tin về giao dịch, đối tượng đã mua nhà ở xã hội theo quy định của pháp luật về nhà ở, pháp luật về xây dựng và quản lý hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản. Chủ đầu tư dự án có trách nhiệm công bố công khai Danh sách các khách hàng đã ký hợp đồng mua bán nhà ở xã hội (bao gồm cả các thành viên trong hộ gia đình) tại trụ sở làm việc của chủ đầu tư, tại địa điểm thực hiện dự án và tại Sàn giao dịch bất động sản (nếu có) hoặc trang thông tin điện tử về nhà ở xã hội của chủ đầu tư (nếu có).",
+    "summary": "Quy định chi tiết trình tự, thủ tục bán nhà ở xã hội, bao gồm công khai thông tin, tiếp nhận hồ sơ, kiểm tra điều kiện, lựa chọn người mua (thỏa thuận/bốc thăm/ưu tiên) và ký kết hợp đồng.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [
+        "không được",
+        "có trách nhiệm",
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "sau 30 ngày kể từ khi khởi công dự án",
+        "trước thời điểm bắt đầu tiếp nhận hồ sơ",
+        "khi hộ gia đình/cá nhân có nhu cầu",
+        "từ ngày hết hạn nộp hồ sơ",
+        "sau khi nhà ở đủ điều kiện được bán"
+      ],
+      "actions": [
+        "công khai thông tin",
+        "nộp hồ sơ đăng ký",
+        "kiểm tra, đánh giá hồ sơ",
+        "bốc thăm lựa chọn",
+        "ký hợp đồng mua bán",
+        "cập nhật thông tin giao dịch"
+      ]
+    },
+    "doi_tuong": [
+      "chủ đầu tư dự án",
+      "hộ gia đình",
+      "cá nhân",
+      "Sở Xây dựng",
+      "Ủy ban nhân dân cấp xã",
+      "Công an cấp xã",
+      "khách hàng",
+      "đối tượng ưu tiên"
+    ],
+    "references": [
+      "Điều 76 của Luật Nhà ở phải có xác nhận về đối tượng của Ủy ban nhân dân cấp xã nơi bị thu h",
+      "Điều 79 của Luật Nhà ở thì được ưu tiên mua nhà ở xã hội mà không phải bốc thăm với số lượng",
+      "Điều 79 của Luật Nhà ở được bố trí căn hộ/căn nhà theo thứ tự lần lượt như sau: người có côn"
+    ],
+    "keywords": [
+      "công khai thông tin",
+      "hồ sơ đăng ký",
+      "danh sách",
+      "bốc thăm",
+      "hợp đồng mua bán",
+      "đối tượng ưu tiên",
+      "nhà ở xã hội"
+    ],
+    "tags": [
+      "trinh_tu_thu_tuc",
+      "ban_nha",
+      "cong_khai",
+      "lua_chon_khach_hang",
+      "nha_o_xa_hoi"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định một quy trình thủ tục chi tiết với các bước bắt buộc phải thực hiện."
+  },
+  {
+    "id": "54_2026_ND-CP__D34__K2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương IV",
+      "dieu": 34,
+      "dieu_title": "Sửa đổi, bổ sung Điều 38",
+      "khoan": 2
+    },
+    "input_text": "Trình tự, thủ tục cho thuê mua nhà ở xã hội được thực hiện theo quy định tại khoản 1 Điều này.",
+    "summary": "Quy định việc cho thuê mua nhà ở xã hội được thực hiện theo trình tự, thủ tục bán nhà ở xã hội đã nêu.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "khi thực hiện cho thuê mua nhà ở xã hội"
+      ],
+      "actions": [
+        "cho thuê mua nhà ở xã hội"
+      ]
+    },
+    "doi_tuong": [
+      "chủ đầu tư dự án",
+      "hộ gia đình",
+      "cá nhân"
+    ],
+    "references": [],
+    "keywords": [
+      "cho thuê mua",
+      "nhà ở xã hội",
+      "trình tự",
+      "thủ tục"
+    ],
+    "tags": [
+      "trinh_tu_thu_tuc",
+      "cho_thue_mua",
+      "nha_o_xa_hoi"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cho phép áp dụng một thủ tục có sẵn cho một hoạt động khác."
+  },
+  {
+    "id": "54_2026_ND-CP__D34__K3",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương IV",
+      "dieu": 34,
+      "dieu_title": "Sửa đổi, bổ sung Điều 38",
+      "khoan": 3
+    },
+    "input_text": "Trình tự, thủ tục cho thuê nhà ở xã hội được thực hiện theo quy định tại khoản 1 Điều này và không phải nộp các giấy tờ chứng minh điều kiện về nhà ở và thu nhập. Trường hợp thuê nhà ở xã hội thuộc tài sản công thì người thuê nộp các giấy tờ chứng minh thuộc đối tượng được miễn, giảm tiền thuê nhà ở xã hội (nếu có).”",
+    "summary": "Quy định trình tự, thủ tục cho thuê nhà ở xã hội được thực hiện theo quy định về bán nhà ở, nhưng không phải nộp giấy tờ chứng minh điều kiện nhà ở và thu nhập, trừ trường hợp thuê nhà thuộc tài sản công.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "khi thực hiện cho thuê nhà ở xã hội",
+        "trường hợp thuê nhà ở xã hội thuộc tài sản công"
+      ],
+      "actions": [
+        "cho thuê nhà ở xã hội",
+        "nộp giấy tờ chứng minh đối tượng được miễn, giảm tiền thuê"
+      ]
+    },
+    "doi_tuong": [
+      "chủ đầu tư dự án",
+      "người thuê nhà"
+    ],
+    "references": [],
+    "keywords": [
+      "cho thuê nhà ở",
+      "thủ tục",
+      "giấy tờ chứng minh",
+      "tài sản công",
+      "miễn giảm tiền thuê"
+    ],
+    "tags": [
+      "trinh_tu_thu_tuc",
+      "cho_thue_nha",
+      "nha_o_xa_hoi"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đặt ra nghĩa vụ tuân theo một thủ tục có sẵn và quy định về giấy tờ cần nộp."
+  },
+  {
+    "id": "54_2026_ND-CP__D35__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương IV",
+      "dieu": 35,
+      "dieu_title": "Sửa đổi, bổ sung Điều 39",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung Điều 39 như sau: a) Sửa đổi, bổ sung khoản 1 như sau: “1. Trường hợp bán lại nhà ở xã hội cho chủ đầu tư dự án thì việc bán lại thực hiện theo quy định tại điểm đ khoản 1 Điều 89 của Luật Nhà ở và quy định của pháp luật về kinh doanh bất động sản, pháp luật về đất đai.” b) Bổ sung khoản 3 như sau: “3. Trường hợp bên bán lại nhà ở xã hội quy định tại khoản 1, khoản 2 Điều này chưa thực hiện thủ tục thanh lý hợp đồng mua bán với chủ đầu tư thì thực hiện việc thanh lý hợp đồng theo quy định của pháp luật về dân sự trước khi bán lại nhà ở xã hội.”",
+    "summary": "Sửa đổi, bổ sung quy định về việc bán lại nhà ở xã hội cho chủ đầu tư và việc thanh lý hợp đồng trước khi bán lại.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [],
+      "triggers": [
+        "trường hợp bán lại nhà ở xã hội cho chủ đầu tư",
+        "trường hợp bên bán lại chưa thực hiện thủ tục thanh lý hợp đồng"
+      ],
+      "actions": [
+        "bán lại nhà ở xã hội",
+        "thanh lý hợp đồng"
+      ]
+    },
+    "doi_tuong": [
+      "bên bán lại nhà ở xã hội",
+      "chủ đầu tư dự án"
+    ],
+    "references": [
+      "Điều 39",
+      "Điều 89 của Luật Nhà ở và quy định của pháp luật về kinh doanh bất động sản"
+    ],
+    "keywords": [
+      "bán lại nhà ở",
+      "chủ đầu tư",
+      "thanh lý hợp đồng",
+      "Luật Nhà ở",
+      "kinh doanh bất động sản"
+    ],
+    "tags": [
+      "ban_lai_nha",
+      "thanh_ly_hop_dong",
+      "nha_o_xa_hoi"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định các trường hợp và điều kiện để thực hiện giao dịch bán lại nhà ở xã hội."
+  },
+  {
+    "id": "54_2026_ND-CP__D36__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương IV",
+      "dieu": 36,
+      "dieu_title": "Sửa đổi, bổ sung Điều 48",
+      "khoan": 1
+    },
+    "input_text": "Bổ sung điểm a1 sau điểm a khoản 2 như sau: “a1) Trong thời hạn 07 ngày, kể từ ngày nhận được giấy xác nhận về điều kiện theo quy định tại điểm a khoản 4 Điều 110 của Luật Nhà ở, Ủy ban nhân dân cấp xã xác nhận theo quy định tại khoản này.”",
+    "summary": "Bổ sung quy định về thời hạn và trách nhiệm của Ủy ban nhân dân cấp xã trong việc xác nhận điều kiện nhà ở sau khi nhận giấy xác nhận.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "nhận được giấy xác nhận về điều kiện theo quy định tại điểm a khoản 4 Điều 110 của Luật Nhà ở"
+      ],
+      "actions": [
+        "xác nhận"
+      ]
+    },
+    "doi_tuong": [
+      "Ủy ban nhân dân cấp xã"
+    ],
+    "references": [
+      "Điều 110 của Luật Nhà ở"
+    ],
+    "keywords": [
+      "Ủy ban nhân dân cấp xã",
+      "giấy xác nhận",
+      "Luật Nhà ở",
+      "Điều 110",
+      "xác nhận",
+      "thời hạn"
+    ],
+    "tags": [
+      "thủ_tục",
+      "nhà_ở",
+      "xác_nhận"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định trình tự và thời hạn thực hiện một hành động xác nhận của cơ quan hành chính."
+  },
+  {
+    "id": "54_2026_ND-CP__D37__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương IV",
+      "dieu": 37,
+      "dieu_title": "Sửa đổi, bổ sung Điều 68",
+      "khoan": 1
+    },
+    "input_text": "“Điều 68. Trình tự, thủ tục bán, cho thuê mua, cho thuê nhà ở cho lực lượng vũ trang nhân dân được đầu tư xây dựng không bằng vốn đầu tư công",
+    "summary": "Đặt tiêu đề cho Điều 68 về trình tự, thủ tục bán, cho thuê mua, cho thuê nhà ở cho lực lượng vũ trang nhân dân được đầu tư xây dựng không bằng vốn đầu tư công.",
+    "normative": {
+      "clause_type": "definition",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "bán",
+        "cho thuê mua",
+        "cho thuê nhà ở"
+      ]
+    },
+    "doi_tuong": [
+      "lực lượng vũ trang nhân dân",
+      "chủ đầu tư"
+    ],
+    "references": [
+      "Điều 68"
+    ],
+    "keywords": [
+      "Điều 68",
+      "lực lượng vũ trang nhân dân",
+      "nhà ở",
+      "vốn đầu tư công",
+      "trình tự",
+      "thủ tục"
+    ],
+    "tags": [
+      "trình_tự",
+      "nhà_ở",
+      "lực lượng_vũ_trang"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này định nghĩa phạm vi và chủ đề của một điều luật."
+  },
+  {
+    "id": "54_2026_ND-CP__D37__K1_2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương IV",
+      "dieu": 37,
+      "dieu_title": "Sửa đổi, bổ sung Điều 68",
+      "khoan": 1
+    },
+    "input_text": "Trình tự, thủ tục bán nhà ở cho lực lượng vũ trang nhân dân thực hiện như sau: a) Sau thời gian 30 ngày kể từ ngày khởi công, chủ đầu tư dự án đầu tư xây dựng nhà ở cho lực lượng vũ trang nhân dân có trách nhiệm cung cấp các thông tin liên quan đến dự án (tên dự án; chủ đầu tư dự án; địa điểm xây dựng dự án; địa chỉ liên lạc; tiến độ thực hiện dự án; quy mô dự án; số lượng căn hộ (trong đó bao gồm: tổng số căn hộ của dự án; diện tích căn hộ; giá bán (tạm tính) đối với từng loại căn hộ; thời gian bắt đầu và kết thúc nhận đơn đăng ký và các nội dung khác có liên quan) đến cơ quan chuyên môn về nhà ở của Bộ Quốc phòng, Bộ Công an. Trường hợp hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản đã được kết nối, khai thác thì thực hiện công khai thông tin về dự án đầu tư xây dựng nhà ở cho lực lượng vũ trang nhân dân trên hệ thống này theo quy định của pháp luật về xây dựng và quản lý hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản; b) Trước thời điểm bắt đầu tiếp nhận hồ sơ đăng ký mua nhà ở cho lực lượng vũ trang nhân dân thì chủ đầu tư phải gửi thông tin về thời điểm bắt đầu tiếp nhận, kết thúc tiếp nhận hồ sơ đăng ký mua, số căn hộ/căn nhà để bán, diện tích căn hộ, giá bán nhà ở cho lực lượng vũ trang nhân dân trên hệ thống thông tin về nhà ở và thị trường bất động sản và được gửi đến cơ quan chuyên môn về nhà ở trực thuộc Bộ Quốc phòng, Bộ Công an. Thời gian nộp, tiếp nhận hồ sơ do chủ đầu tư quyết định nhưng tối thiểu là 30 ngày kể từ ngày bắt đầu tiếp nhận hồ sơ; c) Bộ Quốc phòng, Bộ Công an có trách nhiệm giao cơ quan chuyên môn về nhà ở trực thuộc hoặc đơn vị trực thuộc cấp tỉnh tại địa phương nơi có dự án gửi thông tin dự án tới các đơn vị thuộc lực lượng vũ trang nhân dân trên địa bàn để thông báo cho đối tượng được hưởng chính sách hỗ trợ về nhà ở cho lực lượng vũ trang nhân dân đăng ký. Cá nhân có nhu cầu đăng ký mua nhà ở cho lực lượng vũ trang nhân dân nộp đơn đăng ký mua nhà ở cho lực lượng vũ trang nhân dân theo Mẫu số 03 tại Phụ lục II của Nghị định này và các giấy tờ chứng minh đối tượng, điều kiện được mua nhà ở cho lực lượng vũ trang nhân dân về đơn vị nơi cá nhân đang công tác để tổng hợp, gửi cơ quan chuyên môn trực thuộc Bộ Quốc phòng, Bộ Công an; d) Căn cứ số lượng đăng ký của các đơn vị, Bộ Quốc phòng, Bộ Công an tổ chức phân bổ số lượng căn hộ tại dự án cho các đơn vị trực thuộc đóng quân trên địa bàn cấp tỉnh nơi có dự án theo tỷ lệ hồ sơ đăng ký và các điều kiện đặc thù của lực lượng vũ trang. Việc phân bổ có thể thực hiện theo một hoặc nhiều đợt, bảo đảm phù hợp với số lượng căn hộ, hồ sơ đăng ký và tình hình triển khai thực tế của dự án. Căn cứ số lượng căn hộ được phân bổ, các đơn vị trực thuộc Bộ Quốc phòng, Bộ Công an tổ chức xét duyệt, lập Danh sách các đối tượng thuộc phạm vi quản lý dự kiến mua nhà ở cho lực lượng vũ trang nhân dân kèm theo hồ sơ chứng minh đối tượng và điều kiện được hưởng chính sách hỗ trợ về nhà ở xã hội theo quy định để gửi về cơ quan chuyên môn về nhà ở trực thuộc Bộ Quốc phòng, Bộ Công an. Người đăng ký mua nhà ở cho lực lượng vũ trang nhân dân phải cam kết chưa được hưởng chính sách hỗ trợ về nhà ở, chưa được mua nhà ở cho lực lượng vũ trang nhân dân và chịu trách nhiệm về việc bảo đảm đối tượng, điều kiện được hưởng chính sách hỗ trợ về nhà ở cho lực lượng vũ trang nhân dân tại thời điểm ký hợp đồng mua bán; đ) Cơ quan chuyên môn về nhà ở trực thuộc Bộ Quốc phòng, Bộ Công an có trách nhiệm tổng hợp Danh sách dự kiến mua nhà ở cho lực lượng vũ trang nhân dân, trong đó thể hiện thông tin cá nhân của người đăng ký và các thành viên trong hộ gia đình được khai tại Đơn đăng ký mua nhà ở cho lực lượng vũ trang nhân dân; gửi Sở Xây dựng địa phương nơi có dự án để kiểm tra người đăng ký mua nhà ở cho lực lượng vũ trang nhân dân đã được hưởng hoặc chưa được hưởng chính sách hỗ trợ về nhà ở theo quy định của pháp luật về nhà ở. Sở Xây dựng có trách nhiệm trả lời bằng văn bản trong thời hạn 10 ngày kể từ ngày nhận được Danh sách; e) Cơ quan chuyên môn về nhà ở trực thuộc Bộ Quốc phòng, Bộ Công an có trách nhiệm rà soát, đánh giá, tổng hợp ý kiến của Sở Xây dựng và đối chiếu với các quy định của pháp luật về nhà ở để xác định hồ sơ đáp ứng điều kiện được hưởng chính sách hỗ trợ về nhà ở cho lực lượng vũ trang nhân dân, tổng hợp Danh sách đủ điều kiện mua nhà ở cho lực lượng vũ trang nhân dân, trình lãnh đạo Bộ Quốc phòng, Bộ Công an phê duyệt Danh sách và thông báo cho chủ đầu tư dự án, đối tượng được mua nhà ở tại dự án. Đối với hồ sơ không đáp ứng đủ điều kiện thì gửi trả lại và nêu rõ lý do trong thời hạn 15 ngày kể từ ngày phê duyệt Danh sách. Trường hợp người có nhu cầu mua nhà ở cho lực lượng vũ trang nhân dân đáp ứng đúng đối tượng, đủ điều kiện theo quy định và đã được phê duyệt trong Danh sách, nhưng không còn nhu cầu mua nhà ở thì báo cáo đơn vị đang công tác để gửi về Bộ Quốc phòng, Bộ Công an đưa ra khỏi Danh sách; g) Sau khi nhà ở đủ điều kiện được bán theo quy định của pháp luật về kinh doanh bất động sản, chủ đầu tư thực hiện ký kết Hợp đồng mua bán nhà ở cho lực lượng vũ trang nhân dân với khách hàng; đồng thời cập nhật thông tin về giao dịch, đối tượng đã mua nhà ở cho lực lượng vũ trang nhân dân theo quy định của pháp luật nhà ở, pháp luật về xây dựng và quản lý hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản. Chủ đầu tư dự án có trách nhiệm công bố công khai Danh sách các khách hàng đã ký hợp đồng mua bán nhà ở cho lực lượng vũ trang nhân dân (bao gồm cả các thành viên trong hộ gia đình) tại trụ sở làm việc của chủ đầu tư, tại địa điểm thực hiện dự án và tại Sàn giao dịch bất động sản (nếu có) hoặc trang thông tin điện tử về nhà ở cho lực lượng vũ trang nhân dân của chủ đầu tư (nếu có) và gửi về cơ quan chuyên môn về nhà ở trực thuộc Bộ Quốc phòng, Bộ Công an để lưu trữ và phục vụ cho công tác quản lý, kiểm tra.",
+    "summary": "Quy định trình tự, thủ tục chi tiết từ cung cấp thông tin dự án, tiếp nhận hồ sơ, phân bổ, xét duyệt, kiểm tra đến ký hợp đồng bán nhà ở cho lực lượng vũ trang nhân dân.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [
+        "có trách nhiệm",
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "dự án đầu tư xây dựng nhà ở cho lực lượng vũ trang nhân dân"
+      ],
+      "actions": [
+        "cung cấp thông tin",
+        "công khai thông tin",
+        "gửi thông tin",
+        "nộp đơn đăng ký",
+        "tổng hợp",
+        "gửi",
+        "phân bổ",
+        "xét duyệt",
+        "lập Danh sách",
+        "kiểm tra",
+        "trả lời bằng văn bản",
+        "rà soát, đánh giá, tổng hợp",
+        "phê duyệt Danh sách",
+        "thông báo",
+        "ký kết Hợp đồng mua bán",
+        "cập nhật thông tin",
+        "công bố công khai Danh sách"
+      ]
+    },
+    "doi_tuong": [
+      "chủ đầu tư dự án",
+      "cơ quan chuyên môn về nhà ở của Bộ Quốc phòng, Bộ Công an",
+      "Bộ Quốc phòng, Bộ Công an",
+      "cá nhân có nhu cầu",
+      "đơn vị nơi cá nhân đang công tác",
+      "các đơn vị trực thuộc",
+      "Sở Xây dựng",
+      "lãnh đạo Bộ Quốc phòng, Bộ Công an",
+      "khách hàng"
+    ],
+    "references": [],
+    "keywords": [
+      "chủ đầu tư",
+      "Bộ Quốc phòng",
+      "Bộ Công an",
+      "Sở Xây dựng",
+      "nhà ở cho lực lượng vũ trang",
+      "hồ sơ đăng ký",
+      "Danh sách",
+      "Hợp đồng mua bán"
+    ],
+    "tags": [
+      "trình_tự_thủ_tục",
+      "nhà_ở",
+      "lực lượng_vũ_trang",
+      "quản_lý_dự_án"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này liệt kê các bước và trách nhiệm cụ thể của nhiều chủ thể trong một quy trình."
+  },
+  {
+    "id": "54_2026_ND-CP__D37__K2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương IV",
+      "dieu": 37,
+      "dieu_title": "Sửa đổi, bổ sung Điều 68",
+      "khoan": 2
+    },
+    "input_text": "Trình tự, thủ tục cho thuê mua nhà ở cho lực lượng vũ trang nhân dân được thực hiện theo quy định tại khoản 1 Điều này.",
+    "summary": "Quy định trình tự, thủ tục cho thuê mua nhà ở cho lực lượng vũ trang nhân dân được áp dụng theo quy định tại khoản 1 Điều này.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [],
+      "actions": [
+        "cho thuê mua nhà ở"
+      ]
+    },
+    "doi_tuong": [
+      "lực lượng vũ trang nhân dân",
+      "chủ đầu tư"
+    ],
+    "references": [],
+    "keywords": [
+      "cho thuê mua",
+      "nhà ở",
+      "lực lượng vũ trang nhân dân",
+      "trình tự",
+      "thủ tục"
+    ],
+    "tags": [
+      "trình_tự",
+      "nhà_ở",
+      "lực lượng_vũ_trang"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này chỉ dẫn việc áp dụng một quy trình đã được định nghĩa trước đó."
+  },
+  {
+    "id": "54_2026_ND-CP__D37__K3",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương IV",
+      "dieu": 37,
+      "dieu_title": "Sửa đổi, bổ sung Điều 68",
+      "khoan": 3
+    },
+    "input_text": "Trình tự, thủ tục cho thuê nhà ở cho lực lượng vũ trang nhân dân được thực hiện theo quy định tại khoản 1 Điều này và không phải nộp các giấy tờ chứng minh điều kiện về nhà ở và thu nhập. Trường hợp thuê nhà ở cho lực lượng vũ trang nhân dân thuộc tài sản công thì người thuê nộp các giấy tờ chứng minh thuộc đối tượng được miễn, giảm tiền thuê nhà ở cho lực lượng vũ trang nhân dân (nếu có).”",
+    "summary": "Quy định trình tự, thủ tục cho thuê nhà ở cho lực lượng vũ trang nhân dân áp dụng theo khoản 1 và không phải nộp giấy tờ chứng minh điều kiện nhà ở, thu nhập; trường hợp thuê nhà thuộc tài sản công thì nộp giấy tờ chứng minh đối tượng được miễn, giảm tiền thuê.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "cho thuê nhà ở cho lực lượng vũ trang nhân dân",
+        "Trường hợp thuê nhà ở cho lực lượng vũ trang nhân dân thuộc tài sản công"
+      ],
+      "actions": [
+        "cho thuê nhà ở",
+        "nộp các giấy tờ chứng minh"
+      ]
+    },
+    "doi_tuong": [
+      "lực lượng vũ trang nhân dân",
+      "chủ đầu tư",
+      "người thuê"
+    ],
+    "references": [],
+    "keywords": [
+      "cho thuê nhà ở",
+      "lực lượng vũ trang nhân dân",
+      "tài sản công",
+      "giấy tờ chứng minh",
+      "miễn giảm tiền thuê"
+    ],
+    "tags": [
+      "trình_tự",
+      "nhà_ở",
+      "lực lượng_vũ_trang",
+      "tài_sản_công"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định một quy trình với điều kiện đặc biệt và nghĩa vụ cụ thể."
+  },
+  {
+    "id": "54_2026_ND-CP__D38__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương IV",
+      "dieu": 38,
+      "dieu_title": "Sửa đổi, bổ sung Điều 78",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 12 như sau: “12. Trường hợp đang cho thuê nhà ở xã hội theo quy định tại khoản 2 Điều 26 Nghị định số 100/2015/NĐ-CP thì chủ đầu tư được ưu tiên bán nhà ở cho người đang thuê nếu người thuê nhà ở có nhu cầu mua trước thời hạn 10 năm và đảm bảo đúng đối tượng, điều kiện theo quy định của Nghị định này hoặc bán lại nhà ở này cho Quỹ nhà ở quốc gia. Giá bán nhà ở xã hội đang cho thuê gồm: giá bán đã được thẩm định, xác định tại thời điểm xác định, thẩm định giá thuê, cộng với lãi vay bình quân hằng năm của các ngân hàng thương mại cổ phần nhà nước tương ứng với thời gian thuê và trừ đi phần giá trị khấu hao nhà ở. Giá trị khấu hao nhà ở được xác định bằng giá bán nhà ở đã được cơ quan nhà nước có thẩm quyền thẩm định nhân với thời gian đã thuê chia cho số năm thu hồi vốn đầu tư đã tính toán để cho thuê.”",
+    "summary": "Quy định chủ đầu tư được ưu tiên bán nhà ở xã hội cho người đang thuê trước thời hạn 10 năm hoặc bán lại cho Quỹ nhà ở quốc gia, và phương pháp tính giá bán nhà ở đang cho thuê.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "đang cho thuê nhà ở xã hội theo quy định tại khoản 2 Điều 26 Nghị định số 100/2015/NĐ-CP",
+        "người thuê nhà ở có nhu cầu mua trước thời hạn 10 năm và đảm bảo đúng đối tượng, điều kiện"
+      ],
+      "actions": [
+        "ưu tiên bán nhà ở cho người đang thuê",
+        "bán lại nhà ở này cho Quỹ nhà ở quốc gia"
+      ]
+    },
+    "doi_tuong": [
+      "chủ đầu tư",
+      "người đang thuê",
+      "Quỹ nhà ở quốc gia"
+    ],
+    "references": [
+      "Nghị định số 100/2015/NĐ-CP",
+      "Điều 26"
+    ],
+    "keywords": [
+      "chủ đầu tư",
+      "nhà ở xã hội",
+      "cho thuê",
+      "Quỹ nhà ở quốc gia",
+      "giá bán",
+      "khấu hao"
+    ],
+    "tags": [
+      "quyền",
+      "nhà_ở_xã_hội",
+      "giá_bán"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cho phép chủ đầu tư có các lựa chọn bán nhà ở và định ra cách tính giá."
+  },
+  {
+    "id": "54_2026_ND-CP__D39__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương V",
+      "dieu": 39,
+      "dieu_title": "Sửa đổi, bổ sung Nghị định số 140/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Xây dựng",
+      "khoan": 1
+    },
+    "input_text": "Sửa đổi, bổ sung khoản 2 Điều 9 như sau: “2. Trách nhiệm của đại diện chủ sở hữu nhà ở thuộc tài sản công là Ủy ban nhân dân cấp tỉnh tại khoản 1 Điều 15 Luật Nhà ở năm 2023 do Ủy ban nhân dân cấp xã thực hiện khi được phân cấp, ủy quyền.”",
+    "summary": "Quy định trách nhiệm của đại diện chủ sở hữu nhà ở thuộc tài sản công là Ủy ban nhân dân cấp tỉnh tại Điều 15 Luật Nhà ở 2023 do Ủy ban nhân dân cấp xã thực hiện khi được phân cấp, ủy quyền.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "khi được phân cấp, ủy quyền"
+      ],
+      "actions": [
+        "thực hiện"
+      ]
+    },
+    "doi_tuong": [
+      "Ủy ban nhân dân cấp tỉnh",
+      "Ủy ban nhân dân cấp xã"
+    ],
+    "references": [
+      "Luật Nhà ở năm 2023",
+      "Điều 9",
+      "Điều 15"
+    ],
+    "keywords": [
+      "Ủy ban nhân dân cấp tỉnh",
+      "Ủy ban nhân dân cấp xã",
+      "nhà ở thuộc tài sản công",
+      "Luật Nhà ở năm 2023",
+      "phân cấp",
+      "ủy quyền"
+    ],
+    "tags": [
+      "phân_cấp",
+      "nhà_ở",
+      "tài_sản_công"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này phân định lại thẩm quyền và trách nhiệm thực hiện của các cấp chính quyền."
+  },
+  {
+    "id": "54_2026_ND-CP__D40__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương V",
+      "dieu": 40,
+      "dieu_title": "Sửa đổi, bổ sung Nghị định số 144/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Xây dựng",
+      "khoan": 1
+    },
+    "input_text": "Bổ sung khoản 1a Điều 5 như sau: “1a. Trường hợp Văn phòng Trung ương Đảng được cấp có thẩm quyền giao thực hiện dự án đầu tư xây dựng nhà ở công vụ thì Chánh Văn phòng Trung ương Đảng quyết định chủ trương đầu tư, quyết định đầu tư, quyết định chủ đầu tư dự án và quyết định việc quản lý, vận hành theo quy định. Trình tự, thủ tục quyết định, điều chỉnh chủ trương đầu tư, quyết định đầu tư và quyết định chủ đầu tư dự án được áp dụng như quy định của pháp luật nhà ở, pháp luật đầu tư công.”",
+    "summary": "Quy định về thẩm quyền của Chánh Văn phòng Trung ương Đảng trong các quyết định về dự án đầu tư xây dựng nhà ở công vụ khi Văn phòng Trung ương Đảng được giao thực hiện dự án.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "Trường hợp Văn phòng Trung ương Đảng được cấp có thẩm quyền giao thực hiện dự án đầu tư xây dựng nhà ở công vụ"
+      ],
+      "actions": [
+        "quyết định chủ trương đầu tư",
+        "quyết định đầu tư",
+        "quyết định chủ đầu tư dự án",
+        "quyết định việc quản lý, vận hành"
+      ]
+    },
+    "doi_tuong": [
+      "Chánh Văn phòng Trung ương Đảng",
+      "Văn phòng Trung ương Đảng"
+    ],
+    "references": [
+      "Điều 5"
+    ],
+    "keywords": [
+      "Chánh Văn phòng Trung ương Đảng",
+      "Văn phòng Trung ương Đảng",
+      "nhà ở công vụ",
+      "chủ trương đầu tư",
+      "quyết định đầu tư",
+      "chủ đầu tư"
+    ],
+    "tags": [
+      "thẩm_quyền",
+      "nhà_ở_công_vụ",
+      "quyết_định"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này trao quyền quyết định cho một chủ thể cụ thể trong một trường hợp nhất định."
+  },
+  {
+    "id": "54_2026_ND-CP__D40__K2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương V",
+      "dieu": 40,
+      "dieu_title": "Sửa đổi, bổ sung Nghị định số 144/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Xây dựng",
+      "khoan": 2
+    },
+    "input_text": "Bãi bỏ Điều 23.",
+    "summary": "Bãi bỏ Điều 23 của Nghị định số 144/2025/NĐ-CP.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "bãi bỏ"
+      ]
+    },
+    "doi_tuong": [
+      "Chính phủ"
+    ],
+    "references": [
+      "Điều 23"
+    ],
+    "keywords": [
+      "bãi bỏ",
+      "Điều 23",
+      "Nghị định 144/2025/NĐ-CP"
+    ],
+    "tags": [
+      "sua_doi_bo_sung",
+      "dieu_khoan"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định việc hủy bỏ một điều khoản cụ thể trong văn bản pháp luật hiện hành."
+  },
+  {
+    "id": "54_2026_ND-CP__D41__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương VI",
+      "dieu": 41,
+      "dieu_title": "Điều khoản thi hành",
+      "khoan": 1
+    },
+    "input_text": "Nghị định này có hiệu lực thi hành từ ngày 09 tháng 02 năm 2026.",
+    "summary": "Quy định thời điểm Nghị định này bắt đầu có hiệu lực pháp luật.",
+    "normative": {
+      "clause_type": "unknown",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "có hiệu lực thi hành"
+      ]
+    },
+    "doi_tuong": [
+      "Chính phủ"
+    ],
+    "references": [],
+    "keywords": [
+      "hiệu lực thi hành",
+      "ngày 09/02/2026",
+      "Nghị định"
+    ],
+    "tags": [
+      "hieu_luc",
+      "dieu_khoan_thi_hanh"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này xác định thời điểm chính thức áp dụng văn bản pháp luật."
+  },
+  {
+    "id": "54_2026_ND-CP__D42__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương V",
+      "dieu": 42,
+      "dieu_title": "Quy định chuyển tiếp",
+      "khoan": 1
+    },
+    "input_text": "Đối với các hồ sơ đã nộp trước ngày Nghị định này có hiệu lực thi hành mà chưa ban hành kết quả giải quyết, cơ quan tiếp nhận hồ sơ không được yêu cầu nộp thêm giấy tờ (bản giấy) đối với thành phần hồ sơ đã được quy định tại Nghị định này, trừ trường hợp cơ sở dữ liệu đối với nội dung đó chưa được khai thác, vận hành.",
+    "summary": "Quy định cơ quan tiếp nhận hồ sơ không được yêu cầu nộp thêm bản giấy đối với hồ sơ đã nộp trước khi Nghị định có hiệu lực, trừ trường hợp cơ sở dữ liệu liên quan chưa vận hành.",
+    "normative": {
+      "clause_type": "prohibition",
+      "modal": [
+        "không được",
+        "được"
+      ],
+      "triggers": [
+        "hồ sơ đã nộp trước ngày Nghị định có hiệu lực",
+        "chưa ban hành kết quả giải quyết"
+      ],
+      "actions": [
+        "không được yêu cầu nộp thêm giấy tờ (bản giấy)"
+      ]
+    },
+    "doi_tuong": [
+      "cơ quan tiếp nhận hồ sơ"
+    ],
+    "references": [],
+    "keywords": [
+      "hồ sơ đã nộp",
+      "chuyển tiếp",
+      "cơ sở dữ liệu",
+      "khai thác vận hành",
+      "giấy tờ bản giấy"
+    ],
+    "tags": [
+      "quy_dinh_chuyen_tiep",
+      "ho_so",
+      "han_che"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này đặt ra một sự hạn chế (cấm) đối với cơ quan nhà nước trong việc yêu cầu bổ sung hồ sơ."
+  },
+  {
+    "id": "54_2026_ND-CP__D42__K2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương V",
+      "dieu": 42,
+      "dieu_title": "Quy định chuyển tiếp",
+      "khoan": 2
+    },
+    "input_text": "Đối với đơn vị đã được cơ quan quản lý nhà ở trực thuộc Bộ Xây dựng thông báo đơn vị đủ điều kiện quản lý vận hành nhà chung cư theo quy định tại Nghị định số 95/2024/NĐ-CP, trường hợp đơn vị có đề nghị bổ sung, sửa đổi nội dung trong văn bản thông báo thì cơ quan có thẩm quyền thông báo thay đổi thông tin là cơ quan quản lý nhà ở cấp tỉnh.",
+    "summary": "Quy định cơ quan có thẩm quyền thông báo thay đổi thông tin là cơ quan quản lý nhà ở cấp tỉnh, khi đơn vị quản lý vận hành nhà chung cư đã được thông báo đủ điều kiện theo Nghị định 95/2024 có đề nghị sửa đổi.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "đơn vị đã được thông báo đủ điều kiện theo Nghị định 95/2024",
+        "đơn vị có đề nghị bổ sung, sửa đổi nội dung trong văn bản thông báo"
+      ],
+      "actions": [
+        "thông báo thay đổi thông tin"
+      ]
+    },
+    "doi_tuong": [
+      "cơ quan có thẩm quyền",
+      "đơn vị quản lý vận hành nhà chung cư"
+    ],
+    "references": [
+      "Nghị định số 95/2024/NĐ-CP"
+    ],
+    "keywords": [
+      "quản lý vận hành nhà chung cư",
+      "thông báo đủ điều kiện",
+      "cơ quan quản lý nhà ở cấp tỉnh",
+      "sửa đổi bổ sung"
+    ],
+    "tags": [
+      "quy_dinh_chuyen_tiep",
+      "quan_ly_nha_chung_cu",
+      "thay_doi_thong_tin"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này cho phép và xác định thẩm quyền cho một hành động cụ thể (thông báo thay đổi)."
+  },
+  {
+    "id": "54_2026_ND-CP__D42__K3",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương V",
+      "dieu": 42,
+      "dieu_title": "Quy định chuyển tiếp",
+      "khoan": 3
+    },
+    "input_text": "Kể từ ngày Nghị định số 95/2024/NĐ-CP có hiệu lực thi hành đến trước thời điểm Nghị định này có hiệu lực thi hành, các đơn vị quản lý vận hành nhà chung cư đã được đăng tải đơn vị đủ điều kiện quản lý vận hành theo quy định của pháp luật về nhà ở trước ngày Nghị định số 95/2024/NĐ-CP có hiệu lực thi hành mà chưa gửi hồ sơ hoặc đã gửi hồ sơ nhưng chưa được trả kết quả để được xem xét, thông báo đơn vị đủ điều kiện quản lý vận hành nhà chung cư thì không phải thực hiện quy định tại khoản 8 Điều 95 Nghị định số 95/2024/NĐ-CP, trừ trường hợp có thay đổi về thông tin, nội dung cung cấp dịch vụ hoặc không đáp ứng điều kiện theo quy định tại khoản 6 Điều 198 Luật Nhà ở.",
+    "summary": "Miễn trừ nghĩa vụ thực hiện quy định tại khoản 8 Điều 95 Nghị định 95/2024 cho các đơn vị quản lý vận hành nhà chung cư đã được đăng tải đủ điều kiện trước khi Nghị định 95/2024 có hiệu lực, trong một khoảng thời gian nhất định và với các điều kiện ngoại lệ.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "phải",
+        "được"
+      ],
+      "triggers": [
+        "đơn vị đã được đăng tải đủ điều kiện trước ngày Nghị định 95/2024 có hiệu lực",
+        "chưa gửi hoặc chưa được trả kết quả hồ sơ xét đủ điều kiện theo Nghị định 95/2024",
+        "trong khoảng thời gian từ khi Nghị định 95/2024 có hiệu lực đến trước khi Nghị định này có hiệu lực"
+      ],
+      "actions": [
+        "không phải thực hiện quy định tại khoản 8 Điều 95 Nghị định 95/2024"
+      ]
+    },
+    "doi_tuong": [
+      "đơn vị quản lý vận hành nhà chung cư"
+    ],
+    "references": [
+      "Nghị định số 95/2024/NĐ-CP",
+      "luật về nhà ở trước ngày Nghị định số 95/2024",
+      "Điều 95",
+      "Điều 198"
+    ],
+    "keywords": [
+      "đơn vị quản lý vận hành",
+      "nhà chung cư",
+      "miễn trừ nghĩa vụ",
+      "điều kiện theo Luật Nhà ở",
+      "quy định chuyển tiếp"
+    ],
+    "tags": [
+      "quy_dinh_chuyen_tiep",
+      "mien_tru",
+      "quan_ly_nha_chung_cu"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định một nghĩa vụ bị miễn trừ (không phải thực hiện) cho một nhóm đối tượng cụ thể trong điều kiện nhất định."
+  },
+  {
+    "id": "54_2026_ND-CP__D42__K4",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương V",
+      "dieu": 42,
+      "dieu_title": "Quy định chuyển tiếp",
+      "khoan": 4
+    },
+    "input_text": "Trường hợp chủ đầu tư đã thực hiện tiếp nhận hồ sơ đăng ký mua, thuê mua theo quy định của Nghị định số 100/2024/NĐ-CP thì tiếp tục thực hiện theo trình tự, thủ tục của Nghị định số 100/2024/NĐ-CP. Trường hợp chưa tiếp nhận hồ sơ đăng ký thì thực hiện theo quy định của Nghị định này.",
+    "summary": "Quy định trình tự, thủ tục áp dụng cho việc tiếp nhận hồ sơ đăng ký mua, thuê mua nhà ở tùy thuộc vào thời điểm chủ đầu tư đã thực hiện việc tiếp nhận hay chưa.",
+    "normative": {
+      "clause_type": "procedure",
+      "modal": [],
+      "triggers": [
+        "chủ đầu tư đã thực hiện tiếp nhận hồ sơ đăng ký mua, thuê mua theo Nghị định 100/2024",
+        "chủ đầu tư chưa tiếp nhận hồ sơ đăng ký"
+      ],
+      "actions": [
+        "tiếp tục thực hiện theo Nghị định 100/2024",
+        "thực hiện theo Nghị định này"
+      ]
+    },
+    "doi_tuong": [
+      "chủ đầu tư"
+    ],
+    "references": [
+      "Nghị định số 100/2024/NĐ-CP"
+    ],
+    "keywords": [
+      "chủ đầu tư",
+      "hồ sơ đăng ký mua thuê mua",
+      "trình tự thủ tục",
+      "Nghị định 100/2024"
+    ],
+    "tags": [
+      "quy_dinh_chuyen_tiep",
+      "trinh_tu_thu_tuc",
+      "chu_dau_tu"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định thủ tục (procedure) cần tuân theo dựa trên tình trạng thực tế của hồ sơ."
+  },
+  {
+    "id": "54_2026_ND-CP__D42__K5",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương V",
+      "dieu": 42,
+      "dieu_title": "Quy định chuyển tiếp",
+      "khoan": 5
+    },
+    "input_text": "Các giấy tờ chứng minh đối tượng, điều kiện được hưởng chính sách hỗ trợ về nhà ở xã hội đã được cơ quan có thẩm quyền xác nhận theo quy định trước ngày Nghị định này có hiệu lực thi hành thì tiếp tục được sử dụng và có giá trị trong thời hạn 12 tháng, kể từ ngày được xác nhận.",
+    "summary": "Quy định các giấy tờ chứng minh đối tượng, điều kiện hưởng chính sách nhà ở xã hội đã được xác nhận trước khi Nghị định có hiệu lực vẫn được sử dụng và có giá trị trong vòng 12 tháng kể từ ngày xác nhận.",
+    "normative": {
+      "clause_type": "permission",
+      "modal": [
+        "được"
+      ],
+      "triggers": [
+        "giấy tờ đã được cơ quan có thẩm quyền xác nhận trước ngày Nghị định này có hiệu lực"
+      ],
+      "actions": [
+        "tiếp tục được sử dụng",
+        "có giá trị"
+      ]
+    },
+    "doi_tuong": [
+      "cá nhân/tổ chức được hưởng chính sách"
+    ],
+    "references": [],
+    "keywords": [
+      "giấy tờ chứng minh",
+      "nhà ở xã hội",
+      "có giá trị",
+      "thời hạn 12 tháng",
+      "xác nhận"
+    ],
+    "tags": [
+      "quy_dinh_chuyen_tiep",
+      "gia_tri_phap_ly",
+      "nha_o_xa_hoi"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này trao quyền (permission) tiếp tục sử dụng các giấy tờ đã cấp trước đó trong một thời hạn nhất định."
+  },
+  {
+    "id": "54_2026_ND-CP__D43__K1",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương V",
+      "dieu": 43,
+      "dieu_title": "Trách nhiệm tổ chức thực hiện",
+      "khoan": 1
+    },
+    "input_text": "Bộ trưởng Bộ Xây dựng có trách nhiệm hướng dẫn và tổ chức thực hiện Nghị định này.",
+    "summary": "Quy định trách nhiệm của Bộ trưởng Bộ Xây dựng trong việc hướng dẫn và tổ chức thực hiện Nghị định này.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [
+        "có trách nhiệm"
+      ],
+      "triggers": [],
+      "actions": [
+        "hướng dẫn",
+        "tổ chức thực hiện"
+      ]
+    },
+    "doi_tuong": [
+      "Bộ trưởng Bộ Xây dựng"
+    ],
+    "references": [],
+    "keywords": [
+      "Bộ trưởng Bộ Xây dựng",
+      "trách nhiệm",
+      "hướng dẫn",
+      "tổ chức thực hiện"
+    ],
+    "tags": [
+      "trach_nhiem_to_chuc",
+      "bo_truong"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này giao một nghĩa vụ (obligation) cụ thể cho một chủ thể là Bộ trưởng."
+  },
+  {
+    "id": "54_2026_ND-CP__D43__K2",
+    "doc_id": "54_2026_ND-CP",
+    "doc_meta": {
+      "so_hieu": "54/2026/NĐ-CP",
+      "co_quan_ban_hanh": "Chính phủ",
+      "ngay_ban_hanh": "2026-02-09"
+    },
+    "path": {
+      "chuong": "Chương V",
+      "dieu": 43,
+      "dieu_title": "Trách nhiệm tổ chức thực hiện",
+      "khoan": 2
+    },
+    "input_text": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các cơ quan liên quan chịu trách nhiệm tổ chức thực hiện Nghị định này. Nơi nhận:\n- Ban Bí thư Trung ương Đảng;\n- Thủ tướng, các Phó Thủ tướng Chính phủ;\n- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;\n- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;\n- Văn phòng Trung ương và các Ban của Đảng;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Chủ tịch nước;\n- Hội đồng Dân tộc và các Ủy ban của Quốc hội;\n- Văn phòng Quốc hội;\n- Tòa án nhân dân tối cao;\n- Viện kiểm sát nhân dân tối cao;\n- Kiểm toán nhà nước;\n- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;\n- Cơ quan trung ương của các tổ chức chính trị - xã hội;\n- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo;\n- Lưu: VT, CN (2b). TM. CHÍNH PHỦ\nKT. THỦ TƯỚNG\nPHÓ THỦ TƯỚNG\n\n\n\n\nTrần Hồng Hà",
+    "summary": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch UBND tỉnh, thành phố trực thuộc trung ương và các cơ quan liên quan có trách nhiệm tổ chức thực hiện Nghị định này.",
+    "normative": {
+      "clause_type": "obligation",
+      "modal": [],
+      "triggers": [],
+      "actions": [
+        "tổ chức thực hiện"
+      ]
+    },
+    "doi_tuong": [
+      "Bộ trưởng",
+      "Thủ trưởng cơ quan ngang bộ",
+      "Thủ trưởng cơ quan thuộc Chính phủ",
+      "Chủ tịch Ủy ban nhân dân tỉnh thành phố trực thuộc trung ương",
+      "cơ quan liên quan"
+    ],
+    "references": [],
+    "keywords": [
+      "Bộ trưởng",
+      "Thủ trưởng",
+      "Chủ tịch UBND",
+      "Nghị định",
+      "trách nhiệm"
+    ],
+    "tags": [
+      "trach_nhiem",
+      "to_chuc_thuc_hien"
+    ],
+    "sanctions": {},
+    "nhom": null,
+    "nhom_confidence": 0.0,
+    "nhom_source": "none",
+    "reasoning": "Khoản này quy định trách nhiệm tổ chức thực hiện của các chủ thể trong hệ thống hành chính."
+  }
+]
